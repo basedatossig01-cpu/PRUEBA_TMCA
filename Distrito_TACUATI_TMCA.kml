@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_TACUATI.schema">
+      <SimpleField name="Cédula" type="double"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="Shape_Leng" type="double"/>
+      <SimpleField name="Shape_Area" type="double"/>
+      <SimpleField name="N" type="double"/>
+      <SimpleField name="Nombres_y_" type="string"/>
+      <SimpleField name="Cédula_1" type="double"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio_de_" type="string"/>
+      <SimpleField name="Titular_se" type="string"/>
+      <SimpleField name="Cédula_Ti" type="string"/>
+      <SimpleField name="Situación" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="Teléfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="double"/>
+      <SimpleField name="Vivienda_1" type="double"/>
+      <SimpleField name="Parcela_La" type="double"/>
+      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Grupo_de_p" type="string"/>
+      <SimpleField name="Estado_del" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Etapa_de_i" type="string"/>
+      <SimpleField name="Cantidad_d" type="double"/>
+      <SimpleField name="F25" type="string"/>
+      <SimpleField name="OBJECTID_1" type="int"/>
+    </Schema>
+    <Document id="Distrito_TACUATI">
+      <name>Distrito_TACUATI</name>
+      <Placemark id="Distrito_TACUATI.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_TACUATI.schema">
+            <SimpleData name="Cédula">2295738.00000000000</SimpleData>
+            <SimpleData name="cedula">2295738</SimpleData>
+            <SimpleData name="Shape_Leng">393.41420228000</SimpleData>
+            <SimpleData name="Shape_Area">8209.29791540000</SimpleData>
+            <SimpleData name="N">29.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LIDUVINA ESQUIVEL DE AGUIRRE</SimpleData>
+            <SimpleData name="Cédula_1">2295738.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">TACUATI</SimpleData>
+            <SimpleData name="Localidad">YVAMINDY</SimpleData>
+            <SimpleData name="Teléfono">0984795309</SimpleData>
+            <SimpleData name="Vivienda_L">-23.50975950000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.29558320000</SimpleData>
+            <SimpleData name="Parcela_La">-23.50891067000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.29266716000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">29</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2923312998214,-23.5094165997012,0
+                -56.292731400426,-23.5094690996862,0
+                -56.2932880998978,-23.5089334001944,0
+                -56.292311700412,-23.5081630001851,0
+                -56.2923312998214,-23.5094165997012,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_TACUATI.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_TACUATI.schema">
+            <SimpleData name="Cédula">7291978.00000000000</SimpleData>
+            <SimpleData name="cedula">7291978</SimpleData>
+            <SimpleData name="Shape_Leng">372.58182103100</SimpleData>
+            <SimpleData name="Shape_Area">8460.45548757000</SimpleData>
+            <SimpleData name="N">25.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARIA TERESA SANCHEZ ORTELLADO</SimpleData>
+            <SimpleData name="Cédula_1">7291978.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">TACUATI</SimpleData>
+            <SimpleData name="Localidad">YVAMINDY</SimpleData>
+            <SimpleData name="Teléfono">0984970693</SimpleData>
+            <SimpleData name="Vivienda_L">-23.50972120000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.29553860000</SimpleData>
+            <SimpleData name="Parcela_La">-23.50979135000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.30574936000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">25</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.3054012002779,-23.5092719998945,0
+                -56.3053090998084,-23.510302799862,0
+                -56.3061085999396,-23.5102004003467,0
+                -56.3062507998151,-23.5094226002714,0
+                -56.3054012002779,-23.5092719998945,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_TACUATI.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_TACUATI.schema">
+            <SimpleData name="Cédula">4124661.00000000000</SimpleData>
+            <SimpleData name="cedula">4124661</SimpleData>
+            <SimpleData name="Shape_Leng">491.83149641600</SimpleData>
+            <SimpleData name="Shape_Area">8682.68160192000</SimpleData>
+            <SimpleData name="N">26.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">VICENTE AGUIRRE BENITEZ</SimpleData>
+            <SimpleData name="Cédula_1">4124661.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">TACUATI</SimpleData>
+            <SimpleData name="Localidad">YVAMINDY</SimpleData>
+            <SimpleData name="Teléfono">0975526720</SimpleData>
+            <SimpleData name="Vivienda_L">-23.50974310000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.29552470000</SimpleData>
+            <SimpleData name="Parcela_La">-23.50741964000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.29597910000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">26</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2959218922701,-23.5081498639506,0
+                -56.2964694818532,-23.5083411840813,0
+                -56.2959370621016,-23.5065287538842,0
+                -56.295538792162,-23.5065306645373,0
+                -56.2959218922701,-23.5081498639506,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_TACUATI.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_TACUATI.schema">
+            <SimpleData name="Cédula">6115786.00000000000</SimpleData>
+            <SimpleData name="cedula">6115786</SimpleData>
+            <SimpleData name="Shape_Leng">432.84864246100</SimpleData>
+            <SimpleData name="Shape_Area">9811.60246369000</SimpleData>
+            <SimpleData name="N">27.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">FERMIN MARTINEZ BRITEZ</SimpleData>
+            <SimpleData name="Cédula_1">6115786.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">TACUATI</SimpleData>
+            <SimpleData name="Localidad">YVAMINDY</SimpleData>
+            <SimpleData name="Teléfono">0986910150</SimpleData>
+            <SimpleData name="Vivienda_L">-23.50974930000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.29554420000</SimpleData>
+            <SimpleData name="Parcela_La">-23.50823759000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.29292168000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">27</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2923173003127,-23.5081543003405,0
+                -56.2933079001854,-23.5089215004427,0
+                -56.293693300356,-23.5085517003711,0
+                -56.2925556003143,-23.5075217001913,0
+                -56.2922892004473,-23.50777349987,0
+                -56.2922904996161,-23.5078010997256,0
+                -56.2923173003127,-23.5081543003405,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_TACUATI.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_TACUATI.schema">
+            <SimpleData name="Cédula">7266414.00000000000</SimpleData>
+            <SimpleData name="cedula">7266414</SimpleData>
+            <SimpleData name="Shape_Leng">397.91159607200</SimpleData>
+            <SimpleData name="Shape_Area">8282.62630182000</SimpleData>
+            <SimpleData name="N">30.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MIRTA AGUIRRE ESQUIVEL</SimpleData>
+            <SimpleData name="Cédula_1">7266414.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">TACUATI</SimpleData>
+            <SimpleData name="Localidad">YVAMINDY</SimpleData>
+            <SimpleData name="Teléfono">ND</SimpleData>
+            <SimpleData name="Vivienda_L">-23.50971570000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.29551860000</SimpleData>
+            <SimpleData name="Parcela_La">-23.50688326000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.29398883000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">30</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.29434219971,-23.5076701003844,0
+                -56.2943700001234,-23.5076766998502,0
+                -56.2943732002761,-23.5068303004741,0
+                -56.2942743003567,-23.5065572999044,0
+                -56.2938665995251,-23.5062484997755,0
+                -56.2933832998384,-23.5067333003447,0
+                -56.29434219971,-23.5076701003844,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_TACUATI.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_TACUATI.schema">
+            <SimpleData name="Cédula">4038346.00000000000</SimpleData>
+            <SimpleData name="cedula">4038346</SimpleData>
+            <SimpleData name="Shape_Leng">506.79102731500</SimpleData>
+            <SimpleData name="Shape_Area">9050.42157925000</SimpleData>
+            <SimpleData name="N">17.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARGARITA GIMENEZ NAVARRO</SimpleData>
+            <SimpleData name="Cédula_1">4038346.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">TACUATI</SimpleData>
+            <SimpleData name="Localidad">6 DE ENERO</SimpleData>
+            <SimpleData name="Teléfono">0973832275</SimpleData>
+            <SimpleData name="Vivienda_L">-23.51524590000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.77282360000</SimpleData>
+            <SimpleData name="Parcela_La">-23.51705078000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.77302698000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">17</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.7727826004607,-23.5160816997165,0
+                -56.7728497002501,-23.5179984998983,0
+                -56.7732950001844,-23.5179632001198,0
+                -56.7731796996307,-23.5160846000684,0
+                -56.7727826004607,-23.5160816997165,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_TACUATI.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_TACUATI.schema">
+            <SimpleData name="Cédula">4711720.00000000000</SimpleData>
+            <SimpleData name="cedula">4711720</SimpleData>
+            <SimpleData name="Shape_Leng">374.32334004300</SimpleData>
+            <SimpleData name="Shape_Area">8428.81289304000</SimpleData>
+            <SimpleData name="N">34.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">EMILCE RAMONA OVELAR PRIETO</SimpleData>
+            <SimpleData name="Cédula_1">4711720.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">TACUATI</SimpleData>
+            <SimpleData name="Localidad">TACUATI POTY</SimpleData>
+            <SimpleData name="Teléfono">0975606209</SimpleData>
+            <SimpleData name="Vivienda_L">-23.49086150000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.80145910000</SimpleData>
+            <SimpleData name="Parcela_La">-23.49034409000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.80241189000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">34</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.8017640002486,-23.4902735001259,0
+                -56.8020403998308,-23.4908707997478,0
+                -56.8030830001878,-23.4904108998301,0
+                -56.8027650003564,-23.4898383002663,0
+                -56.8024840995286,-23.4899305998595,0
+                -56.8017640002486,-23.4902735001259,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_TACUATI.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_TACUATI.schema">
+            <SimpleData name="Cédula">3905885.00000000000</SimpleData>
+            <SimpleData name="cedula">3905885</SimpleData>
+            <SimpleData name="Shape_Leng">432.97161516000</SimpleData>
+            <SimpleData name="Shape_Area">8087.77744020000</SimpleData>
+            <SimpleData name="N">18.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">EDUARDA LOPEZ DE MUJICA</SimpleData>
+            <SimpleData name="Cédula_1">3905885.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">TACUATI</SimpleData>
+            <SimpleData name="Localidad">8 DE DICIEMBRE</SimpleData>
+            <SimpleData name="Teléfono">0971746295</SimpleData>
+            <SimpleData name="Vivienda_L">-23.51957860000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.78195090000</SimpleData>
+            <SimpleData name="Parcela_La">-23.51926077000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.78327618000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">18</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.7824457998617,-23.5191006002346,0
+                -56.7824344001315,-23.5195152000083,0
+                -56.7841034000189,-23.5194400000418,0
+                -56.7840682995062,-23.5189863003578,0
+                -56.7824457998617,-23.5191006002346,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_TACUATI.9">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_TACUATI.schema">
+            <SimpleData name="Cédula">7234909.00000000000</SimpleData>
+            <SimpleData name="cedula">7234909</SimpleData>
+            <SimpleData name="Shape_Leng">400.02670659700</SimpleData>
+            <SimpleData name="Shape_Area">8998.02980537000</SimpleData>
+            <SimpleData name="N">31.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CLAUDIA MENDEZ BEGAL</SimpleData>
+            <SimpleData name="Cédula_1">7234909.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">TACUATI</SimpleData>
+            <SimpleData name="Localidad">YVAMINDY</SimpleData>
+            <SimpleData name="Teléfono">0976762919</SimpleData>
+            <SimpleData name="Vivienda_L">-23.50974140000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.29557140000</SimpleData>
+            <SimpleData name="Parcela_La">-23.48440788000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.28324995000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">31</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2833926001507,-23.4848108998627,0
+                -56.2835740004254,-23.4848531003479,0
+                -56.2836517001113,-23.4848321003396,0
+                -56.2839105999189,-23.4847172000879,0
+                -56.2840424998107,-23.4846065999236,0
+                -56.2840470003325,-23.4845523999673,0
+                -56.283996100423,-23.4844788998045,0
+                -56.2827380997492,-23.4838164999736,0
+                -56.2826598996357,-23.4840388999859,0
+                -56.2826646003304,-23.4843027996979,0
+                -56.2826868999665,-23.4845683999021,0
+                -56.283095428319,-23.4847036762713,0
+                -56.2833926001507,-23.4848108998627,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_TACUATI.10">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_TACUATI.schema">
+            <SimpleData name="Cédula">6959431.00000000000</SimpleData>
+            <SimpleData name="cedula">6959431</SimpleData>
+            <SimpleData name="Shape_Leng">365.30690203200</SimpleData>
+            <SimpleData name="Shape_Area">8393.66381072000</SimpleData>
+            <SimpleData name="N">33.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">YOHANA SOLEDAD AMARILLA MENDOZA</SimpleData>
+            <SimpleData name="Cédula_1">6959431.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 4</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">TACUATI</SimpleData>
+            <SimpleData name="Localidad">SAN PEDRO POTY</SimpleData>
+            <SimpleData name="Teléfono">0972611720</SimpleData>
+            <SimpleData name="Vivienda_L">-23.68251060000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.88265210000</SimpleData>
+            <SimpleData name="Parcela_La">-23.68350838000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.88286951000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">33</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.8823503997831,-23.6835312003327,0
+                -56.8825232997748,-23.6839763998432,0
+                -56.8834557004437,-23.6837580002786,0
+                -56.8833082996613,-23.6831576003879,0
+                -56.8832780003366,-23.6830789998527,0
+                -56.8822846999532,-23.6832208997883,0
+                -56.8823503997831,-23.6835312003327,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_TACUATI.11">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_TACUATI.schema">
+            <SimpleData name="Cédula">6716901.00000000000</SimpleData>
+            <SimpleData name="cedula">6716901</SimpleData>
+            <SimpleData name="Shape_Leng">465.64558215400</SimpleData>
+            <SimpleData name="Shape_Area">10091.65573310000</SimpleData>
+            <SimpleData name="N">21.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ANAI DIAZ ACOSTA</SimpleData>
+            <SimpleData name="Cédula_1">6716901.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">TACUATI</SimpleData>
+            <SimpleData name="Localidad">ASENT. SENDERO DEL NORTE</SimpleData>
+            <SimpleData name="Teléfono">0982812510</SimpleData>
+            <SimpleData name="Vivienda_L">-23.52581180000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.81894280000</SimpleData>
+            <SimpleData name="Parcela_La">-23.52666417000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.81753138000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">21</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.8166567003454,-23.5267481997309,0
+                -56.8168867001559,-23.5272532997249,0
+                -56.8184138997965,-23.5265484998851,0
+                -56.8182208997451,-23.5260852997219,0
+                -56.8166567003454,-23.5267481997309,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_TACUATI.12">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_TACUATI.schema">
+            <SimpleData name="Cédula">8159141.00000000000</SimpleData>
+            <SimpleData name="cedula">8159141</SimpleData>
+            <SimpleData name="Shape_Leng">509.07072690900</SimpleData>
+            <SimpleData name="Shape_Area">7026.32506093000</SimpleData>
+            <SimpleData name="N">32.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LIZ MABEL CHILAVERT SILVA</SimpleData>
+            <SimpleData name="Cédula_1">8159141.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 4</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">TACUATI</SimpleData>
+            <SimpleData name="Localidad">SAN PEDRO POTY</SimpleData>
+            <SimpleData name="Teléfono">0984411506</SimpleData>
+            <SimpleData name="Vivienda_L">-23.69721110000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.89066120000</SimpleData>
+            <SimpleData name="Parcela_La">-23.69677400000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.89571570000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">32</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.8941438000723,-23.6966016004464,0
+                  -56.8944051997122,-23.6970048999565,0
+                  -56.8946410002133,-23.6967804000565,0
+                  -56.8945301001434,-23.6964892000609,0
+                  -56.8941438000723,-23.6966016004464,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.8953842997739,-23.6965567999676,0
+                  -56.8964899004239,-23.697307500088,0
+                  -56.8966050001451,-23.6966928999799,0
+                  -56.8954927002919,-23.6964047003995,0
+                  -56.8953842997739,-23.6965567999676,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_TACUATI.13">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_TACUATI.schema">
+            <SimpleData name="Cédula">7412358.00000000000</SimpleData>
+            <SimpleData name="cedula">7412358</SimpleData>
+            <SimpleData name="Shape_Leng">669.07605694900</SimpleData>
+            <SimpleData name="Shape_Area">8137.20128122000</SimpleData>
+            <SimpleData name="N">22.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">HECTOR LARREA DUARTE</SimpleData>
+            <SimpleData name="Cédula_1">7412358.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">TACUATI</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[GUA'AY-KAPIITINDY]]></SimpleData>
+            <SimpleData name="Teléfono">0971420664</SimpleData>
+            <SimpleData name="Vivienda_L">-23.42748090000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.22454640000</SimpleData>
+            <SimpleData name="Parcela_La">-23.43171466000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.21135207000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">3.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">22</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.2115095999559,-23.4320433001097,0
+                  -56.2115986996776,-23.4320485001591,0
+                  -56.2116551001325,-23.4317760997204,0
+                  -56.2116553002991,-23.4317676003745,0
+                  -56.2116477001946,-23.4314748005385,0
+                  -56.2110762995702,-23.4314233998425,0
+                  -56.2110051998506,-23.4318046000665,0
+                  -56.2110422998357,-23.4318764999723,0
+                  -56.2115095999559,-23.4320433001097,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.2147622995651,-23.430939300382,0
+                  -56.2148121998172,-23.4310152001173,0
+                  -56.2148932003991,-23.4310006001436,0
+                  -56.2150753003129,-23.4308789003585,0
+                  -56.2150824002766,-23.4308369003082,0
+                  -56.2148878999737,-23.430383300506,0
+                  -56.2147932001542,-23.4301464002478,0
+                  -56.2147569999312,-23.430126899773,0
+                  -56.2146544002455,-23.4301325998516,0
+                  -56.2144755996037,-23.430202300164,0
+                  -56.2144651995122,-23.4302407004437,0
+                  -56.2146326999885,-23.4306072003966,0
+                  -56.2146722001932,-23.430767199732,0
+                  -56.2146973995906,-23.4308684998361,0
+                  -56.2147622995651,-23.430939300382,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.2152268003027,-23.4306238001445,0
+                  -56.2152759001859,-23.4306266997186,0
+                  -56.2153150004455,-23.4306170997105,0
+                  -56.2153827999813,-23.4305305002455,0
+                  -56.2151840000738,-23.4299806997918,0
+                  -56.2150931002414,-23.4299568002766,0
+                  -56.2150303000169,-23.429916699705,0
+                  -56.2150648995899,-23.4301027001947,0
+                  -56.2152268003027,-23.4306238001445,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_TACUATI.14">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_TACUATI.schema">
+            <SimpleData name="Cédula">7424672.00000000000</SimpleData>
+            <SimpleData name="cedula">7424672</SimpleData>
+            <SimpleData name="Shape_Leng">397.38530798600</SimpleData>
+            <SimpleData name="Shape_Area">8701.17720218000</SimpleData>
+            <SimpleData name="N">23.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LEONIDA DUARTE MARTINEZ</SimpleData>
+            <SimpleData name="Cédula_1">7424672.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">TACUATI</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[GUA'AY-KAPIITINDY]]></SimpleData>
+            <SimpleData name="Teléfono">0971480232</SimpleData>
+            <SimpleData name="Vivienda_L">-23.42748830000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.22460140000</SimpleData>
+            <SimpleData name="Parcela_La">-23.43016986000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.21077079000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">23</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2100604997764,-23.4301203001166,0
+                -56.211193800434,-23.4307483998516,0
+                -56.2114677998978,-23.4302681004888,0
+                -56.2104269998233,-23.4295746002126,0
+                -56.2100604997764,-23.4301203001166,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_TACUATI.15">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_TACUATI.schema">
+            <SimpleData name="Cédula">7705392.00000000000</SimpleData>
+            <SimpleData name="cedula">7705392</SimpleData>
+            <SimpleData name="Shape_Leng">352.46969125600</SimpleData>
+            <SimpleData name="Shape_Area">7188.09059975000</SimpleData>
+            <SimpleData name="N">19.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">DAMARIS ELIZABETH LUJAN IRALA</SimpleData>
+            <SimpleData name="Cédula_1">7705392.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 4</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">TACUATI</SimpleData>
+            <SimpleData name="Localidad">ASENT. 12 DE JUNIO</SimpleData>
+            <SimpleData name="Teléfono">0981061524</SimpleData>
+            <SimpleData name="Vivienda_L">-23.69092180000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.86112450000</SimpleData>
+            <SimpleData name="Parcela_La">-23.68659941000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.86460849000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">19</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.864029400172,-23.6868230999121,0
+                -56.8644989002678,-23.6871739000859,0
+                -56.8651741003509,-23.6864502000754,0
+                -56.8647238003693,-23.6859880001858,0
+                -56.864029400172,-23.6868230999121,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_TACUATI.16">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_TACUATI.schema">
+            <SimpleData name="Cédula">6105304.00000000000</SimpleData>
+            <SimpleData name="cedula">6105304</SimpleData>
+            <SimpleData name="Shape_Leng">347.28350642700</SimpleData>
+            <SimpleData name="Shape_Area">7105.62115960000</SimpleData>
+            <SimpleData name="N">20.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LIZ MARIA CABALLERO GALEANO</SimpleData>
+            <SimpleData name="Cédula_1">6105304.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 4</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">TACUATI</SimpleData>
+            <SimpleData name="Localidad">ASENT. 12 DE JUNIO</SimpleData>
+            <SimpleData name="Teléfono">0971481135</SimpleData>
+            <SimpleData name="Vivienda_L">-23.69029040000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.86100910000</SimpleData>
+            <SimpleData name="Parcela_La">-23.68744930000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.86391812000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">20</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.863370000341,-23.6876000001993,0
+                -56.8637719995732,-23.6880382999341,0
+                -56.8644963001716,-23.6873174002265,0
+                -56.8639962001382,-23.6868641999723,0
+                -56.863370000341,-23.6876000001993,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_TACUATI.17">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_TACUATI.schema">
+            <SimpleData name="Cédula">8144045.00000000000</SimpleData>
+            <SimpleData name="cedula">8144045</SimpleData>
+            <SimpleData name="Shape_Leng">345.47243131300</SimpleData>
+            <SimpleData name="Shape_Area">7047.64313617000</SimpleData>
+            <SimpleData name="N">24.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ZONIA BENITEZ BENITEZ</SimpleData>
+            <SimpleData name="Cédula_1">8144045.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 4</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">TACUATI</SimpleData>
+            <SimpleData name="Localidad">JEROKY ROKA -URUKUTY</SimpleData>
+            <SimpleData name="Teléfono">0983710849</SimpleData>
+            <SimpleData name="Vivienda_L">-23.40087950000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.36836660000</SimpleData>
+            <SimpleData name="Parcela_La">-23.39947583000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.36914483000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">24</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.3684709668815,-23.3994372860759,0
+                -56.3688047603587,-23.3998227000634,0
+                -56.3694313896141,-23.3998088504608,0
+                -56.3698178004713,-23.3992084999763,0
+                -56.3697856984587,-23.3991792331465,0
+                -56.369538414176,-23.3991773588607,0
+                -56.3693784076457,-23.3991729820247,0
+                -56.3691425423939,-23.3991698353245,0
+                -56.3689718392224,-23.3991646471285,0
+                -56.3688564778317,-23.3992227795233,0
+                -56.3687113221797,-23.3992958235725,0
+                -56.3685530415964,-23.3993788009161,0
+                -56.3685653473145,-23.3993911403985,0
+                -56.3684709668815,-23.3994372860759,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_TACUATI.18">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_TACUATI.schema">
+            <SimpleData name="Cédula">7313067.00000000000</SimpleData>
+            <SimpleData name="cedula">7313067</SimpleData>
+            <SimpleData name="Shape_Leng">391.78899065700</SimpleData>
+            <SimpleData name="Shape_Area">7864.67708709000</SimpleData>
+            <SimpleData name="N">28.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">IDELIN RAMIREZ CARRILLO</SimpleData>
+            <SimpleData name="Cédula_1">7313067.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">TACUATI</SimpleData>
+            <SimpleData name="Localidad">YVAMINDY</SimpleData>
+            <SimpleData name="Teléfono">0981725495</SimpleData>
+            <SimpleData name="Vivienda_L">-23.50973810000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.29550620000</SimpleData>
+            <SimpleData name="Parcela_La">-23.50740972000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.29364971000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">28</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2930083557617,-23.507123655328,0
+                -56.2939136562405,-23.508022355384,0
+                -56.2943387559461,-23.5076673551929,0
+                -56.2933572560359,-23.5067490548163,0
+                -56.2930083557617,-23.507123655328,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

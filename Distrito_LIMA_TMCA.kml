@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_LIMA.schema">
+      <SimpleField name="Cédula" type="double"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="Shape_Leng" type="double"/>
+      <SimpleField name="Shape_Area" type="double"/>
+      <SimpleField name="N" type="double"/>
+      <SimpleField name="Nombres_y_" type="string"/>
+      <SimpleField name="Cédula_1" type="double"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio_de_" type="string"/>
+      <SimpleField name="Titular_se" type="string"/>
+      <SimpleField name="Cédula_Ti" type="string"/>
+      <SimpleField name="Situación" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="Teléfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="double"/>
+      <SimpleField name="Vivienda_1" type="double"/>
+      <SimpleField name="Parcela_La" type="double"/>
+      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Grupo_de_p" type="string"/>
+      <SimpleField name="Estado_del" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Etapa_de_i" type="string"/>
+      <SimpleField name="Cantidad_d" type="double"/>
+      <SimpleField name="F25" type="string"/>
+      <SimpleField name="OBJECTID_1" type="int"/>
+    </Schema>
+    <Document id="Distrito_LIMA">
+      <name>Distrito_LIMA</name>
+      <Placemark id="Distrito_LIMA.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_LIMA.schema">
+            <SimpleData name="Cédula">2422683.00000000000</SimpleData>
+            <SimpleData name="cedula">2422683</SimpleData>
+            <SimpleData name="Shape_Leng">370.35746701200</SimpleData>
+            <SimpleData name="Shape_Area">8548.60706841000</SimpleData>
+            <SimpleData name="N">524.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARIO DANIEL JIMENEZ SANCHEZ</SimpleData>
+            <SimpleData name="Cédula_1">2422683.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">LIMA</SimpleData>
+            <SimpleData name="Localidad">YVYPE</SimpleData>
+            <SimpleData name="Teléfono">984032758</SimpleData>
+            <SimpleData name="Vivienda_L">-23.98705500000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.46059670000</SimpleData>
+            <SimpleData name="Parcela_La">-23.98862850000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.46451220000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">524</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.4639879998895,-23.9889429999903,0
+                -56.464803899741,-23.9891440001553,0
+                -56.4650909006303,-23.9883669004293,0
+                -56.4641679002537,-23.9880997998044,0
+                -56.4639879998895,-23.9889429999903,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_LIMA.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_LIMA.schema">
+            <SimpleData name="Cédula">5766336.00000000000</SimpleData>
+            <SimpleData name="cedula">5766336</SimpleData>
+            <SimpleData name="Shape_Leng">516.73461474800</SimpleData>
+            <SimpleData name="Shape_Area">9687.12791557000</SimpleData>
+            <SimpleData name="N">469.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARIO FRANCISCO CUBA VILLALBA</SimpleData>
+            <SimpleData name="Cédula_1">5766336.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">LIMA</SimpleData>
+            <SimpleData name="Localidad">NARANJATY</SimpleData>
+            <SimpleData name="Teléfono">0984345799</SimpleData>
+            <SimpleData name="Vivienda_L">-23.99185040000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.49301220000</SimpleData>
+            <SimpleData name="Parcela_La">-23.97924259000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.50409634000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">469</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.5029647994868,-23.9792552997595,0
+                -56.5032140998881,-23.9795800003797,0
+                -56.5035979997624,-23.9794358001739,0
+                -56.5037949003856,-23.9796552998374,0
+                -56.5040576001785,-23.9796050998676,0
+                -56.5042715004179,-23.9794253002715,0
+                -56.5050238999016,-23.9792895999116,0
+                -56.5049006997462,-23.9787869001385,0
+                -56.5043328996706,-23.9789104006455,0
+                -56.5041786003336,-23.9790531997431,0
+                -56.5037508003867,-23.9791046002015,0
+                -56.5029647994868,-23.9792552997595,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_LIMA.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_LIMA.schema">
+            <SimpleData name="Cédula">6000174.00000000000</SimpleData>
+            <SimpleData name="cedula">6000174</SimpleData>
+            <SimpleData name="Shape_Leng">496.23896158100</SimpleData>
+            <SimpleData name="Shape_Area">8593.86719147000</SimpleData>
+            <SimpleData name="N">462.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ELVIO CUBA VILLALBA</SimpleData>
+            <SimpleData name="Cédula_1">6000174.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">LIMA</SimpleData>
+            <SimpleData name="Localidad">NI?O MARTIR  (SANGUINA CUE)</SimpleData>
+            <SimpleData name="Teléfono">0984176583</SimpleData>
+            <SimpleData name="Vivienda_L">-23.98893890000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.50318300000</SimpleData>
+            <SimpleData name="Parcela_La">-23.98066148000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.50495080000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">462</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.5041629000335,-23.9805497996382,0
+                -56.5042116998429,-23.9810900000226,0
+                -56.5048727994253,-23.9810546003247,0
+                -56.5054571003609,-23.9805685996946,0
+                -56.5058573996051,-23.9805466995981,0
+                -56.5060178006904,-23.9802283004291,0
+                -56.5052010001581,-23.9802868002941,0
+                -56.5051765002134,-23.9804873997396,0
+                -56.5041629000335,-23.9805497996382,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_LIMA.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_LIMA.schema">
+            <SimpleData name="Cédula">6729027.00000000000</SimpleData>
+            <SimpleData name="cedula">6729027</SimpleData>
+            <SimpleData name="Shape_Leng">491.69915265600</SimpleData>
+            <SimpleData name="Shape_Area">8791.80085316000</SimpleData>
+            <SimpleData name="N">468.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ELIZABETH DIAZ PEREZ</SimpleData>
+            <SimpleData name="Cédula_1">6729027.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">LIMA</SimpleData>
+            <SimpleData name="Localidad">YBYPE</SimpleData>
+            <SimpleData name="Teléfono">0976330272</SimpleData>
+            <SimpleData name="Vivienda_L">-23.93828990000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.39345590000</SimpleData>
+            <SimpleData name="Parcela_La">-23.93794668000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.40197564000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">468</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.4010182999588,-23.9383441994519,0
+                -56.4012800003638,-23.9386267000087,0
+                -56.4029058998621,-23.9375961003581,0
+                -56.4026363000164,-23.9372623999239,0
+                -56.4010182999588,-23.9383441994519,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_LIMA.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_LIMA.schema">
+            <SimpleData name="Cédula">7717052.00000000000</SimpleData>
+            <SimpleData name="cedula">7717052</SimpleData>
+            <SimpleData name="Shape_Leng">480.70545841100</SimpleData>
+            <SimpleData name="Shape_Area">10273.72066940000</SimpleData>
+            <SimpleData name="N">471.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MYRIAN ESTER ESPINOLA YAJHARI</SimpleData>
+            <SimpleData name="Cédula_1">7717052.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">LIMA</SimpleData>
+            <SimpleData name="Localidad">NI?O MARTIR  (SANGUINA CUE)</SimpleData>
+            <SimpleData name="Teléfono">0985625825</SimpleData>
+            <SimpleData name="Vivienda_L">-24.01355290000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.45010040000</SimpleData>
+            <SimpleData name="Parcela_La">-24.01251473000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.44720265000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">471</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.4463752005456,-24.012020000243,0
+                -56.4462764001011,-24.012485700335,0
+                -56.4478148999547,-24.0130092002134,0
+                -56.4481195004033,-24.0126023005957,0
+                -56.4480359994782,-24.0124134001927,0
+                -56.4477515998702,-24.0123165002537,0
+                -56.4476803995577,-24.0124177994048,0
+                -56.4463752005456,-24.012020000243,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_LIMA.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_LIMA.schema">
+            <SimpleData name="Cédula">7796948.00000000000</SimpleData>
+            <SimpleData name="cedula">7796948</SimpleData>
+            <SimpleData name="Shape_Leng">637.27544294600</SimpleData>
+            <SimpleData name="Shape_Area">9058.21726664000</SimpleData>
+            <SimpleData name="N">474.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LIZ MARIELA VILLALBA MARECOS</SimpleData>
+            <SimpleData name="Cédula_1">7796948.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">LIMA</SimpleData>
+            <SimpleData name="Localidad">CARUMBEY 2</SimpleData>
+            <SimpleData name="Teléfono">0981949489</SimpleData>
+            <SimpleData name="Vivienda_L">-24.00736160000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.43104650000</SimpleData>
+            <SimpleData name="Parcela_La">-24.00800793000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.43014809000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">474</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.429551199228,-24.0093281008378,0
+                  -56.4299553001527,-24.0096863003687,0
+                  -56.4303385001189,-24.0092852004857,0
+                  -56.4299179994284,-24.0089136007297,0
+                  -56.429551199228,-24.0093281008378,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.4305037004467,-24.0074310001373,0
+                  -56.429520000601,-24.0084549006219,0
+                  -56.4297434003972,-24.0086371002754,0
+                  -56.430303100342,-24.0080528994873,0
+                  -56.4304655994227,-24.0081788996869,0
+                  -56.4307747000752,-24.0078942001307,0
+                  -56.4306296999641,-24.0077584005244,0
+                  -56.4307175993806,-24.0076402003215,0
+                  -56.4305037004467,-24.0074310001373,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_LIMA.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_LIMA.schema">
+            <SimpleData name="Cédula">7866678.00000000000</SimpleData>
+            <SimpleData name="cedula">7866678</SimpleData>
+            <SimpleData name="Shape_Leng">449.28673636500</SimpleData>
+            <SimpleData name="Shape_Area">9406.41265271000</SimpleData>
+            <SimpleData name="N">461.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">BLANCA NATALIA VELAZQUEZ DELGADO</SimpleData>
+            <SimpleData name="Cédula_1">7866678.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">LIMA</SimpleData>
+            <SimpleData name="Localidad">NARANJATY</SimpleData>
+            <SimpleData name="Teléfono">0994727192</SimpleData>
+            <SimpleData name="Vivienda_L">-24.00374500000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.50658170000</SimpleData>
+            <SimpleData name="Parcela_La">-23.99724670000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.51341589000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">461</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.5130050003226,-23.9979450004048,0
+                -56.5136234999549,-23.9979928996484,0
+                -56.5137646998027,-23.9965052999883,0
+                -56.5132965998864,-23.996413499723,0
+                -56.5130050003226,-23.9979450004048,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_LIMA.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_LIMA.schema">
+            <SimpleData name="Cédula">2256474.00000000000</SimpleData>
+            <SimpleData name="cedula">2256474</SimpleData>
+            <SimpleData name="Shape_Leng">408.59651459700</SimpleData>
+            <SimpleData name="Shape_Area">9279.23953894000</SimpleData>
+            <SimpleData name="N">463.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">PEDRO VILLALBA BRITOS</SimpleData>
+            <SimpleData name="Cédula_1">2256474.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">LIMA</SimpleData>
+            <SimpleData name="Localidad">NARANJATY</SimpleData>
+            <SimpleData name="Teléfono">0984111968</SimpleData>
+            <SimpleData name="Vivienda_L">-24.00260710000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.50630990000</SimpleData>
+            <SimpleData name="Parcela_La">-23.99901181000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.50700325000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">463</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.5065417005277,-23.9995081000311,0
+                -56.5073066993072,-23.9995899997426,0
+                -56.5074767005338,-23.9988015995951,0
+                -56.5068025997221,-23.9982083998772,0
+                -56.5065417005277,-23.9995081000311,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_LIMA.9">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_LIMA.schema">
+            <SimpleData name="Cédula">2496148.00000000000</SimpleData>
+            <SimpleData name="cedula">2496148</SimpleData>
+            <SimpleData name="Shape_Leng">381.66711207200</SimpleData>
+            <SimpleData name="Shape_Area">8812.42711243000</SimpleData>
+            <SimpleData name="N">465.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">APARICIO FRUTOS</SimpleData>
+            <SimpleData name="Cédula_1">2496148.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">LIMA</SimpleData>
+            <SimpleData name="Localidad">NARANJATY</SimpleData>
+            <SimpleData name="Teléfono">0985191192</SimpleData>
+            <SimpleData name="Vivienda_L">-24.01263630000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.52269980000</SimpleData>
+            <SimpleData name="Parcela_La">-24.01853725000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.52191698000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">465</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.5214538996785,-24.0190014004337,0
+                -56.5222050003087,-24.0190816998182,0
+                -56.5223967000915,-24.0181066999815,0
+                -56.5216216996021,-24.0179750005324,0
+                -56.5214538996785,-24.0190014004337,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_LIMA.10">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_LIMA.schema">
+            <SimpleData name="Cédula">3330343.00000000000</SimpleData>
+            <SimpleData name="cedula">3330343</SimpleData>
+            <SimpleData name="Shape_Leng">438.81292598500</SimpleData>
+            <SimpleData name="Shape_Area">8927.05070830000</SimpleData>
+            <SimpleData name="N">466.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">EPIFANIA CUBAS DE GONZALEZ</SimpleData>
+            <SimpleData name="Cédula_1">3330343.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">LIMA</SimpleData>
+            <SimpleData name="Localidad">NI?O MARTIR  (SANGUINA CUE)</SimpleData>
+            <SimpleData name="Teléfono">0983873918</SimpleData>
+            <SimpleData name="Vivienda_L">-23.99267780000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.51065240000</SimpleData>
+            <SimpleData name="Parcela_La">-23.99077389000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.51116679000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">466</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.5107814007465,-23.9914659998254,0
+                -56.5113443007944,-23.9915276001894,0
+                -56.5115212997035,-23.9900776999328,0
+                -56.5110377002286,-23.9899603000337,0
+                -56.5107814007465,-23.9914659998254,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_LIMA.11">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_LIMA.schema">
+            <SimpleData name="Cédula">6382175.00000000000</SimpleData>
+            <SimpleData name="cedula">6382175</SimpleData>
+            <SimpleData name="Shape_Leng">467.38217557200</SimpleData>
+            <SimpleData name="Shape_Area">8487.75685867000</SimpleData>
+            <SimpleData name="N">470.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LORENZA JIMENEZ CUENCA</SimpleData>
+            <SimpleData name="Cédula_1">6382175.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">LIMA</SimpleData>
+            <SimpleData name="Localidad">MARISCAL LOPEZ  (SANGUINA CUE)</SimpleData>
+            <SimpleData name="Teléfono">0981993943</SimpleData>
+            <SimpleData name="Vivienda_L">-24.00096280000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.50452790000</SimpleData>
+            <SimpleData name="Parcela_La">-23.97946181000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.50574137000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">470</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.5053392997651,-23.9795150996297,0
+                -56.5051777002239,-23.9795978995321,0
+                -56.5050962006383,-23.979558599997,0
+                -56.5047402994724,-23.9797291000374,0
+                -56.5050784001756,-23.9799994004451,0
+                -56.5066144996234,-23.9792979998465,0
+                -56.5065830999906,-23.9790354995866,0
+                -56.5062092999778,-23.978997100203,0
+                -56.505440099846,-23.9793050998192,0
+                -56.5053392997651,-23.9795150996297,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_LIMA.12">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_LIMA.schema">
+            <SimpleData name="Cédula">6838232.00000000000</SimpleData>
+            <SimpleData name="cedula">6838232</SimpleData>
+            <SimpleData name="Shape_Leng">431.20669485100</SimpleData>
+            <SimpleData name="Shape_Area">9046.22233040000</SimpleData>
+            <SimpleData name="N">521.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">IGNACIA BOGADO GAVILAN</SimpleData>
+            <SimpleData name="Cédula_1">6838232.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">LIMA</SimpleData>
+            <SimpleData name="Localidad">COLONIA PRIMAVERA</SimpleData>
+            <SimpleData name="Teléfono">982933328</SimpleData>
+            <SimpleData name="Vivienda_L">-23.98131000000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.50208830000</SimpleData>
+            <SimpleData name="Parcela_La">-23.98100140000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.50349211000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">521</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.5025551998153,-23.9811227001651,0
+                -56.5026926004524,-23.9813265995454,0
+                -56.5039092006614,-23.9812685998561,0
+                -56.5041492000385,-23.9811704003439,0
+                -56.504179999247,-23.9810868004773,0
+                -56.504098099841,-23.9804801000671,0
+                -56.503854299988,-23.9805294001833,0
+                -56.5036059008113,-23.9807378998681,0
+                -56.5028743005795,-23.9809154004711,0
+                -56.5027200996322,-23.9809944002253,0
+                -56.5025551998153,-23.9811227001651,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_LIMA.13">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_LIMA.schema">
+            <SimpleData name="Cédula">6861594.00000000000</SimpleData>
+            <SimpleData name="cedula">6861594</SimpleData>
+            <SimpleData name="Shape_Leng">631.98480906700</SimpleData>
+            <SimpleData name="Shape_Area">9065.16190096000</SimpleData>
+            <SimpleData name="N">467.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARIA ESTER TORREZ DUARTE</SimpleData>
+            <SimpleData name="Cédula_1">6861594.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">LIMA</SimpleData>
+            <SimpleData name="Localidad">NARANJATY</SimpleData>
+            <SimpleData name="Teléfono">0983452851</SimpleData>
+            <SimpleData name="Vivienda_L">-24.01248630000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.52441810000</SimpleData>
+            <SimpleData name="Parcela_La">-24.01394805000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.52442291000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">467</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.5227350004545,-24.018472499975,0
+                  -56.523325199584,-24.0185234000002,0
+                  -56.5234491009657,-24.0179756000475,0
+                  -56.5228347000908,-24.0178440998738,0
+                  -56.5227350004545,-24.018472499975,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.52418900019,-24.0145838996209,0
+                  -56.524491099536,-24.0146783000775,0
+                  -56.5246636001295,-24.0132371003368,0
+                  -56.5243882008387,-24.0132078004058,0
+                  -56.5241757009744,-24.0144507004576,0
+                  -56.52418900019,-24.0145838996209,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_LIMA.14">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_LIMA.schema">
+            <SimpleData name="Cédula">6948207.00000000000</SimpleData>
+            <SimpleData name="cedula">6948207</SimpleData>
+            <SimpleData name="Shape_Leng">393.52853420500</SimpleData>
+            <SimpleData name="Shape_Area">9396.24873018000</SimpleData>
+            <SimpleData name="N">464.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">PABLINA BOGADO VEGA</SimpleData>
+            <SimpleData name="Cédula_1">6948207.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">LIMA</SimpleData>
+            <SimpleData name="Localidad">NARANJATY</SimpleData>
+            <SimpleData name="Teléfono">0986535450</SimpleData>
+            <SimpleData name="Vivienda_L">-24.01268960000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.52269450000</SimpleData>
+            <SimpleData name="Parcela_La">-24.01751473000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.52212265000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">464</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.5216444002405,-24.017963200564,0
+                -56.5224059003083,-24.0180991001804,0
+                -56.5226262003543,-24.0170434993353,0
+                -56.5217892999914,-24.0169768004443,0
+                -56.5216444002405,-24.017963200564,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_LIMA.15">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_LIMA.schema">
+            <SimpleData name="Cédula">6838772.00000000000</SimpleData>
+            <SimpleData name="cedula">6838772</SimpleData>
+            <SimpleData name="Shape_Leng">489.72332677100</SimpleData>
+            <SimpleData name="Shape_Area">8143.13819120000</SimpleData>
+            <SimpleData name="N">472.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">BLASIDA BOGADO GAVILAN</SimpleData>
+            <SimpleData name="Cédula_1">6838772.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">LIMA</SimpleData>
+            <SimpleData name="Localidad">NARANJATY</SimpleData>
+            <SimpleData name="Teléfono">0981594855</SimpleData>
+            <SimpleData name="Vivienda_L">-24.00796800000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.49836140000</SimpleData>
+            <SimpleData name="Parcela_La">-24.01234597000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.50542713000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">472</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.504860400162,-24.0120059000059,0
+                -56.5059121006574,-24.0132628001746,0
+                -56.5060898994135,-24.0129317002221,0
+                -56.5054862997246,-24.0121179996266,0
+                -56.5053165995797,-24.0118143997345,0
+                -56.5049900999597,-24.0113988008458,0
+                -56.5049056000683,-24.0115959007491,0
+                -56.5049262999025,-24.0117590999338,0
+                -56.504860400162,-24.0120059000059,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

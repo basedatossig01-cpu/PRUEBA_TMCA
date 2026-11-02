@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_PASO_YOBAI.schema">
+      <SimpleField name="Cédula" type="double"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="Shape_Leng" type="double"/>
+      <SimpleField name="Shape_Area" type="double"/>
+      <SimpleField name="N" type="double"/>
+      <SimpleField name="Nombres_y_" type="string"/>
+      <SimpleField name="Cédula_1" type="double"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio_de_" type="string"/>
+      <SimpleField name="Titular_se" type="string"/>
+      <SimpleField name="Cédula_Ti" type="string"/>
+      <SimpleField name="Situación" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="Teléfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="double"/>
+      <SimpleField name="Vivienda_1" type="double"/>
+      <SimpleField name="Parcela_La" type="double"/>
+      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Grupo_de_p" type="string"/>
+      <SimpleField name="Estado_del" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Etapa_de_i" type="string"/>
+      <SimpleField name="Cantidad_d" type="double"/>
+      <SimpleField name="F25" type="string"/>
+      <SimpleField name="OBJECTID_1" type="int"/>
+    </Schema>
+    <Document id="Distrito_PASO_YOBAI">
+      <name>Distrito_PASO YOBAI</name>
+      <Placemark id="Distrito_PASO_YOBAI.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_PASO_YOBAI.schema">
+            <SimpleData name="Cédula">5470022.00000000000</SimpleData>
+            <SimpleData name="cedula">5470022</SimpleData>
+            <SimpleData name="Shape_Leng">728.63787613600</SimpleData>
+            <SimpleData name="Shape_Area">9298.68945266000</SimpleData>
+            <SimpleData name="N">325.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">JUANA BAUTISTA MIRANDA MOREL</SimpleData>
+            <SimpleData name="Cédula_1">5470022.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">GUAIRA</SimpleData>
+            <SimpleData name="Distrito">PASO YOBAI</SimpleData>
+            <SimpleData name="Localidad">SANTA MARIA</SimpleData>
+            <SimpleData name="Teléfono">0985561192</SimpleData>
+            <SimpleData name="Vivienda_L">-25.71568180000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.96850260000</SimpleData>
+            <SimpleData name="Parcela_La">-25.71565827000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.96564821000</SimpleData>
+            <SimpleData name="Grupo_de_p">B-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">B</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">325</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.9656482095314,-25.7156582665684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_PASO_YOBAI.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_PASO_YOBAI.schema">
+            <SimpleData name="Cédula">4347145.00000000000</SimpleData>
+            <SimpleData name="cedula">4347145</SimpleData>
+            <SimpleData name="Shape_Leng">448.84222843300</SimpleData>
+            <SimpleData name="Shape_Area">9303.77393601000</SimpleData>
+            <SimpleData name="N">333.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ARSENIO CACERES</SimpleData>
+            <SimpleData name="Cédula_1">4347145.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">GUAIRA</SimpleData>
+            <SimpleData name="Distrito">PASO YOBAI</SimpleData>
+            <SimpleData name="Localidad">3 DE NOVIEMBRE</SimpleData>
+            <SimpleData name="Teléfono">0982522685</SimpleData>
+            <SimpleData name="Vivienda_L">-25.71375000000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.91080000000</SimpleData>
+            <SimpleData name="Parcela_La">-25.71378575000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.91466615000</SimpleData>
+            <SimpleData name="Grupo_de_p">B-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">B</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">333</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.9146661544041,-25.7137857518165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_PASO_YOBAI.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_PASO_YOBAI.schema">
+            <SimpleData name="Cédula">1442990.00000000000</SimpleData>
+            <SimpleData name="cedula">1442990</SimpleData>
+            <SimpleData name="Shape_Leng">385.48877999100</SimpleData>
+            <SimpleData name="Shape_Area">9222.87158251000</SimpleData>
+            <SimpleData name="N">334.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">FELICIANA MARTINEZ DE VILLALBA</SimpleData>
+            <SimpleData name="Cédula_1">1442990.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">GUAIRA</SimpleData>
+            <SimpleData name="Distrito">PASO YOBAI</SimpleData>
+            <SimpleData name="Localidad">SAN JOSE</SimpleData>
+            <SimpleData name="Teléfono">0986764849</SimpleData>
+            <SimpleData name="Vivienda_L">-25.68867350000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.99045620000</SimpleData>
+            <SimpleData name="Parcela_La">-25.68885855000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.99136678000</SimpleData>
+            <SimpleData name="Grupo_de_p">B-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">B</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">334</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.9913667776177,-25.6888585507495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_PASO_YOBAI.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_PASO_YOBAI.schema">
+            <SimpleData name="Cédula">4950577.00000000000</SimpleData>
+            <SimpleData name="cedula">4950577</SimpleData>
+            <SimpleData name="Shape_Leng">781.54582981600</SimpleData>
+            <SimpleData name="Shape_Area">10100.38735850000</SimpleData>
+            <SimpleData name="N">324.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CINTIA MARLENE BENITEZ RUIZ</SimpleData>
+            <SimpleData name="Cédula_1">4950577.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">GUAIRA</SimpleData>
+            <SimpleData name="Distrito">PASO YOBAI</SimpleData>
+            <SimpleData name="Localidad">SANTA MARIA</SimpleData>
+            <SimpleData name="Teléfono">0984727444</SimpleData>
+            <SimpleData name="Vivienda_L">-25.71561090000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.96868700000</SimpleData>
+            <SimpleData name="Parcela_La">-25.71520578000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.96301252000</SimpleData>
+            <SimpleData name="Grupo_de_p">B-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">B</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">324</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.9630125182417,-25.7152057796752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_PASO_YOBAI.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_PASO_YOBAI.schema">
+            <SimpleData name="Cédula">4947392.00000000000</SimpleData>
+            <SimpleData name="cedula">4947392</SimpleData>
+            <SimpleData name="Shape_Leng">771.00074454400</SimpleData>
+            <SimpleData name="Shape_Area">9827.22913753000</SimpleData>
+            <SimpleData name="N">326.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">REIMUNDO ESQUIVEL</SimpleData>
+            <SimpleData name="Cédula_1">4947392.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">GUAIRA</SimpleData>
+            <SimpleData name="Distrito">PASO YOBAI</SimpleData>
+            <SimpleData name="Localidad">SANTA MARIA</SimpleData>
+            <SimpleData name="Teléfono">0985136050</SimpleData>
+            <SimpleData name="Vivienda_L">-25.71578840000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.96866200000</SimpleData>
+            <SimpleData name="Parcela_La">-25.71516557000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.96600447000</SimpleData>
+            <SimpleData name="Grupo_de_p">B-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">B</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">326</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.9660044676067,-25.7151655719331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_PASO_YOBAI.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_PASO_YOBAI.schema">
+            <SimpleData name="Cédula">1338804.00000000000</SimpleData>
+            <SimpleData name="cedula">1338804</SimpleData>
+            <SimpleData name="Shape_Leng">474.53830822800</SimpleData>
+            <SimpleData name="Shape_Area">10906.79832920000</SimpleData>
+            <SimpleData name="N">323.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">RITA MORINIGO BAEZ</SimpleData>
+            <SimpleData name="Cédula_1">1338804.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">GUAIRA</SimpleData>
+            <SimpleData name="Distrito">PASO YOBAI</SimpleData>
+            <SimpleData name="Localidad">SANTA MARIA</SimpleData>
+            <SimpleData name="Teléfono">0981342922</SimpleData>
+            <SimpleData name="Vivienda_L">-25.71872990000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.96843970000</SimpleData>
+            <SimpleData name="Parcela_La">-25.71883300000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.95942627000</SimpleData>
+            <SimpleData name="Grupo_de_p">B-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">B</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">323</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.9594262710048,-25.7188330016006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_PASO_YOBAI.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_PASO_YOBAI.schema">
+            <SimpleData name="Cédula">5312873.00000000000</SimpleData>
+            <SimpleData name="cedula">5312873</SimpleData>
+            <SimpleData name="Shape_Leng">604.51261148900</SimpleData>
+            <SimpleData name="Shape_Area">9496.80777300000</SimpleData>
+            <SimpleData name="N">330.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">NELIDA ESCOBAR CHAVEZ</SimpleData>
+            <SimpleData name="Cédula_1">5312873.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">GUAIRA</SimpleData>
+            <SimpleData name="Distrito">PASO YOBAI</SimpleData>
+            <SimpleData name="Localidad">3 DE NOVIEMBRE</SimpleData>
+            <SimpleData name="Teléfono">0983148130</SimpleData>
+            <SimpleData name="Vivienda_L">-25.72740170000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.89667170000</SimpleData>
+            <SimpleData name="Parcela_La">-25.72636813000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.89301460000</SimpleData>
+            <SimpleData name="Grupo_de_p">B-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">B</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">330</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Point>
+            <coordinates>
+              -55.8930117206292,-25.7269989198957,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -55.893015831013,-25.7260987837938,0
+            </coordinates>
+          </Point>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_PASO_YOBAI.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_PASO_YOBAI.schema">
+            <SimpleData name="Cédula">5532534.00000000000</SimpleData>
+            <SimpleData name="cedula">5532534</SimpleData>
+            <SimpleData name="Shape_Leng">580.76019861800</SimpleData>
+            <SimpleData name="Shape_Area">9208.12067387000</SimpleData>
+            <SimpleData name="N">328.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ADOLFINA MELGAREJO SAMANIEGO</SimpleData>
+            <SimpleData name="Cédula_1">5532534.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">GUAIRA</SimpleData>
+            <SimpleData name="Distrito">PASO YOBAI</SimpleData>
+            <SimpleData name="Localidad">SAN FRANCISCO I</SimpleData>
+            <SimpleData name="Teléfono">0982072803</SimpleData>
+            <SimpleData name="Vivienda_L">-25.64285390000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.92767960000</SimpleData>
+            <SimpleData name="Parcela_La">-25.71132911000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.93320509000</SimpleData>
+            <SimpleData name="Grupo_de_p">B-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">B</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">328</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Point>
+            <coordinates>
+              -55.9346760374105,-25.7089016157378,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -55.9332050884414,-25.7113291118548,0
+            </coordinates>
+          </Point>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_PASO_YOBAI.9">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_PASO_YOBAI.schema">
+            <SimpleData name="Cédula">4058133.00000000000</SimpleData>
+            <SimpleData name="cedula">4058133</SimpleData>
+            <SimpleData name="Shape_Leng">389.76483054800</SimpleData>
+            <SimpleData name="Shape_Area">9604.18734797000</SimpleData>
+            <SimpleData name="N">332.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">SONIA EVANGELISTA REYES ESCOBAR</SimpleData>
+            <SimpleData name="Cédula_1">4058133.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">GUAIRA</SimpleData>
+            <SimpleData name="Distrito">PASO YOBAI</SimpleData>
+            <SimpleData name="Localidad">3 DE NOVIEMBRE</SimpleData>
+            <SimpleData name="Teléfono">0986623025</SimpleData>
+            <SimpleData name="Vivienda_L">-25.70695000000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.91721170000</SimpleData>
+            <SimpleData name="Parcela_La">-25.70754996000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.92025330000</SimpleData>
+            <SimpleData name="Grupo_de_p">B-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">B</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">332</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.9202532965086,-25.7075499628446,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_PASO_YOBAI.10">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_PASO_YOBAI.schema">
+            <SimpleData name="Cédula">5312168.00000000000</SimpleData>
+            <SimpleData name="cedula">5312168</SimpleData>
+            <SimpleData name="Shape_Leng">397.26620040000</SimpleData>
+            <SimpleData name="Shape_Area">9585.45606395000</SimpleData>
+            <SimpleData name="N">327.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LAURA BAEZ OLAZAR</SimpleData>
+            <SimpleData name="Cédula_1">5312168.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">GUAIRA</SimpleData>
+            <SimpleData name="Distrito">PASO YOBAI</SimpleData>
+            <SimpleData name="Localidad">COSTA ALEGRE</SimpleData>
+            <SimpleData name="Teléfono">0983030601</SimpleData>
+            <SimpleData name="Vivienda_L">-25.72681150000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.87555120000</SimpleData>
+            <SimpleData name="Parcela_La">-25.72772320000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.87848243000</SimpleData>
+            <SimpleData name="Grupo_de_p">B-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">B</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">327</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.8784824264946,-25.7277232012552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_PASO_YOBAI.11">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_PASO_YOBAI.schema">
+            <SimpleData name="Cédula">7640765.00000000000</SimpleData>
+            <SimpleData name="cedula">7640765</SimpleData>
+            <SimpleData name="Shape_Leng">559.34021316400</SimpleData>
+            <SimpleData name="Shape_Area">9467.12571627000</SimpleData>
+            <SimpleData name="N">542.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CARMELO  CENTURION BENITEZ</SimpleData>
+            <SimpleData name="Cédula_1">7640765.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">GUAIRA</SimpleData>
+            <SimpleData name="Distrito">PASO YOBAI</SimpleData>
+            <SimpleData name="Localidad">SANTA TERESITA</SimpleData>
+            <SimpleData name="Teléfono">0983511495</SimpleData>
+            <SimpleData name="Vivienda_L">-25.66571830000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.90853170000</SimpleData>
+            <SimpleData name="Parcela_La">-25.66567200000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.90763920000</SimpleData>
+            <SimpleData name="Grupo_de_p">B-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">B</SimpleData>
+            <SimpleData name="Etapa_de_i">Plantaci?n</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">542</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Point>
+            <coordinates>
+              -55.9076085232706,-25.6652083262233,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -55.9071802822429,-25.6658712467986,0
+            </coordinates>
+          </Point>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_PASO_YOBAI.12">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_PASO_YOBAI.schema">
+            <SimpleData name="Cédula">6204309.00000000000</SimpleData>
+            <SimpleData name="cedula">6204309</SimpleData>
+            <SimpleData name="Shape_Leng">445.61996887100</SimpleData>
+            <SimpleData name="Shape_Area">9276.17099933000</SimpleData>
+            <SimpleData name="N">316.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">BERNARDINO DUARTE BENITEZ</SimpleData>
+            <SimpleData name="Cédula_1">6204309.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">GUAIRA</SimpleData>
+            <SimpleData name="Distrito">PASO YOBAI</SimpleData>
+            <SimpleData name="Localidad">SANTA TERESITA</SimpleData>
+            <SimpleData name="Teléfono">0984667818</SimpleData>
+            <SimpleData name="Vivienda_L">-25.69871750000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.89890370000</SimpleData>
+            <SimpleData name="Parcela_La">-25.69810316000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.89946901000</SimpleData>
+            <SimpleData name="Grupo_de_p">B-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">B</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">316</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.899469008206,-25.6981031575965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_PASO_YOBAI.13">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_PASO_YOBAI.schema">
+            <SimpleData name="Cédula">5599013.00000000000</SimpleData>
+            <SimpleData name="cedula">5599013</SimpleData>
+            <SimpleData name="Shape_Leng">417.32757412400</SimpleData>
+            <SimpleData name="Shape_Area">9012.29105191000</SimpleData>
+            <SimpleData name="N">329.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MIRTA VILLARREO CHAVEZ</SimpleData>
+            <SimpleData name="Cédula_1">5599013.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">GUAIRA</SimpleData>
+            <SimpleData name="Distrito">PASO YOBAI</SimpleData>
+            <SimpleData name="Localidad">SAN FRANCISCO I</SimpleData>
+            <SimpleData name="Teléfono">0984242539</SimpleData>
+            <SimpleData name="Vivienda_L">-25.72021890000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.93622970000</SimpleData>
+            <SimpleData name="Parcela_La">-25.71964780000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.93471572000</SimpleData>
+            <SimpleData name="Grupo_de_p">B-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">B</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">329</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.9347157160951,-25.7196477986182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_PASO_YOBAI.14">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_PASO_YOBAI.schema">
+            <SimpleData name="Cédula">5615461.00000000000</SimpleData>
+            <SimpleData name="cedula">5615461</SimpleData>
+            <SimpleData name="Shape_Leng">390.60371211100</SimpleData>
+            <SimpleData name="Shape_Area">8220.01688380000</SimpleData>
+            <SimpleData name="N">331.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">NATALIA LEGAL LEDESMA</SimpleData>
+            <SimpleData name="Cédula_1">5615461.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">GUAIRA</SimpleData>
+            <SimpleData name="Distrito">PASO YOBAI</SimpleData>
+            <SimpleData name="Localidad">3 DE NOVIEMBRE</SimpleData>
+            <SimpleData name="Teléfono">0982349790</SimpleData>
+            <SimpleData name="Vivienda_L">-25.71223500000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.91107000000</SimpleData>
+            <SimpleData name="Parcela_La">-25.72469125000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.88812623000</SimpleData>
+            <SimpleData name="Grupo_de_p">B-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">B</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">331</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.888126234841,-25.7246912457408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

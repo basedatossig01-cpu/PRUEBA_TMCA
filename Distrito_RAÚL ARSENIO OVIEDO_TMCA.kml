@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_RA__L_ARSENIO_OVIEDO.schema">
+      <SimpleField name="Cédula" type="double"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="Shape_Leng" type="double"/>
+      <SimpleField name="Shape_Area" type="double"/>
+      <SimpleField name="N" type="double"/>
+      <SimpleField name="Nombres_y_" type="string"/>
+      <SimpleField name="Cédula_1" type="double"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio_de_" type="string"/>
+      <SimpleField name="Titular_se" type="string"/>
+      <SimpleField name="Cédula_Ti" type="string"/>
+      <SimpleField name="Situación" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="Teléfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="double"/>
+      <SimpleField name="Vivienda_1" type="double"/>
+      <SimpleField name="Parcela_La" type="double"/>
+      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Grupo_de_p" type="string"/>
+      <SimpleField name="Estado_del" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Etapa_de_i" type="string"/>
+      <SimpleField name="Cantidad_d" type="double"/>
+      <SimpleField name="F25" type="string"/>
+      <SimpleField name="OBJECTID_1" type="int"/>
+    </Schema>
+    <Document id="Distrito_RA__L_ARSENIO_OVIEDO">
+      <name>Distrito_RAÃšL ARSENIO OVIEDO</name>
+      <Placemark id="Distrito_RA__L_ARSENIO_OVIEDO.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_RA__L_ARSENIO_OVIEDO.schema">
+            <SimpleData name="Cédula">5593789.00000000000</SimpleData>
+            <SimpleData name="cedula">5593789</SimpleData>
+            <SimpleData name="Shape_Leng">493.05782865000</SimpleData>
+            <SimpleData name="Shape_Area">8883.64477422000</SimpleData>
+            <SimpleData name="N">298.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">NANCY PENAYO BENITEZ</SimpleData>
+            <SimpleData name="Cédula_1">5593789.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">RA?L ARSENIO OVIEDO</SimpleData>
+            <SimpleData name="Localidad">YVYRYVATE</SimpleData>
+            <SimpleData name="Teléfono">0975327524</SimpleData>
+            <SimpleData name="Vivienda_L">-25.06925700000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.60535580000</SimpleData>
+            <SimpleData name="Parcela_La">-25.06888374000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.60621897000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">298</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.6055622999216,-25.0683532995301,0
+                -55.6057481994285,-25.0691233004932,0
+                -55.6061523000745,-25.0692126995639,0
+                -55.6070901993924,-25.0694599996394,0
+                -55.6068085002838,-25.0692999998544,0
+                -55.6068533005653,-25.0689147994221,0
+                -55.6064244001219,-25.068755199715,0
+                -55.6065605994694,-25.068551600238,0
+                -55.6061232995125,-25.0684374997842,0
+                -55.6059483993669,-25.0684008995543,0
+                -55.605885699887,-25.0685177004234,0
+                -55.6055622999216,-25.0683532995301,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_RA__L_ARSENIO_OVIEDO.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_RA__L_ARSENIO_OVIEDO.schema">
+            <SimpleData name="Cédula">5394853.00000000000</SimpleData>
+            <SimpleData name="cedula">5394853</SimpleData>
+            <SimpleData name="Shape_Leng">602.74700321400</SimpleData>
+            <SimpleData name="Shape_Area">8863.38667380000</SimpleData>
+            <SimpleData name="N">301.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ROSANA RIVAROLA RAMIREZ</SimpleData>
+            <SimpleData name="Cédula_1">5394853.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">RA?L ARSENIO OVIEDO</SimpleData>
+            <SimpleData name="Localidad">TAJY POTY</SimpleData>
+            <SimpleData name="Teléfono">0982097981</SimpleData>
+            <SimpleData name="Vivienda_L">-25.06041910000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.59720430000</SimpleData>
+            <SimpleData name="Parcela_La">-25.06155683000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.59727826000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">3.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">301</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -55.5975374999243,-25.0620617997749,0
+                  -55.5978292988753,-25.0620899001797,0
+                  -55.5979308983194,-25.0617304012394,0
+                  -55.5976294997351,-25.0617143005809,0
+                  -55.5975374999243,-25.0620617997749,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -55.5977241996131,-25.0616516000868,0
+                  -55.5979594000054,-25.0616878012186,0
+                  -55.5980291004374,-25.0613733007928,0
+                  -55.5975997999058,-25.061265699578,0
+                  -55.5975225990282,-25.0615461003068,0
+                  -55.5977241996131,-25.0616516000868,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -55.5968548004192,-25.0618847005326,0
+                  -55.5970999998713,-25.0619412005221,0
+                  -55.5971920992706,-25.0618125007442,0
+                  -55.5973310992445,-25.0617921004448,0
+                  -55.5974682995087,-25.061556700594,0
+                  -55.5975416997035,-25.0612650008838,0
+                  -55.5972523998776,-25.0611831001089,0
+                  -55.5970787999523,-25.0611537002444,0
+                  -55.5968707606454,-25.061109269643,0
+                  -55.5968231998225,-25.0611016996766,0
+                  -55.596824039117,-25.0610992913761,0
+                  -55.5968104993898,-25.0610964004567,0
+                  -55.5967184997621,-25.0612985016921,0
+                  -55.5966031998155,-25.0617697004076,0
+                  -55.5968548004192,-25.0618847005326,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_RA__L_ARSENIO_OVIEDO.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_RA__L_ARSENIO_OVIEDO.schema">
+            <SimpleData name="Cédula">2009708.00000000000</SimpleData>
+            <SimpleData name="cedula">2009708</SimpleData>
+            <SimpleData name="Shape_Leng">600.85835630200</SimpleData>
+            <SimpleData name="Shape_Area">9203.31785422000</SimpleData>
+            <SimpleData name="N">143.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ROSALINO ANTONIO RODRIGUEZ</SimpleData>
+            <SimpleData name="Cédula_1">2009708.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">RA?L ARSENIO OVIEDO</SimpleData>
+            <SimpleData name="Localidad">Y?AKA RETA</SimpleData>
+            <SimpleData name="Teléfono">No tiene</SimpleData>
+            <SimpleData name="Vivienda_L">-25.08807350000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.70982810000</SimpleData>
+            <SimpleData name="Parcela_La">-25.08806348000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.70938401000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">143</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.7088592998759,-25.0879645003942,0
+                -55.7090533995936,-25.0879854006575,0
+                -55.7092395998579,-25.0879736002046,0
+                -55.7093236000121,-25.0880240998426,0
+                -55.7091069002855,-25.0880667001377,0
+                -55.7089707991553,-25.0880198003481,0
+                -55.708888400267,-25.0880707997841,0
+                -55.7087656003418,-25.0880654004996,0
+                -55.7086748004026,-25.0882371992733,0
+                -55.7088231000953,-25.088351499704,0
+                -55.7089989993978,-25.0882924993732,0
+                -55.7091751002345,-25.0881604997256,0
+                -55.709340599548,-25.0880918001877,0
+                -55.7093750001554,-25.0881083001974,0
+                -55.7093573999953,-25.0881954001208,0
+                -55.7092979004437,-25.0883483001421,0
+                -55.709322400671,-25.0884957999028,0
+                -55.7095305992134,-25.088578500082,0
+                -55.7097602998917,-25.0886501000953,0
+                -55.7099176003504,-25.0885817999636,0
+                -55.7100473999929,-25.0883784003151,0
+                -55.7100183002639,-25.0882917005812,0
+                -55.7098549999236,-25.0882966996614,0
+                -55.7098283007554,-25.0882883002881,0
+                -55.7097566999436,-25.0881517004323,0
+                -55.7097883004929,-25.0879599997717,0
+                -55.7098266998539,-25.0877699997855,0
+                -55.7098432999818,-25.0876466999171,0
+                -55.7096973991221,-25.087632099912,0
+                -55.7094384999657,-25.0876294994843,0
+                -55.7091660005104,-25.0876174997459,0
+                -55.7089655998657,-25.087612600183,0
+                -55.7087699002434,-25.0876194001635,0
+                -55.7087567999636,-25.0878199994395,0
+                -55.7088592998759,-25.0879645003942,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_RA__L_ARSENIO_OVIEDO.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_RA__L_ARSENIO_OVIEDO.schema">
+            <SimpleData name="Cédula">3292415.00000000000</SimpleData>
+            <SimpleData name="cedula">3292415</SimpleData>
+            <SimpleData name="Shape_Leng">362.46038043100</SimpleData>
+            <SimpleData name="Shape_Area">8333.92497221000</SimpleData>
+            <SimpleData name="N">152.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ELIDA ACOSTA PENAYO</SimpleData>
+            <SimpleData name="Cédula_1">3292415.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">RA?L ARSENIO OVIEDO</SimpleData>
+            <SimpleData name="Localidad">Y?AKA RETA</SimpleData>
+            <SimpleData name="Teléfono">0971879678</SimpleData>
+            <SimpleData name="Vivienda_L">-25.07921140000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.69196950000</SimpleData>
+            <SimpleData name="Parcela_La">-25.07414063000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.69389475000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">152</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.6942508000207,-25.074514500626,0
+                -55.6944302997916,-25.0745179000773,0
+                -55.6945145134182,-25.0739791279556,0
+                -55.6940413997688,-25.0738255999143,0
+                -55.693848600692,-25.0737844995461,0
+                -55.6936430004643,-25.0737336996517,0
+                -55.6934438999328,-25.0736874001056,0
+                -55.6933723000981,-25.073840800201,0
+                -55.6933688001226,-25.0739958002653,0
+                -55.6933309007918,-25.0741894001199,0
+                -55.6933604001361,-25.0743895997527,0
+                -55.6935906998597,-25.0744626006692,0
+                -55.6937913006179,-25.0744777001261,0
+                -55.6940211999912,-25.0744910995336,0
+                -55.6942508000207,-25.074514500626,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_RA__L_ARSENIO_OVIEDO.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_RA__L_ARSENIO_OVIEDO.schema">
+            <SimpleData name="Cédula">4703460.00000000000</SimpleData>
+            <SimpleData name="cedula">4703460</SimpleData>
+            <SimpleData name="Shape_Leng">371.54703428300</SimpleData>
+            <SimpleData name="Shape_Area">8582.12563341000</SimpleData>
+            <SimpleData name="N">198.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ELIDA ARGUELLO LEGAL</SimpleData>
+            <SimpleData name="Cédula_1">4703460.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">RA?L ARSENIO OVIEDO</SimpleData>
+            <SimpleData name="Localidad">Y?AKA RETA</SimpleData>
+            <SimpleData name="Teléfono">0976445948</SimpleData>
+            <SimpleData name="Vivienda_L">-25.08065170000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.68474330000</SimpleData>
+            <SimpleData name="Parcela_La">-25.08196715000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.68492631000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">198</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.6844262994977,-25.0823254999189,0
+                -55.6852419998762,-25.0824952997358,0
+                -55.6854467003811,-25.0816178002416,0
+                -55.6845849993829,-25.0814452002193,0
+                -55.6844262994977,-25.0823254999189,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_RA__L_ARSENIO_OVIEDO.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_RA__L_ARSENIO_OVIEDO.schema">
+            <SimpleData name="Cédula">5060725.00000000000</SimpleData>
+            <SimpleData name="cedula">5060725</SimpleData>
+            <SimpleData name="Shape_Leng">373.79291010600</SimpleData>
+            <SimpleData name="Shape_Area">8684.56503086000</SimpleData>
+            <SimpleData name="N">204.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">JUAN DE LA CRUZ AQUINO FLEITAS</SimpleData>
+            <SimpleData name="Cédula_1">5060725.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">RA?L ARSENIO OVIEDO</SimpleData>
+            <SimpleData name="Localidad">Y?AKA RETA</SimpleData>
+            <SimpleData name="Teléfono">0976421083</SimpleData>
+            <SimpleData name="Vivienda_L">-25.07039030000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.69950590000</SimpleData>
+            <SimpleData name="Parcela_La">-25.07025528000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.70035940000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">204</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.7000344004001,-25.0697022003993,0
+                -55.6999741998936,-25.0697328999167,0
+                -55.7000065998103,-25.0698659995991,0
+                -55.6999950998909,-25.0699567005101,0
+                -55.7000002994868,-25.0701203002165,0
+                -55.7000048992882,-25.0702330991767,0
+                -55.6999971002426,-25.0704283995985,0
+                -55.699990199929,-25.070638200243,0
+                -55.7000700991203,-25.0707841991986,0
+                -55.7002720002182,-25.070806199665,0
+                -55.7005043000572,-25.0708008004888,0
+                -55.7007150002293,-25.0708004995601,0
+                -55.7007202000711,-25.0706217996475,0
+                -55.7007266004321,-25.0704135999998,0
+                -55.700721899864,-25.0701981996636,0
+                -55.7007271006039,-25.070013300083,0
+                -55.7007126002266,-25.0697901000483,0
+                -55.7005790994347,-25.0697146998506,0
+                -55.7004144000712,-25.0697183000599,0
+                -55.7002408995209,-25.069705999711,0
+                -55.7000344004001,-25.0697022003993,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_RA__L_ARSENIO_OVIEDO.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_RA__L_ARSENIO_OVIEDO.schema">
+            <SimpleData name="Cédula">5970470.00000000000</SimpleData>
+            <SimpleData name="cedula">5970470</SimpleData>
+            <SimpleData name="Shape_Leng">387.39249978200</SimpleData>
+            <SimpleData name="Shape_Area">9213.00073756000</SimpleData>
+            <SimpleData name="N">352.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">KAREN GISELLE PORTILLO MENDEZ</SimpleData>
+            <SimpleData name="Cédula_1">5970470.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">RA?L ARSENIO OVIEDO</SimpleData>
+            <SimpleData name="Localidad">Y?AKA RETA</SimpleData>
+            <SimpleData name="Teléfono">0975965877</SimpleData>
+            <SimpleData name="Vivienda_L">-25.07981120000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.68019540000</SimpleData>
+            <SimpleData name="Parcela_La">-25.08058291000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.68005586000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">352</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.6802837994815,-25.081051200492,0
+                -55.6804799999016,-25.0810916997034,0
+                -55.6804946995473,-25.0810742997425,0
+                -55.6804986994985,-25.0810553996538,0
+                -55.6805653995578,-25.0809433007119,0
+                -55.6806152000412,-25.0807178998308,0
+                -55.6806289003954,-25.0805427004315,0
+                -55.6803921005928,-25.0804160001369,0
+                -55.6803966999559,-25.0801900005065,0
+                -55.6803466998357,-25.0800632997759,0
+                -55.6802687000062,-25.0800384992773,0
+                -55.68006680014,-25.0801196001995,0
+                -55.679898600438,-25.0801864000221,0
+                -55.6796922003127,-25.0802815995949,0
+                -55.6794587006265,-25.0803288993845,0
+                -55.6794380999973,-25.0805005003865,0
+                -55.679420599848,-25.0807156003413,0
+                -55.6795048000991,-25.0808017998225,0
+                -55.6797056996686,-25.0808528999887,0
+                -55.6798851005352,-25.0809247000624,0
+                -55.6801030995218,-25.0809792006178,0
+                -55.6802837994815,-25.081051200492,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_RA__L_ARSENIO_OVIEDO.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_RA__L_ARSENIO_OVIEDO.schema">
+            <SimpleData name="Cédula">6349767.00000000000</SimpleData>
+            <SimpleData name="cedula">6349767</SimpleData>
+            <SimpleData name="Shape_Leng">480.51200729400</SimpleData>
+            <SimpleData name="Shape_Area">8367.42607153000</SimpleData>
+            <SimpleData name="N">399.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ESTELVINA BARRETO ACOSTA</SimpleData>
+            <SimpleData name="Cédula_1">6349767.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">RA?L ARSENIO OVIEDO</SimpleData>
+            <SimpleData name="Localidad">Y?AKA RETA</SimpleData>
+            <SimpleData name="Teléfono">0971493334</SimpleData>
+            <SimpleData name="Vivienda_L">-25.08061510000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.67735890000</SimpleData>
+            <SimpleData name="Parcela_La">-25.07983084000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.67718063000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">399</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.676511700212,-25.0806133006455,0
+                -55.6767164004158,-25.080703399844,0
+                -55.6771511998398,-25.0802547002094,0
+                -55.6773271999281,-25.0800412003963,0
+                -55.6776438002215,-25.0797135994762,0
+                -55.6778559991951,-25.0795604998477,0
+                -55.6778531997974,-25.0795191995094,0
+                -55.6776365996651,-25.0793377000549,0
+                -55.677406999418,-25.0791441005581,0
+                -55.6772282999352,-25.0793470996108,0
+                -55.6769805999519,-25.0795591998441,0
+                -55.6768565007997,-25.0796409005841,0
+                -55.6766559996149,-25.0798141998835,0
+                -55.676931599791,-25.0801119002663,0
+                -55.6768453995284,-25.0802896997135,0
+                -55.676511700212,-25.0806133006455,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_RA__L_ARSENIO_OVIEDO.9">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_RA__L_ARSENIO_OVIEDO.schema">
+            <SimpleData name="Cédula">6349771.00000000000</SimpleData>
+            <SimpleData name="cedula">6349771</SimpleData>
+            <SimpleData name="Shape_Leng">485.02978112600</SimpleData>
+            <SimpleData name="Shape_Area">8526.17676532000</SimpleData>
+            <SimpleData name="N">400.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">JORGELINA BARRETO ACOSTA</SimpleData>
+            <SimpleData name="Cédula_1">6349771.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">RA?L ARSENIO OVIEDO</SimpleData>
+            <SimpleData name="Localidad">Y?AKA RETA</SimpleData>
+            <SimpleData name="Teléfono">0976393325</SimpleData>
+            <SimpleData name="Vivienda_L">-25.08157750000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.67639300000</SimpleData>
+            <SimpleData name="Parcela_La">-25.08215930000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.67645507000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">400</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.6765317003643,-25.0820133003647,0
+                -55.6764132000211,-25.0820610005452,0
+                -55.6762046000378,-25.081971300403,0
+                -55.676075500457,-25.0820476003994,0
+                -55.6760107000721,-25.0821470999827,0
+                -55.6758074994045,-25.0821928005263,0
+                -55.6756562000536,-25.0821263994605,0
+                -55.6755106999972,-25.0822448003969,0
+                -55.6754781003306,-25.0823195999964,0
+                -55.6754526004129,-25.0824962996459,0
+                -55.6755975996507,-25.0825517001156,0
+                -55.6757717006821,-25.0825627999025,0
+                -55.6759859996214,-25.0824865001821,0
+                -55.6762292998557,-25.0824244996522,0
+                -55.6764282999435,-25.0823858004197,0
+                -55.6766569996823,-25.0823470001023,0
+                -55.6768839993586,-25.0822803997812,0
+                -55.6770959995677,-25.0822270993777,0
+                -55.6773073999729,-25.0821294993992,0
+                -55.6772952003513,-25.0819123003321,0
+                -55.6772951001015,-25.0817446001541,0
+                -55.6771316999114,-25.0816278005378,0
+                -55.6769345004697,-25.0817487000722,0
+                -55.6765317003643,-25.0820133003647,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_RA__L_ARSENIO_OVIEDO.10">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_RA__L_ARSENIO_OVIEDO.schema">
+            <SimpleData name="Cédula">7325981.00000000000</SimpleData>
+            <SimpleData name="cedula">7325981</SimpleData>
+            <SimpleData name="Shape_Leng">686.44418288300</SimpleData>
+            <SimpleData name="Shape_Area">8091.04940322000</SimpleData>
+            <SimpleData name="N">527.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">GLADYS BAEZ VARGAS</SimpleData>
+            <SimpleData name="Cédula_1">7325981.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">RA?L ARSENIO OVIEDO</SimpleData>
+            <SimpleData name="Localidad">Y?AKA RETA</SimpleData>
+            <SimpleData name="Teléfono">No tiene</SimpleData>
+            <SimpleData name="Vivienda_L">-25.07901050000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.69245430000</SimpleData>
+            <SimpleData name="Parcela_La">-25.07316506000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.69279640000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">527</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.6927496000614,-25.0724830997987,0
+                -55.6928522997929,-25.0726051005507,0
+                -55.6928831995327,-25.0727819000577,0
+                -55.6929817996453,-25.0728863004644,0
+                -55.6930373000946,-25.0727426000116,0
+                -55.6930828996848,-25.0726067998372,0
+                -55.6930939005461,-25.0727577993104,0
+                -55.6932137992352,-25.0728380002646,0
+                -55.6932941001313,-25.0729597005815,0
+                -55.6932469996126,-25.0731337997201,0
+                -55.6931482007056,-25.07327010039,0
+                -55.6929843991711,-25.0732774997043,0
+                -55.6929424004927,-25.0731161006922,0
+                -55.6929493004503,-25.0729950001846,0
+                -55.6927223001849,-25.0729545001616,0
+                -55.6925352999971,-25.0729424997804,0
+                -55.6925276993579,-25.0731203001603,0
+                -55.6925249000208,-25.073333300037,0
+                -55.6926664995784,-25.0733476996973,0
+                -55.6928671000937,-25.0733702000075,0
+                -55.6931067005923,-25.073414099321,0
+                -55.6933167002738,-25.0734416994774,0
+                -55.6934350008851,-25.0734917006244,0
+                -55.6936002146247,-25.0736657292109,0
+                -55.6935816995953,-25.0734164995495,0
+                -55.6935687993756,-25.0733127003864,0
+                -55.6935840004008,-25.0731636995446,0
+                -55.6935965993897,-25.0730111994413,0
+                -55.6936069000441,-25.0728220004165,0
+                -55.6935230998135,-25.0726653993773,0
+                -55.6933623006096,-25.0726422002465,0
+                -55.6931649995365,-25.0725999000302,0
+                -55.6931103997368,-25.0725097998101,0
+                -55.6931781995379,-25.0723697995134,0
+                -55.6931536993242,-25.0722788004179,0
+                -55.6929896003379,-25.0722005000949,0
+                -55.6928148998951,-25.0721597998276,0
+                -55.6927444003987,-25.07228970017,0
+                -55.6927496000614,-25.0724830997987,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_RA__L_ARSENIO_OVIEDO.11">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_RA__L_ARSENIO_OVIEDO.schema">
+            <SimpleData name="Cédula">7623882.00000000000</SimpleData>
+            <SimpleData name="cedula">7623882</SimpleData>
+            <SimpleData name="Shape_Leng">547.54166469800</SimpleData>
+            <SimpleData name="Shape_Area">8868.49330214000</SimpleData>
+            <SimpleData name="N">534.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MIGUELA RODRIGUEZ</SimpleData>
+            <SimpleData name="Cédula_1">7623882.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">RA?L ARSENIO OVIEDO</SimpleData>
+            <SimpleData name="Localidad">Y?AKA RETA</SimpleData>
+            <SimpleData name="Teléfono">0971493334</SimpleData>
+            <SimpleData name="Vivienda_L">-25.08064320000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.67812000000</SimpleData>
+            <SimpleData name="Parcela_La">-25.08081092000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.67775921000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">534</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -55.677216900145,-25.0811778988831,0
+                  -55.6775068003464,-25.0814102993327,0
+                  -55.6777177998977,-25.0813814994797,0
+                  -55.6780051999989,-25.0815000994195,0
+                  -55.6783637996617,-25.0811139992818,0
+                  -55.6783035000709,-25.0809859998645,0
+                  -55.6773667998378,-25.0805202998177,0
+                  -55.6772494008936,-25.0807035993558,0
+                  -55.6774837997553,-25.0808883993784,0
+                  -55.677216900145,-25.0811778988831,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -55.6774307997305,-25.0799810991957,0
+                  -55.6777074998534,-25.0801734000897,0
+                  -55.6780923003557,-25.0799051993185,0
+                  -55.6779342001115,-25.0797367994035,0
+                  -55.6778516999964,-25.0796362989439,0
+                  -55.6774307997305,-25.0799810991957,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_RA__L_ARSENIO_OVIEDO.12">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_RA__L_ARSENIO_OVIEDO.schema">
+            <SimpleData name="Cédula">4449540.00000000000</SimpleData>
+            <SimpleData name="cedula">4449540</SimpleData>
+            <SimpleData name="Shape_Leng">348.74137724700</SimpleData>
+            <SimpleData name="Shape_Area">6989.20511191000</SimpleData>
+            <SimpleData name="N">295.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">OLGA SANCHEZ ESCOBAR</SimpleData>
+            <SimpleData name="Cédula_1">4449540.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 4</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">RA?L ARSENIO OVIEDO</SimpleData>
+            <SimpleData name="Localidad">TEKOHA ?EMBIARA</SimpleData>
+            <SimpleData name="Teléfono">No tiene</SimpleData>
+            <SimpleData name="Vivienda_L">-25.09700780000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.47038850000</SimpleData>
+            <SimpleData name="Parcela_La">-25.09653470000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.47029230000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-GN-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Plantaci?n</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">295</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.4706112998121,-25.096952499709,0
+                -55.4715314138459,-25.0969892397978,0
+                -55.4713393003298,-25.0963491998524,0
+                -55.4703568000911,-25.0962438999425,0
+                -55.4706112998121,-25.096952499709,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_RA__L_ARSENIO_OVIEDO.13">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_RA__L_ARSENIO_OVIEDO.schema">
+            <SimpleData name="Cédula">8461695.00000000000</SimpleData>
+            <SimpleData name="cedula">8461695</SimpleData>
+            <SimpleData name="Shape_Leng">436.66655544500</SimpleData>
+            <SimpleData name="Shape_Area">11797.93890050000</SimpleData>
+            <SimpleData name="N">299.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ESTELVINA GONZALEZ DUARTE</SimpleData>
+            <SimpleData name="Cédula_1">8461695.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 3</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">RA?L ARSENIO OVIEDO</SimpleData>
+            <SimpleData name="Localidad">TEKOHA ?EMBIARA</SimpleData>
+            <SimpleData name="Teléfono">0982038499</SimpleData>
+            <SimpleData name="Vivienda_L">-25.09601600000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.45409880000</SimpleData>
+            <SimpleData name="Parcela_La">-25.09494870000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.45499250000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-GN-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Plantaci?n</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">299</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.4538966999353,-25.0950167003851,0
+                -55.454851700501,-25.0951100005947,0
+                -55.4548879711593,-25.0939745288583,0
+                -55.4538316994908,-25.0940516992782,0
+                -55.4538966999353,-25.0950167003851,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

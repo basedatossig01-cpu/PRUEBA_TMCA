@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_CARAYAO.schema">
+      <SimpleField name="Cédula" type="double"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="Shape_Leng" type="double"/>
+      <SimpleField name="Shape_Area" type="double"/>
+      <SimpleField name="N" type="double"/>
+      <SimpleField name="Nombres_y_" type="string"/>
+      <SimpleField name="Cédula_1" type="double"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio_de_" type="string"/>
+      <SimpleField name="Titular_se" type="string"/>
+      <SimpleField name="Cédula_Ti" type="string"/>
+      <SimpleField name="Situación" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="Teléfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="double"/>
+      <SimpleField name="Vivienda_1" type="double"/>
+      <SimpleField name="Parcela_La" type="double"/>
+      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Grupo_de_p" type="string"/>
+      <SimpleField name="Estado_del" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Etapa_de_i" type="string"/>
+      <SimpleField name="Cantidad_d" type="double"/>
+      <SimpleField name="F25" type="string"/>
+      <SimpleField name="OBJECTID_1" type="int"/>
+    </Schema>
+    <Document id="Distrito_CARAYAO">
+      <name>Distrito_CARAYAO</name>
+      <Placemark id="Distrito_CARAYAO.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CARAYAO.schema">
+            <SimpleData name="Cédula">3859046.00000000000</SimpleData>
+            <SimpleData name="cedula">3859046</SimpleData>
+            <SimpleData name="Shape_Leng">411.38684580000</SimpleData>
+            <SimpleData name="Shape_Area">10397.65699720000</SimpleData>
+            <SimpleData name="N">162.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ALBINO CANDIA PAREDES</SimpleData>
+            <SimpleData name="Cédula_1">3859046.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">CARAYAO</SimpleData>
+            <SimpleData name="Localidad">SANTA MAGDALENA</SimpleData>
+            <SimpleData name="Teléfono">0986758133</SimpleData>
+            <SimpleData name="Vivienda_L">-25.15980720000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.26210080000</SimpleData>
+            <SimpleData name="Parcela_La">-25.15918969000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.26650270000</SimpleData>
+            <SimpleData name="Grupo_de_p">D-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">D</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">162</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2659526001793,-25.1587425001859,0
+                -56.2661716998155,-25.1597652998886,0
+                -56.26706649994,-25.1596326996694,0
+                -56.2668150006047,-25.1586067001785,0
+                -56.2659526001793,-25.1587425001859,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CARAYAO.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CARAYAO.schema">
+            <SimpleData name="Cédula">4369029.00000000000</SimpleData>
+            <SimpleData name="cedula">4369029</SimpleData>
+            <SimpleData name="Shape_Leng">477.81981649600</SimpleData>
+            <SimpleData name="Shape_Area">8073.64092643000</SimpleData>
+            <SimpleData name="N">519.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">JUAN ANDRES NOGUERA RUIZ DIAZ</SimpleData>
+            <SimpleData name="Cédula_1">4369029.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">CARAYAO</SimpleData>
+            <SimpleData name="Localidad">ARROYO HOVY</SimpleData>
+            <SimpleData name="Teléfono">983831314</SimpleData>
+            <SimpleData name="Vivienda_L">-25.15232500000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.29121830000</SimpleData>
+            <SimpleData name="Parcela_La">-25.14257359000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.28120804000</SimpleData>
+            <SimpleData name="Grupo_de_p">D-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">D</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">519</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.280314362778,-25.142952733893,0
+                -56.2808892840465,-25.1428181580582,0
+                -56.2819889585814,-25.1426196763117,0
+                -56.2821506006598,-25.1425905002025,0
+                -56.2821731006784,-25.1422026000329,0
+                -56.2802094769955,-25.1425747104391,0
+                -56.280314362778,-25.142952733893,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CARAYAO.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CARAYAO.schema">
+            <SimpleData name="Cédula">5974999.00000000000</SimpleData>
+            <SimpleData name="cedula">5974999</SimpleData>
+            <SimpleData name="Shape_Leng">515.54322098800</SimpleData>
+            <SimpleData name="Shape_Area">8664.96386489000</SimpleData>
+            <SimpleData name="N">385.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">BLANCA PAOLA IGLESIA DUARTE</SimpleData>
+            <SimpleData name="Cédula_1">5974999.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">CARAYAO</SimpleData>
+            <SimpleData name="Localidad">SANTA CATALINA</SimpleData>
+            <SimpleData name="Teléfono">0984980047</SimpleData>
+            <SimpleData name="Vivienda_L">-25.15748230000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.33871590000</SimpleData>
+            <SimpleData name="Parcela_La">-25.15722735000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.33808584000</SimpleData>
+            <SimpleData name="Grupo_de_p">D-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">D</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">385</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.3374567995624,-25.1574644998571,0
+                  -56.3376821994465,-25.1574670000175,0
+                  -56.3377160997006,-25.1571252997658,0
+                  -56.3376466999692,-25.1570138996032,0
+                  -56.337522300483,-25.1570219004399,0
+                  -56.3374567995624,-25.1574644998571,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.3377347007835,-25.1577490003702,0
+                  -56.3383608999161,-25.1578186001653,0
+                  -56.3385384995381,-25.1566793995819,0
+                  -56.3379365002692,-25.1566227998738,0
+                  -56.3378933003674,-25.15709399954,0
+                  -56.3377347007835,-25.1577490003702,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_CARAYAO.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CARAYAO.schema">
+            <SimpleData name="Cédula">6134280.00000000000</SimpleData>
+            <SimpleData name="cedula">6134280</SimpleData>
+            <SimpleData name="Shape_Leng">443.45731568400</SimpleData>
+            <SimpleData name="Shape_Area">8429.62245315000</SimpleData>
+            <SimpleData name="N">520.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">GUSTAVO RUBEN GALEANO GONZALEZ</SimpleData>
+            <SimpleData name="Cédula_1">6134280.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">CARAYAO</SimpleData>
+            <SimpleData name="Localidad">ARROYO HOVY</SimpleData>
+            <SimpleData name="Teléfono">986632254</SimpleData>
+            <SimpleData name="Vivienda_L">-25.15833710000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.29167580000</SimpleData>
+            <SimpleData name="Parcela_La">-25.14306307000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.28094371000</SimpleData>
+            <SimpleData name="Grupo_de_p">D-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">D</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">520</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.280314362778,-25.142952733893,0
+                -56.2802349255878,-25.1429713281766,0
+                -56.2801637002305,-25.142988000001,0
+                -56.2802867998056,-25.1434053005425,0
+                -56.2805071002897,-25.1434788997203,0
+                -56.2812264998626,-25.1433027996397,0
+                -56.2816551031727,-25.1429435581051,0
+                -56.2817523287416,-25.1428078953134,0
+                -56.2819889585814,-25.1426196763117,0
+                -56.2808892840465,-25.1428181580582,0
+                -56.280314362778,-25.142952733893,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

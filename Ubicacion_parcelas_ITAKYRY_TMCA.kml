@@ -1,0 +1,2140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_ITAKYRY.schema">
+      <SimpleField name="Cédula" type="double"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="Shape_Leng" type="double"/>
+      <SimpleField name="Shape_Area" type="double"/>
+      <SimpleField name="N" type="double"/>
+      <SimpleField name="Nombres_y_" type="string"/>
+      <SimpleField name="Cédula_1" type="double"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio_de_" type="string"/>
+      <SimpleField name="Titular_se" type="string"/>
+      <SimpleField name="Cédula_Ti" type="string"/>
+      <SimpleField name="Situación" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="Teléfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="double"/>
+      <SimpleField name="Vivienda_1" type="double"/>
+      <SimpleField name="Parcela_La" type="double"/>
+      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Grupo_de_p" type="string"/>
+      <SimpleField name="Estado_del" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Etapa_de_i" type="string"/>
+      <SimpleField name="Cantidad_d" type="double"/>
+      <SimpleField name="F25" type="string"/>
+      <SimpleField name="OBJECTID_1" type="int"/>
+    </Schema>
+    <Document id="Distrito_ITAKYRY">
+      <name>Distrito_ITAKYRY</name>
+      <Placemark id="Distrito_ITAKYRY.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">4320990.00000000000</SimpleData>
+            <SimpleData name="cedula">4320990</SimpleData>
+            <SimpleData name="Shape_Leng">545.01847886500</SimpleData>
+            <SimpleData name="Shape_Area">8986.70199555000</SimpleData>
+            <SimpleData name="N">221.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">JULIANA FERREIRA CENTURION</SimpleData>
+            <SimpleData name="Cédula_1">4320990.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">SANTA LUCIA</SimpleData>
+            <SimpleData name="Teléfono">0975588307</SimpleData>
+            <SimpleData name="Vivienda_L">-24.56434020000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.04622070000</SimpleData>
+            <SimpleData name="Parcela_La">-24.55621815000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.12002417000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">221</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Point>
+            <coordinates>
+              -55.1200241654048,-24.5562181469922,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -55.0473186488157,-24.5642869942407,0
+            </coordinates>
+          </Point>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">7321241.00000000000</SimpleData>
+            <SimpleData name="cedula">7321241</SimpleData>
+            <SimpleData name="Shape_Leng">368.33199268600</SimpleData>
+            <SimpleData name="Shape_Area">8400.71787712000</SimpleData>
+            <SimpleData name="N">255.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">NILDA VAZQUEZ ESTIGARRIBIA</SimpleData>
+            <SimpleData name="Cédula_1">7321241.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">YSAT?</SimpleData>
+            <SimpleData name="Teléfono">0983868762</SimpleData>
+            <SimpleData name="Vivienda_L">-24.93915640000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.09561780000</SimpleData>
+            <SimpleData name="Parcela_La">-24.93993264000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.09554278000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">255</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.095542776332,-24.9399326440466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">5904761.00000000000</SimpleData>
+            <SimpleData name="cedula">5904761</SimpleData>
+            <SimpleData name="Shape_Leng">418.32631418500</SimpleData>
+            <SimpleData name="Shape_Area">7968.06017997000</SimpleData>
+            <SimpleData name="N">234.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">GRACIELA MARTINEZ DUARTE</SimpleData>
+            <SimpleData name="Cédula_1">5904761.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">PILICO KUE</SimpleData>
+            <SimpleData name="Teléfono">0975796801</SimpleData>
+            <SimpleData name="Vivienda_L">-24.58953880000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.06367630000</SimpleData>
+            <SimpleData name="Parcela_La">-24.58914632000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.06321139000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">234</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.0632113919387,-24.5891463157942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">6297487.00000000000</SimpleData>
+            <SimpleData name="cedula">6297487</SimpleData>
+            <SimpleData name="Shape_Leng">507.14413369200</SimpleData>
+            <SimpleData name="Shape_Area">9781.38998381000</SimpleData>
+            <SimpleData name="N">220.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LIZ LORENA QUINTANA BENITEZ</SimpleData>
+            <SimpleData name="Cédula_1">6297487.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">SANTA LUCIA</SimpleData>
+            <SimpleData name="Teléfono">0975552919</SimpleData>
+            <SimpleData name="Vivienda_L">-24.57174600000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.04064810000</SimpleData>
+            <SimpleData name="Parcela_La">-24.57219034000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.03980446000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P1-P8P8-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">220</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.0398044646214,-24.5721903358926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">5653793.00000000000</SimpleData>
+            <SimpleData name="cedula">5653793</SimpleData>
+            <SimpleData name="Shape_Leng">423.98577413800</SimpleData>
+            <SimpleData name="Shape_Area">10103.95558170000</SimpleData>
+            <SimpleData name="N">257.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">RAFAELA ESQUIVEL ESTIGARRIBIA</SimpleData>
+            <SimpleData name="Cédula_1">5653793.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">YSAT?</SimpleData>
+            <SimpleData name="Teléfono">0986394539</SimpleData>
+            <SimpleData name="Vivienda_L">-24.93922860000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.08702410000</SimpleData>
+            <SimpleData name="Parcela_La">-24.94830254000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.09217076000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">257</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.0921707576015,-24.9483025432408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">3937429.00000000000</SimpleData>
+            <SimpleData name="cedula">3937429</SimpleData>
+            <SimpleData name="Shape_Leng">405.15460669500</SimpleData>
+            <SimpleData name="Shape_Area">10269.24700300000</SimpleData>
+            <SimpleData name="N">252.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CLOTILDE BENITEZ</SimpleData>
+            <SimpleData name="Cédula_1">3937429.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">TUPA RENDA</SimpleData>
+            <SimpleData name="Teléfono">0983769160</SimpleData>
+            <SimpleData name="Vivienda_L">-24.99155300000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.07583730000</SimpleData>
+            <SimpleData name="Parcela_La">-24.98090433000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.08072283000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">252</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.0807228303218,-24.980904328695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">8669058.00000000000</SimpleData>
+            <SimpleData name="cedula">8669058</SimpleData>
+            <SimpleData name="Shape_Leng">565.87549044900</SimpleData>
+            <SimpleData name="Shape_Area">11792.48308650000</SimpleData>
+            <SimpleData name="N">226.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LIDIA RAMONA MAIZ VI?ALEZ</SimpleData>
+            <SimpleData name="Cédula_1">8669058.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">SANTO DOMINGO</SimpleData>
+            <SimpleData name="Teléfono">0983798496</SimpleData>
+            <SimpleData name="Vivienda_L">-24.96627370000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.18160410000</SimpleData>
+            <SimpleData name="Parcela_La">-24.96683167000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.18394839000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">226</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.1839483852631,-24.9668316688495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">5251822.00000000000</SimpleData>
+            <SimpleData name="cedula">5251822</SimpleData>
+            <SimpleData name="Shape_Leng">494.56773194100</SimpleData>
+            <SimpleData name="Shape_Area">10413.18910300000</SimpleData>
+            <SimpleData name="N">219.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MILCIADES JIMENEZ ROMERO</SimpleData>
+            <SimpleData name="Cédula_1">5251822.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[CAPI'I]]></SimpleData>
+            <SimpleData name="Teléfono">0983789764</SimpleData>
+            <SimpleData name="Vivienda_L">-24.88769980000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.17616910000</SimpleData>
+            <SimpleData name="Parcela_La">-24.88785417000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.17651233000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">219</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.1765123319469,-24.8878541688081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.9">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">7899249.00000000000</SimpleData>
+            <SimpleData name="cedula">7899249</SimpleData>
+            <SimpleData name="Shape_Leng">386.91398260100</SimpleData>
+            <SimpleData name="Shape_Area">9153.45204703000</SimpleData>
+            <SimpleData name="N">253.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CARMEN GAUTO BENITEZ</SimpleData>
+            <SimpleData name="Cédula_1">7899249.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">TUPA RENDA</SimpleData>
+            <SimpleData name="Teléfono">9999999999</SimpleData>
+            <SimpleData name="Vivienda_L">-24.99172610000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.07402280000</SimpleData>
+            <SimpleData name="Parcela_La">-24.98174975000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.08079158000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">253</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.080791578704,-24.9817497486399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.10">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">7072109.00000000000</SimpleData>
+            <SimpleData name="cedula">7072109</SimpleData>
+            <SimpleData name="Shape_Leng">573.38173944200</SimpleData>
+            <SimpleData name="Shape_Area">11126.04674150000</SimpleData>
+            <SimpleData name="N">483.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ELADIO JULIAN GAUTO BENITEZ</SimpleData>
+            <SimpleData name="Cédula_1">7072109.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">TUPA RENDA</SimpleData>
+            <SimpleData name="Teléfono">9818758842</SimpleData>
+            <SimpleData name="Vivienda_L">-24.99108100000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.08027880000</SimpleData>
+            <SimpleData name="Parcela_La">-24.98714277000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.08147321000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">483</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.0814732076013,-24.9871427650013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.11">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">7293644.00000000000</SimpleData>
+            <SimpleData name="cedula">7293644</SimpleData>
+            <SimpleData name="Shape_Leng">386.64385644500</SimpleData>
+            <SimpleData name="Shape_Area">8173.00274788000</SimpleData>
+            <SimpleData name="N">235.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">GUILLERMINA FRANCO DUARTE</SimpleData>
+            <SimpleData name="Cédula_1">7293644.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">PASO CADENA</SimpleData>
+            <SimpleData name="Teléfono">0972295520</SimpleData>
+            <SimpleData name="Vivienda_L">-24.96290490000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.30401240000</SimpleData>
+            <SimpleData name="Parcela_La">-24.96383288000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.30569050000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">235</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.30569050208,-24.9638328779204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.12">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">6047097.00000000000</SimpleData>
+            <SimpleData name="cedula">6047097</SimpleData>
+            <SimpleData name="Shape_Leng">663.92010520100</SimpleData>
+            <SimpleData name="Shape_Area">8541.22820946000</SimpleData>
+            <SimpleData name="N">239.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARIA VILLALBA LOPEZ</SimpleData>
+            <SimpleData name="Cédula_1">6047097.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">LOMA TAJY</SimpleData>
+            <SimpleData name="Teléfono">0984044814</SimpleData>
+            <SimpleData name="Vivienda_L">-24.97274450000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.05927040000</SimpleData>
+            <SimpleData name="Parcela_La">-24.96413039000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.06170986000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">3.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">239</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Point>
+            <coordinates>
+              -55.0617182410351,-24.9641959021885,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -55.0594697566311,-24.9724875909868,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -55.0592488764155,-24.9732133082195,0
+            </coordinates>
+          </Point>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.13">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">6772798.00000000000</SimpleData>
+            <SimpleData name="cedula">6772798</SimpleData>
+            <SimpleData name="Shape_Leng">408.53170043900</SimpleData>
+            <SimpleData name="Shape_Area">8144.64875507000</SimpleData>
+            <SimpleData name="N">246.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">AGUSTIN RIVAROLA PIRIS</SimpleData>
+            <SimpleData name="Cédula_1">6772798.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">TEKOHA PYAHU I (CARRERIA?I)</SimpleData>
+            <SimpleData name="Teléfono">0984442261</SimpleData>
+            <SimpleData name="Vivienda_L">-24.85808920000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.28187570000</SimpleData>
+            <SimpleData name="Parcela_La">-24.86106368000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.27248340000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">246</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.2724834037505,-24.861063682221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.14">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">7622749.00000000000</SimpleData>
+            <SimpleData name="cedula">7622749</SimpleData>
+            <SimpleData name="Shape_Leng">422.25272049100</SimpleData>
+            <SimpleData name="Shape_Area">8022.60899627000</SimpleData>
+            <SimpleData name="N">244.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">EULOGIA MARTINEZ VARGAS</SimpleData>
+            <SimpleData name="Cédula_1">7622749.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">URUKU POTY</SimpleData>
+            <SimpleData name="Teléfono">0981498954</SimpleData>
+            <SimpleData name="Vivienda_L">-24.86691320000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.30200160000</SimpleData>
+            <SimpleData name="Parcela_La">-24.86248939000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.30794270000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">244</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.307942704652,-24.8624893911128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.15">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">4257476.00000000000</SimpleData>
+            <SimpleData name="cedula">4257476</SimpleData>
+            <SimpleData name="Shape_Leng">465.27725709100</SimpleData>
+            <SimpleData name="Shape_Area">9127.27677173000</SimpleData>
+            <SimpleData name="N">215.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ANA DEJESUS LEZCANO PINO</SimpleData>
+            <SimpleData name="Cédula_1">4257476.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">CHINO KUE 2 LINEA</SimpleData>
+            <SimpleData name="Teléfono">0984529269</SimpleData>
+            <SimpleData name="Vivienda_L">-24.84769050000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.15419470000</SimpleData>
+            <SimpleData name="Parcela_La">-24.84277469000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.15366857000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">215</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.1536685676039,-24.842774687136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.16">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">6658682.00000000000</SimpleData>
+            <SimpleData name="cedula">6658682</SimpleData>
+            <SimpleData name="Shape_Leng">586.88708516800</SimpleData>
+            <SimpleData name="Shape_Area">11039.04139560000</SimpleData>
+            <SimpleData name="N">218.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">NATALIA ROJAS SANTACRUZ</SimpleData>
+            <SimpleData name="Cédula_1">6658682.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[CAPI'I]]></SimpleData>
+            <SimpleData name="Teléfono">0973799121</SimpleData>
+            <SimpleData name="Vivienda_L">-24.88988020000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.17315620000</SimpleData>
+            <SimpleData name="Parcela_La">-24.89080626000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.17310595000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">218</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.173105951796,-24.8908062592157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.17">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">6780702.00000000000</SimpleData>
+            <SimpleData name="cedula">6780702</SimpleData>
+            <SimpleData name="Shape_Leng">395.56348795700</SimpleData>
+            <SimpleData name="Shape_Area">8127.73253009000</SimpleData>
+            <SimpleData name="N">256.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MIRIAN PORTILLO MARTINEZ</SimpleData>
+            <SimpleData name="Cédula_1">6780702.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">YSAT?</SimpleData>
+            <SimpleData name="Teléfono">0982203531</SimpleData>
+            <SimpleData name="Vivienda_L">-24.93614190000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.07942020000</SimpleData>
+            <SimpleData name="Parcela_La">-24.93633015000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.07964316000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P3-P8P8-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">256</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.0796431633024,-24.9363301538696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.18">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">5904752.00000000000</SimpleData>
+            <SimpleData name="cedula">5904752</SimpleData>
+            <SimpleData name="Shape_Leng">414.11373438200</SimpleData>
+            <SimpleData name="Shape_Area">10112.00251230000</SimpleData>
+            <SimpleData name="N">228.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">REGINA RECALDE MARTINEZ</SimpleData>
+            <SimpleData name="Cédula_1">5904752.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">ARROYO GUASU - BARRIO CHOPA CUE</SimpleData>
+            <SimpleData name="Teléfono">0985260374</SimpleData>
+            <SimpleData name="Vivienda_L">-24.60921470000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.02431530000</SimpleData>
+            <SimpleData name="Parcela_La">-24.60970294000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.02568409000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P2-P8P8-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">228</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.0256840853143,-24.609702943857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.19">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">7516500.00000000000</SimpleData>
+            <SimpleData name="cedula">7516500</SimpleData>
+            <SimpleData name="Shape_Leng">366.96613316400</SimpleData>
+            <SimpleData name="Shape_Area">8463.38491208000</SimpleData>
+            <SimpleData name="N">222.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARIELA LOPEZ TORRES</SimpleData>
+            <SimpleData name="Cédula_1">7516500.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">CHINO KUE 1 LINEA</SimpleData>
+            <SimpleData name="Teléfono">0982723242</SimpleData>
+            <SimpleData name="Vivienda_L">-24.85398910000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.11708430000</SimpleData>
+            <SimpleData name="Parcela_La">-24.83562496000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.13289077000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">222</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.1328907658859,-24.835624959227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.20">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">7570434.00000000000</SimpleData>
+            <SimpleData name="cedula">7570434</SimpleData>
+            <SimpleData name="Shape_Leng">405.85890926100</SimpleData>
+            <SimpleData name="Shape_Area">9990.59365732000</SimpleData>
+            <SimpleData name="N">254.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ELVIO RAMON FONSECA RODAS</SimpleData>
+            <SimpleData name="Cédula_1">7570434.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">TUPA RENDA</SimpleData>
+            <SimpleData name="Teléfono">0975859769</SimpleData>
+            <SimpleData name="Vivienda_L">-24.99156280000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.07521120000</SimpleData>
+            <SimpleData name="Parcela_La">-24.98348301000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.08098875000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">254</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.0809887476252,-24.9834830145123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.21">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">5140997.00000000000</SimpleData>
+            <SimpleData name="cedula">5140997</SimpleData>
+            <SimpleData name="Shape_Leng">500.65674587600</SimpleData>
+            <SimpleData name="Shape_Area">8455.71587518000</SimpleData>
+            <SimpleData name="N">227.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LUISA QUIROZ GALVEZ</SimpleData>
+            <SimpleData name="Cédula_1">5140997.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">CHINO KUE 1 LINEA</SimpleData>
+            <SimpleData name="Teléfono">0983710828</SimpleData>
+            <SimpleData name="Vivienda_L">-24.81687340000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.19886590000</SimpleData>
+            <SimpleData name="Parcela_La">-24.81570860000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.19877241000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">227</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.1987724084493,-24.8157086023048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.22">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">5204139.00000000000</SimpleData>
+            <SimpleData name="cedula">5204139</SimpleData>
+            <SimpleData name="Shape_Leng">629.25698552600</SimpleData>
+            <SimpleData name="Shape_Area">8834.22318769000</SimpleData>
+            <SimpleData name="N">523.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CESAR  FERREIRA DOMINGUEZ</SimpleData>
+            <SimpleData name="Cédula_1">5204139.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">ASENT. CHINO KUE - PRIMERA LINEA</SimpleData>
+            <SimpleData name="Teléfono">986670322</SimpleData>
+            <SimpleData name="Vivienda_L">-24.82415730000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.32342500000</SimpleData>
+            <SimpleData name="Parcela_La">-24.81822052000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.32144035000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">523</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Point>
+            <coordinates>
+              -55.3218649815839,-24.8190983658098,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -55.3214403496397,-24.8182205226803,0
+            </coordinates>
+          </Point>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.23">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">6321004.00000000000</SimpleData>
+            <SimpleData name="cedula">6321004</SimpleData>
+            <SimpleData name="Shape_Leng">406.65523559000</SimpleData>
+            <SimpleData name="Shape_Area">9413.37661954000</SimpleData>
+            <SimpleData name="N">209.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LARIZA ROSANA  MARTINEZ GIMENEZ</SimpleData>
+            <SimpleData name="Cédula_1">6321004.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">ASENT. CHINO KUE - PRIMERA LINEA</SimpleData>
+            <SimpleData name="Teléfono">981684849</SimpleData>
+            <SimpleData name="Vivienda_L">-24.81896500000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.18628170000</SimpleData>
+            <SimpleData name="Parcela_La">-24.84632914000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.19565710000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">209</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.1956571018599,-24.8463291416372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.24">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">3985378.00000000000</SimpleData>
+            <SimpleData name="cedula">3985378</SimpleData>
+            <SimpleData name="Shape_Leng">490.62025069100</SimpleData>
+            <SimpleData name="Shape_Area">8007.79039623000</SimpleData>
+            <SimpleData name="N">233.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">EUSEBIO ARAUJO CHAVEZ</SimpleData>
+            <SimpleData name="Cédula_1">3985378.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">ARROYO GUASU - BARRIO CENTRO</SimpleData>
+            <SimpleData name="Teléfono">0984379853</SimpleData>
+            <SimpleData name="Vivienda_L">-24.60018750000</SimpleData>
+            <SimpleData name="Vivienda_1">-54.96524990000</SimpleData>
+            <SimpleData name="Parcela_La">-24.59934527000</SimpleData>
+            <SimpleData name="Parcela_Lo">-54.96499796000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">233</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Point>
+            <coordinates>
+              -54.9649979614234,-24.5993452653685,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -54.9600919862336,-24.6007008744927,0
+            </coordinates>
+          </Point>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.25">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">1844165.00000000000</SimpleData>
+            <SimpleData name="cedula">1844165</SimpleData>
+            <SimpleData name="Shape_Leng">408.46984294300</SimpleData>
+            <SimpleData name="Shape_Area">8036.15021700000</SimpleData>
+            <SimpleData name="N">245.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ADRIANO MARTINEZ RAMIREZ</SimpleData>
+            <SimpleData name="Cédula_1">1844165.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">URUKU POTY</SimpleData>
+            <SimpleData name="Teléfono">0984332885</SimpleData>
+            <SimpleData name="Vivienda_L">-24.86725930000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.30365100000</SimpleData>
+            <SimpleData name="Parcela_La">-24.86197090000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.30839492000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">245</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.3083949190119,-24.8619709029724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.26">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">7744867.00000000000</SimpleData>
+            <SimpleData name="cedula">7744867</SimpleData>
+            <SimpleData name="Shape_Leng">363.55289625300</SimpleData>
+            <SimpleData name="Shape_Area">8196.96013007000</SimpleData>
+            <SimpleData name="N">259.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">FLORINDA RIOS LOPEZ</SimpleData>
+            <SimpleData name="Cédula_1">7744867.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">ARROYO GUASU - BARRIO CENTRO</SimpleData>
+            <SimpleData name="Teléfono">986789900</SimpleData>
+            <SimpleData name="Vivienda_L">-24.62686260000</SimpleData>
+            <SimpleData name="Vivienda_1">-54.98789980000</SimpleData>
+            <SimpleData name="Parcela_La">-24.62718582000</SimpleData>
+            <SimpleData name="Parcela_Lo">-54.98569242000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P2-P8P8-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">259</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.9856924204808,-24.6271858210448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.27">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">4121535.00000000000</SimpleData>
+            <SimpleData name="cedula">4121535</SimpleData>
+            <SimpleData name="Shape_Leng">597.82973531400</SimpleData>
+            <SimpleData name="Shape_Area">8405.03928566000</SimpleData>
+            <SimpleData name="N">238.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">GENARA ORREGO</SimpleData>
+            <SimpleData name="Cédula_1">4121535.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">LOMA TAJY</SimpleData>
+            <SimpleData name="Teléfono">0975422840</SimpleData>
+            <SimpleData name="Vivienda_L">-24.96462250000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.06140270000</SimpleData>
+            <SimpleData name="Parcela_La">-24.96525122000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.06100555000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">238</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Point>
+            <coordinates>
+              -55.0614491408383,-24.9667250325439,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -55.0609174468359,-24.9649585160299,0
+            </coordinates>
+          </Point>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.28">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">1411568.00000000000</SimpleData>
+            <SimpleData name="cedula">1411568</SimpleData>
+            <SimpleData name="Shape_Leng">524.43812304000</SimpleData>
+            <SimpleData name="Shape_Area">8000.11012560000</SimpleData>
+            <SimpleData name="N">240.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">FERMINA VERA BENITEZ</SimpleData>
+            <SimpleData name="Cédula_1">1411568.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">KA?ATY MIR? - FORMOSA</SimpleData>
+            <SimpleData name="Teléfono">0984596970</SimpleData>
+            <SimpleData name="Vivienda_L">-24.96335330000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.07678000000</SimpleData>
+            <SimpleData name="Parcela_La">-24.96412348000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.09467785000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P1-P8P8-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">240</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Point>
+            <coordinates>
+              -55.0946778479135,-24.9641234821033,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -55.0772266757063,-24.9630926875414,0
+            </coordinates>
+          </Point>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.29">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">7620600.00000000000</SimpleData>
+            <SimpleData name="cedula">7620600</SimpleData>
+            <SimpleData name="Shape_Leng">571.27763689300</SimpleData>
+            <SimpleData name="Shape_Area">8444.46913335000</SimpleData>
+            <SimpleData name="N">243.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MANUELA CANDIA ORREGO</SimpleData>
+            <SimpleData name="Cédula_1">7620600.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">LOMA TAJY</SimpleData>
+            <SimpleData name="Teléfono">0971579924</SimpleData>
+            <SimpleData name="Vivienda_L">-24.96546190000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.06115240000</SimpleData>
+            <SimpleData name="Parcela_La">-24.96580114000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.06156529000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">243</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Point>
+            <coordinates>
+              -55.0616262122064,-24.9653857195817,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -55.0614973364445,-24.9662644861657,0
+            </coordinates>
+          </Point>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.30">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">8397330.00000000000</SimpleData>
+            <SimpleData name="cedula">8397330</SimpleData>
+            <SimpleData name="Shape_Leng">408.11877014300</SimpleData>
+            <SimpleData name="Shape_Area">8318.21193673000</SimpleData>
+            <SimpleData name="N">229.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">EUGENIA BENITEZ RECALDE</SimpleData>
+            <SimpleData name="Cédula_1">8397330.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">ARROYO GUASU - BARRIO CHOPA CUE</SimpleData>
+            <SimpleData name="Teléfono">0983063612</SimpleData>
+            <SimpleData name="Vivienda_L">-24.60922330000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.02340840000</SimpleData>
+            <SimpleData name="Parcela_La">-24.60875099000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.02652507000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P2-P8P8-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">229</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.0265250735101,-24.6087509931216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.31">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">5653809.00000000000</SimpleData>
+            <SimpleData name="cedula">5653809</SimpleData>
+            <SimpleData name="Shape_Leng">519.16080833400</SimpleData>
+            <SimpleData name="Shape_Area">8366.06852311000</SimpleData>
+            <SimpleData name="N">250.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">NOELIA ORREGO VERA</SimpleData>
+            <SimpleData name="Cédula_1">5653809.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">KA?ATY MIR? - FORMOSA</SimpleData>
+            <SimpleData name="Teléfono">0986380841</SimpleData>
+            <SimpleData name="Vivienda_L">-24.96451550000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.07784550000</SimpleData>
+            <SimpleData name="Parcela_La">-24.96299698000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.09666162000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P1-P8P8-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">250</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.0966616227067,-24.9629969772869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.32">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">5970476.00000000000</SimpleData>
+            <SimpleData name="cedula">5970476</SimpleData>
+            <SimpleData name="Shape_Leng">460.77073849600</SimpleData>
+            <SimpleData name="Shape_Area">10266.82641570000</SimpleData>
+            <SimpleData name="N">248.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MIRIAN RIVAS PORTILLO</SimpleData>
+            <SimpleData name="Cédula_1">5970476.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">YSAT?</SimpleData>
+            <SimpleData name="Teléfono">0973616574</SimpleData>
+            <SimpleData name="Vivienda_L">-24.93832900000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.09736760000</SimpleData>
+            <SimpleData name="Parcela_La">-24.93819956000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.09682206000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">248</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.0968220623779,-24.938199564319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.33">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">7887588.00000000000</SimpleData>
+            <SimpleData name="cedula">7887588</SimpleData>
+            <SimpleData name="Shape_Leng">444.11267672900</SimpleData>
+            <SimpleData name="Shape_Area">9606.87889700000</SimpleData>
+            <SimpleData name="N">506.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">VERENICE  MARECOS DE OLIVEIRA</SimpleData>
+            <SimpleData name="Cédula_1">7887588.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">CHINO CUE</SimpleData>
+            <SimpleData name="Teléfono">0982713487</SimpleData>
+            <SimpleData name="Vivienda_L">-24.82218220000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.17539530000</SimpleData>
+            <SimpleData name="Parcela_La">-24.82325731000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.17374776000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">506</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.1737477586271,-24.8232573128924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.34">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">4525932.00000000000</SimpleData>
+            <SimpleData name="cedula">4525932</SimpleData>
+            <SimpleData name="Shape_Leng">394.59367303900</SimpleData>
+            <SimpleData name="Shape_Area">9149.40107637000</SimpleData>
+            <SimpleData name="N">217.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CYNTHIA BEATRIS MARECO BAEZ</SimpleData>
+            <SimpleData name="Cédula_1">4525932.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">SANTA LUCIA</SimpleData>
+            <SimpleData name="Teléfono">0986840335</SimpleData>
+            <SimpleData name="Vivienda_L">-24.56791560000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.02722110000</SimpleData>
+            <SimpleData name="Parcela_La">-24.55717351000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.01786166000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P1-P8P8-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">217</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.0178616619144,-24.5571735109269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.35">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">6789104.00000000000</SimpleData>
+            <SimpleData name="cedula">6789104</SimpleData>
+            <SimpleData name="Shape_Leng">397.64350827700</SimpleData>
+            <SimpleData name="Shape_Area">7982.23995932000</SimpleData>
+            <SimpleData name="N">224.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ELIANA ESTER ITURBE DUARTE</SimpleData>
+            <SimpleData name="Cédula_1">6789104.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">SANTA LUCIA</SimpleData>
+            <SimpleData name="Teléfono">0981981959</SimpleData>
+            <SimpleData name="Vivienda_L">-24.56392590000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.02296730000</SimpleData>
+            <SimpleData name="Parcela_La">-24.56362711000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.03093029000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">224</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.0309302914236,-24.5636271070639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.36">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">7497591.00000000000</SimpleData>
+            <SimpleData name="cedula">7497591</SimpleData>
+            <SimpleData name="Shape_Leng">436.19277966300</SimpleData>
+            <SimpleData name="Shape_Area">9216.74352153000</SimpleData>
+            <SimpleData name="N">225.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">RUTH ESTHER GIMENEZ RAMIREZ</SimpleData>
+            <SimpleData name="Cédula_1">7497591.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">SANTA LUCIA</SimpleData>
+            <SimpleData name="Teléfono">0975424703</SimpleData>
+            <SimpleData name="Vivienda_L">-24.58532460000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.04556440000</SimpleData>
+            <SimpleData name="Parcela_La">-24.56194617000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.06619445000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P7-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">225</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Point>
+            <coordinates>
+              -55.0665710704541,-24.5613755374938,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -55.0661944466725,-24.5619461666983,0
+            </coordinates>
+          </Point>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.37">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">6047106.00000000000</SimpleData>
+            <SimpleData name="cedula">6047106</SimpleData>
+            <SimpleData name="Shape_Leng">747.49793822900</SimpleData>
+            <SimpleData name="Shape_Area">9243.93918214000</SimpleData>
+            <SimpleData name="N">237.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">FERMINA PORTILLO VERA</SimpleData>
+            <SimpleData name="Cédula_1">6047106.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">LOMA TAJY</SimpleData>
+            <SimpleData name="Teléfono">0982094951</SimpleData>
+            <SimpleData name="Vivienda_L">-24.97044670000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.06178330000</SimpleData>
+            <SimpleData name="Parcela_La">-24.97101315000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.06149927000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">3.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">237</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Point>
+            <coordinates>
+              -55.0614992727609,-24.9710131453327,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -55.0591300842908,-24.9739476051491,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -55.0590627344902,-24.9734941618246,0
+            </coordinates>
+          </Point>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.38">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">5860183.00000000000</SimpleData>
+            <SimpleData name="cedula">5860183</SimpleData>
+            <SimpleData name="Shape_Leng">633.07760045900</SimpleData>
+            <SimpleData name="Shape_Area">9225.91181497000</SimpleData>
+            <SimpleData name="N">249.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">VENANCIA GAUTO VERA</SimpleData>
+            <SimpleData name="Cédula_1">5860183.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">KA?ATY MIR? - FORMOSA</SimpleData>
+            <SimpleData name="Teléfono">0984232888</SimpleData>
+            <SimpleData name="Vivienda_L">-24.96554900000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.07858870000</SimpleData>
+            <SimpleData name="Parcela_La">-24.96395576000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.09537573000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">249</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Point>
+            <coordinates>
+              -55.0954077593854,-24.9638679658228,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -55.091516728785,-24.9636887307376,0
+            </coordinates>
+          </Point>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.39">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">3186754.00000000000</SimpleData>
+            <SimpleData name="cedula">3186754</SimpleData>
+            <SimpleData name="Shape_Leng">414.38203143900</SimpleData>
+            <SimpleData name="Shape_Area">10669.73324140000</SimpleData>
+            <SimpleData name="N">484.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LEONARDA  ALFONZO DE ALEGRE</SimpleData>
+            <SimpleData name="Cédula_1">3186754.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">TUPA RENDA</SimpleData>
+            <SimpleData name="Teléfono">973660949</SimpleData>
+            <SimpleData name="Vivienda_L">-24.99062850000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.08125300000</SimpleData>
+            <SimpleData name="Parcela_La">-24.98436018000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.08109750000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">484</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.0810975002845,-24.9843601848758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.40">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">7953237.00000000000</SimpleData>
+            <SimpleData name="cedula">7953237</SimpleData>
+            <SimpleData name="Shape_Leng">410.76782874600</SimpleData>
+            <SimpleData name="Shape_Area">10435.57194840000</SimpleData>
+            <SimpleData name="N">487.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">AURELIA  GAUTO BENITEZ</SimpleData>
+            <SimpleData name="Cédula_1">7953237.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">TUPA RENDA</SimpleData>
+            <SimpleData name="Teléfono">985289884</SimpleData>
+            <SimpleData name="Vivienda_L">-24.99159220000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.07549200000</SimpleData>
+            <SimpleData name="Parcela_La">-24.98259341000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.08088952000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">487</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.0808895225727,-24.9825934140906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.41">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">6891725.00000000000</SimpleData>
+            <SimpleData name="cedula">6891725</SimpleData>
+            <SimpleData name="Shape_Leng">601.84678208500</SimpleData>
+            <SimpleData name="Shape_Area">9426.41565535000</SimpleData>
+            <SimpleData name="N">216.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">FRANCISCA ROMERO RAMOS</SimpleData>
+            <SimpleData name="Cédula_1">6891725.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">ACARAY COSTA</SimpleData>
+            <SimpleData name="Teléfono">0985540582</SimpleData>
+            <SimpleData name="Vivienda_L">-25.12625570000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.10534270000</SimpleData>
+            <SimpleData name="Parcela_La">-25.12593157000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.10327600000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">216</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.1032760028696,-25.1259315699158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.42">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">5902589.00000000000</SimpleData>
+            <SimpleData name="cedula">5902589</SimpleData>
+            <SimpleData name="Shape_Leng">514.66955164900</SimpleData>
+            <SimpleData name="Shape_Area">9970.88309893000</SimpleData>
+            <SimpleData name="N">231.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARIA ANA DUARTE</SimpleData>
+            <SimpleData name="Cédula_1">5902589.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">PILICO KUE</SimpleData>
+            <SimpleData name="Teléfono">0976366359</SimpleData>
+            <SimpleData name="Vivienda_L">-24.59055990000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.06762310000</SimpleData>
+            <SimpleData name="Parcela_La">-24.59043217000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.06848550000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">231</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.0684870161154,-24.5904347622399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.43">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">5860179.00000000000</SimpleData>
+            <SimpleData name="cedula">5860179</SimpleData>
+            <SimpleData name="Shape_Leng">744.29827642800</SimpleData>
+            <SimpleData name="Shape_Area">9605.35854410000</SimpleData>
+            <SimpleData name="N">251.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">GERALDA GAUTO VERA</SimpleData>
+            <SimpleData name="Cédula_1">5860179.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">KA?ATY MIR? - FORMOSA</SimpleData>
+            <SimpleData name="Teléfono">0983941942</SimpleData>
+            <SimpleData name="Vivienda_L">-24.96506310000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.07827770000</SimpleData>
+            <SimpleData name="Parcela_La">-24.96503408000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.07861440000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P1-P8P8-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">251</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Point>
+            <coordinates>
+              -55.095985285004,-24.9635799872708,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -55.0783516376866,-24.9650066162337,0
+            </coordinates>
+          </Point>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.44">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">1597869.00000000000</SimpleData>
+            <SimpleData name="cedula">1597869</SimpleData>
+            <SimpleData name="Shape_Leng">688.55218708300</SimpleData>
+            <SimpleData name="Shape_Area">9551.20563210000</SimpleData>
+            <SimpleData name="N">242.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">IRMA VERA ESTIGARRIBIA</SimpleData>
+            <SimpleData name="Cédula_1">1597869.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">LOMA TAJY</SimpleData>
+            <SimpleData name="Teléfono">0986498136</SimpleData>
+            <SimpleData name="Vivienda_L">-24.97143520000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.05960440000</SimpleData>
+            <SimpleData name="Parcela_La">-24.97097809000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.05981214000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">242</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Point>
+            <coordinates>
+              -55.0601343353476,-24.9711912973381,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -55.05951906445,-24.972074971078,0
+            </coordinates>
+          </Point>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.45">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">6691725.00000000000</SimpleData>
+            <SimpleData name="cedula">6691725</SimpleData>
+            <SimpleData name="Shape_Leng">432.98049670600</SimpleData>
+            <SimpleData name="Shape_Area">11318.09143340000</SimpleData>
+            <SimpleData name="N">161.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CAROLINA FLORES VARGAS</SimpleData>
+            <SimpleData name="Cédula_1">6691725.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">TEKOHA PYAHU I (CARRERIA?I)</SimpleData>
+            <SimpleData name="Teléfono">0984393483</SimpleData>
+            <SimpleData name="Vivienda_L">-24.85942300000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.27998030000</SimpleData>
+            <SimpleData name="Parcela_La">-24.85769543000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.27699535000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">161</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.2769953547071,-24.8576954324108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.46">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">6648807.00000000000</SimpleData>
+            <SimpleData name="cedula">6648807</SimpleData>
+            <SimpleData name="Shape_Leng">376.56242837600</SimpleData>
+            <SimpleData name="Shape_Area">7996.21024401000</SimpleData>
+            <SimpleData name="N">247.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">WILFRIDO LARREA FRANCO</SimpleData>
+            <SimpleData name="Cédula_1">6648807.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">PASO CADENA</SimpleData>
+            <SimpleData name="Teléfono">0975521363</SimpleData>
+            <SimpleData name="Vivienda_L">-24.96532350000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.30822170000</SimpleData>
+            <SimpleData name="Parcela_La">-24.96412066000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.30673926000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">247</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.3067392565986,-24.9641206567515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.47">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">4342869.00000000000</SimpleData>
+            <SimpleData name="cedula">4342869</SimpleData>
+            <SimpleData name="Shape_Leng">365.85063598100</SimpleData>
+            <SimpleData name="Shape_Area">8339.42233145000</SimpleData>
+            <SimpleData name="N">214.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">GUSTAVO RAUL LEZCANO PINO</SimpleData>
+            <SimpleData name="Cédula_1">4342869.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">CHINO KUE 2 LINEA</SimpleData>
+            <SimpleData name="Teléfono">0985346356</SimpleData>
+            <SimpleData name="Vivienda_L">-24.84846960000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.15304740000</SimpleData>
+            <SimpleData name="Parcela_La">-24.84487024000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.15278210000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">214</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.152782103779,-24.8448702390958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.48">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">2686293.00000000000</SimpleData>
+            <SimpleData name="cedula">2686293</SimpleData>
+            <SimpleData name="Shape_Leng">623.54117784900</SimpleData>
+            <SimpleData name="Shape_Area">9533.02282226000</SimpleData>
+            <SimpleData name="N">223.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">FELICITA CENTURION PEREIRA</SimpleData>
+            <SimpleData name="Cédula_1">2686293.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">SANTA LUCIA</SimpleData>
+            <SimpleData name="Teléfono">0973879059</SimpleData>
+            <SimpleData name="Vivienda_L">-24.56344370000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.04798450000</SimpleData>
+            <SimpleData name="Parcela_La">-24.56068128000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.04769895000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P1-P8P8-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">223</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Point>
+            <coordinates>
+              -55.0478668019526,-24.563833666636,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -55.0476989483727,-24.5606812824916,0
+            </coordinates>
+          </Point>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.49">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">4148769.00000000000</SimpleData>
+            <SimpleData name="cedula">4148769</SimpleData>
+            <SimpleData name="Shape_Leng">388.21789055200</SimpleData>
+            <SimpleData name="Shape_Area">8253.68783604000</SimpleData>
+            <SimpleData name="N">200.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">BERNARDA VARGAS VERA</SimpleData>
+            <SimpleData name="Cédula_1">4148769.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">TEKOHA PYAHU I (CARRERIA?I)</SimpleData>
+            <SimpleData name="Teléfono">0982066369</SimpleData>
+            <SimpleData name="Vivienda_L">-24.85748370000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.28177350000</SimpleData>
+            <SimpleData name="Parcela_La">-24.85767836000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.27580037000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">200</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.2758003718015,-24.8576783619483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ITAKYRY.50">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ITAKYRY.schema">
+            <SimpleData name="Cédula">8105516.00000000000</SimpleData>
+            <SimpleData name="cedula">8105516</SimpleData>
+            <SimpleData name="Shape_Leng">366.06701952200</SimpleData>
+            <SimpleData name="Shape_Area">8203.28203824000</SimpleData>
+            <SimpleData name="N">230.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">AMADA PALACIOS NOCEDA</SimpleData>
+            <SimpleData name="Cédula_1">8105516.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">ALTO PARANA</SimpleData>
+            <SimpleData name="Distrito">ITAKYRY</SimpleData>
+            <SimpleData name="Localidad">ARROYO GUASU - BARRIO CHOPA CUE</SimpleData>
+            <SimpleData name="Teléfono">0983917008</SimpleData>
+            <SimpleData name="Vivienda_L">-24.60957500000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.01849670000</SimpleData>
+            <SimpleData name="Parcela_La">-24.60623814000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.01862820000</SimpleData>
+            <SimpleData name="Grupo_de_p">F-P2-P8P8-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">F</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">230</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.0186282027615,-24.6062381422441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

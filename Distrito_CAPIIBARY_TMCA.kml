@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_CAPIIBARY.schema">
+      <SimpleField name="Cédula" type="double"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="Shape_Leng" type="double"/>
+      <SimpleField name="Shape_Area" type="double"/>
+      <SimpleField name="N" type="double"/>
+      <SimpleField name="Nombres_y_" type="string"/>
+      <SimpleField name="Cédula_1" type="double"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio_de_" type="string"/>
+      <SimpleField name="Titular_se" type="string"/>
+      <SimpleField name="Cédula_Ti" type="string"/>
+      <SimpleField name="Situación" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="Teléfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="double"/>
+      <SimpleField name="Vivienda_1" type="double"/>
+      <SimpleField name="Parcela_La" type="double"/>
+      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Grupo_de_p" type="string"/>
+      <SimpleField name="Estado_del" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Etapa_de_i" type="string"/>
+      <SimpleField name="Cantidad_d" type="double"/>
+      <SimpleField name="F25" type="string"/>
+      <SimpleField name="OBJECTID_1" type="int"/>
+    </Schema>
+    <Document id="Distrito_CAPIIBARY">
+      <name>Distrito_CAPIIBARY</name>
+      <Placemark id="Distrito_CAPIIBARY.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CAPIIBARY.schema">
+            <SimpleData name="Cédula">5522916.00000000000</SimpleData>
+            <SimpleData name="cedula">5522916</SimpleData>
+            <SimpleData name="Shape_Leng">439.27752529900</SimpleData>
+            <SimpleData name="Shape_Area">8211.02022037000</SimpleData>
+            <SimpleData name="N">9.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARIA LOURDES PORTILLO BELOTTO</SimpleData>
+            <SimpleData name="Cédula_1">5522916.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">CAPIIBARY</SimpleData>
+            <SimpleData name="Localidad">ASENT. ARA PYAHU</SimpleData>
+            <SimpleData name="Teléfono">0975388372</SimpleData>
+            <SimpleData name="Vivienda_L">-24.60826080000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.01422940000</SimpleData>
+            <SimpleData name="Parcela_La">-24.60329738000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.01469028000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">9</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.0145291002742,-24.6041016998259,0
+                -56.0146667997194,-24.6041783002567,0
+                -56.0148560995479,-24.6040837003414,0
+                -56.014884399626,-24.6038179000914,0
+                -56.0149073002137,-24.6035418001984,0
+                -56.0149131999388,-24.6032335002576,0
+                -56.0149282998972,-24.6030060003349,0
+                -56.0149432004279,-24.6027206999494,0
+                -56.0149309999117,-24.6024641005351,0
+                -56.014671199696,-24.6024435998759,0
+                -56.0145078004337,-24.6025637003195,0
+                -56.0144945999998,-24.602842800465,0
+                -56.0144737001939,-24.6031210003948,0
+                -56.0144553003429,-24.6033542998238,0
+                -56.0144383997975,-24.6036339997227,0
+                -56.014418600142,-24.6039403003917,0
+                -56.0145291002742,-24.6041016998259,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CAPIIBARY.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CAPIIBARY.schema">
+            <SimpleData name="Cédula">3817608.00000000000</SimpleData>
+            <SimpleData name="cedula">3817608</SimpleData>
+            <SimpleData name="Shape_Leng">340.65974582800</SimpleData>
+            <SimpleData name="Shape_Area">7525.42855283000</SimpleData>
+            <SimpleData name="N">1.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARIA GLORIA PORTILLO VERA</SimpleData>
+            <SimpleData name="Cédula_1">3817608.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">CAPIIBARY</SimpleData>
+            <SimpleData name="Localidad">1RO DE MARZO</SimpleData>
+            <SimpleData name="Teléfono">0971658248</SimpleData>
+            <SimpleData name="Vivienda_L">-24.70292560000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.02091210000</SimpleData>
+            <SimpleData name="Parcela_La">-24.70207823000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.02308027000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.022860699996,-24.7025270002058,0
+                -56.0228286995218,-24.7025721001112,0
+                -56.0230253995908,-24.7025220997344,0
+                -56.0232760003954,-24.7024491997714,0
+                -56.0235329997486,-24.7023862999553,0
+                -56.0236151998118,-24.7022700999524,0
+                -56.0235337001429,-24.7020694002421,0
+                -56.0234621999707,-24.7018864005022,0
+                -56.0234207999751,-24.7017733001503,0
+                -56.0233114004146,-24.7015922002708,0
+                -56.0230963997986,-24.7016280998682,0
+                -56.0228470999444,-24.7017035998276,0
+                -56.0226189997015,-24.7017502004752,0
+                -56.022646800194,-24.7019513004624,0
+                -56.0227021997736,-24.7022044004267,0
+                -56.0227627995893,-24.7024367999955,0
+                -56.022860699996,-24.7025270002058,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CAPIIBARY.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CAPIIBARY.schema">
+            <SimpleData name="Cédula">6619014.00000000000</SimpleData>
+            <SimpleData name="cedula">6619014</SimpleData>
+            <SimpleData name="Shape_Leng">418.98944245600</SimpleData>
+            <SimpleData name="Shape_Area">10454.06791340000</SimpleData>
+            <SimpleData name="N">3.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LUCIANA MELGAREJO CABRERA</SimpleData>
+            <SimpleData name="Cédula_1">6619014.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">CAPIIBARY</SimpleData>
+            <SimpleData name="Localidad">25 DE DICIEMBRE</SimpleData>
+            <SimpleData name="Teléfono">0983502922</SimpleData>
+            <SimpleData name="Vivienda_L">-24.70703060000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.06741380000</SimpleData>
+            <SimpleData name="Parcela_La">-24.70925107000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.06940118000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">3</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.0692389001738,-24.7097035003162,0
+                -56.0694260997933,-24.7098564001587,0
+                -56.0696566001165,-24.7097769004822,0
+                -56.0698812995774,-24.7096996004737,0
+                -56.0701224998743,-24.7095975996732,0
+                -56.0699700000615,-24.7093634004971,0
+                -56.069788299661,-24.7091351004771,0
+                -56.0696289999742,-24.7089066998422,0
+                -56.0694849000341,-24.7086923005365,0
+                -56.0693008996416,-24.7086271002481,0
+                -56.0690098000385,-24.7087957001355,0
+                -56.0687464996314,-24.7089215004809,0
+                -56.0686429996795,-24.7089929001396,0
+                -56.0688116002028,-24.7091058004397,0
+                -56.0689734999098,-24.7093310997547,0
+                -56.0691103000756,-24.709526199963,0
+                -56.0692389001738,-24.7097035003162,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CAPIIBARY.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CAPIIBARY.schema">
+            <SimpleData name="Cédula">2561779.00000000000</SimpleData>
+            <SimpleData name="cedula">2561779</SimpleData>
+            <SimpleData name="Shape_Leng">441.66178885000</SimpleData>
+            <SimpleData name="Shape_Area">11743.00927160000</SimpleData>
+            <SimpleData name="N">6.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARIA GONZALEZ DE GIMENEZ</SimpleData>
+            <SimpleData name="Cédula_1">2561779.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 4</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">CAPIIBARY</SimpleData>
+            <SimpleData name="Localidad">ASENT. 3 DE NOVIEMBRE</SimpleData>
+            <SimpleData name="Teléfono">0975410667</SimpleData>
+            <SimpleData name="Vivienda_L">-24.76531140000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.88105210000</SimpleData>
+            <SimpleData name="Parcela_La">-24.77332323000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.88130516000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">6</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.8810514000379,-24.7739830000037,0
+                -55.8813944997779,-24.7740434997019,0
+                -55.8816656001381,-24.7740179002687,0
+                -55.8816225995125,-24.7737063003518,0
+                -55.881676100035,-24.7733307998341,0
+                -55.8818355999716,-24.7729035004953,0
+                -55.8816955998522,-24.7727136001282,0
+                -55.8813700001209,-24.7726916998688,0
+                -55.880973600244,-24.7726834996941,0
+                -55.8809221995622,-24.7726986999645,0
+                -55.8809148002847,-24.7730190999478,0
+                -55.8808285999423,-24.7735747998282,0
+                -55.8810514000379,-24.7739830000037,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CAPIIBARY.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CAPIIBARY.schema">
+            <SimpleData name="Cédula">3817696.00000000000</SimpleData>
+            <SimpleData name="cedula">3817696</SimpleData>
+            <SimpleData name="Shape_Leng">695.99082350600</SimpleData>
+            <SimpleData name="Shape_Area">9038.12630934000</SimpleData>
+            <SimpleData name="N">7.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">AGUSTINA MARTINEZ GIMENEZ</SimpleData>
+            <SimpleData name="Cédula_1">3817696.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">CAPIIBARY</SimpleData>
+            <SimpleData name="Localidad">ASENT. ARA PYAHU</SimpleData>
+            <SimpleData name="Teléfono">0986324707</SimpleData>
+            <SimpleData name="Vivienda_L">-24.65576320000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.05191860000</SimpleData>
+            <SimpleData name="Parcela_La">-24.65500987000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.05103903000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">7</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.0524212998968,-24.6551310999731,0
+                  -56.052350000207,-24.6559791999751,0
+                  -56.052746499693,-24.655954800134,0
+                  -56.0527672001782,-24.6551884004569,0
+                  -56.0524212998968,-24.6551310999731,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.050901700112,-24.6541732998672,0
+                  -56.0508815003548,-24.6558978003198,0
+                  -56.0511580999852,-24.6558783998898,0
+                  -56.051213699961,-24.6541593001056,0
+                  -56.050901700112,-24.6541732998672,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_CAPIIBARY.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CAPIIBARY.schema">
+            <SimpleData name="Cédula">3366937.00000000000</SimpleData>
+            <SimpleData name="cedula">3366937</SimpleData>
+            <SimpleData name="Shape_Leng">233.34819450100</SimpleData>
+            <SimpleData name="Shape_Area">3062.02643868000</SimpleData>
+            <SimpleData name="N">10.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">NIDIA VALDES</SimpleData>
+            <SimpleData name="Cédula_1">3366937.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">CAPIIBARY</SimpleData>
+            <SimpleData name="Localidad">ASENT. ARA PYAHU</SimpleData>
+            <SimpleData name="Teléfono">0985190998</SimpleData>
+            <SimpleData name="Vivienda_L">-24.60786500000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.00484620000</SimpleData>
+            <SimpleData name="Parcela_La">-24.60682744000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.00490290000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">10</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.004672299637,-24.6071045001255,0
+                -56.0051511999669,-24.6071850000012,0
+                -56.0050540996456,-24.606474999756,0
+                -56.0047201998477,-24.6064648999972,0
+                -56.004672299637,-24.6071045001255,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CAPIIBARY.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CAPIIBARY.schema">
+            <SimpleData name="Cédula">5873974.00000000000</SimpleData>
+            <SimpleData name="cedula">5873974</SimpleData>
+            <SimpleData name="Shape_Leng">579.29402588000</SimpleData>
+            <SimpleData name="Shape_Area">8810.24350397000</SimpleData>
+            <SimpleData name="N">4.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ZONIA ELIZABET IRIARTE GONZALEZ</SimpleData>
+            <SimpleData name="Cédula_1">5873974.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">CAPIIBARY</SimpleData>
+            <SimpleData name="Localidad">8 DE DICIEMBRE</SimpleData>
+            <SimpleData name="Teléfono">0984682055</SimpleData>
+            <SimpleData name="Vivienda_L">-24.82725810000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.00354990000</SimpleData>
+            <SimpleData name="Parcela_La">-24.82973161000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.00711574000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">4</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.0065689000032,-24.8298941999139,0
+                  -56.0069611999362,-24.8302478004511,0
+                  -56.0076621998065,-24.8296175999741,0
+                  -56.0072496003357,-24.829196400216,0
+                  -56.0065689000032,-24.8298941999139,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.0056353004265,-24.8290724998291,0
+                  -56.0058708996974,-24.8292645000389,0
+                  -56.0062156999042,-24.828935799832,0
+                  -56.0061663002799,-24.8288862999379,0
+                  -56.0064735996831,-24.8285911000495,0
+                  -56.0062886997607,-24.8284276000306,0
+                  -56.0056353004265,-24.8290724998291,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_CAPIIBARY.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CAPIIBARY.schema">
+            <SimpleData name="Cédula">3520074.00000000000</SimpleData>
+            <SimpleData name="cedula">3520074</SimpleData>
+            <SimpleData name="Shape_Leng">580.03105280800</SimpleData>
+            <SimpleData name="Shape_Area">9142.33853293000</SimpleData>
+            <SimpleData name="N">12.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">WILFRIDO MAIDANA RIVAS</SimpleData>
+            <SimpleData name="Cédula_1">3520074.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">CAPIIBARY</SimpleData>
+            <SimpleData name="Localidad">ASENT. ARA PYAHU</SimpleData>
+            <SimpleData name="Teléfono">0985371422</SimpleData>
+            <SimpleData name="Vivienda_L">-24.62886540000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.05143450000</SimpleData>
+            <SimpleData name="Parcela_La">-24.63426526000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.05124819000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">12</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.0510151002637,-24.6338275000548,0
+                  -56.050986699672,-24.6347272004428,0
+                  -56.0514993999103,-24.6346945996675,0
+                  -56.0514901997845,-24.6337889003189,0
+                  -56.0510151002637,-24.6338275000548,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.0512150997778,-24.6311449000639,0
+                  -56.0516707000444,-24.6312510004017,0
+                  -56.0517026002949,-24.630369500263,0
+                  -56.051316499609,-24.630295800065,0
+                  -56.0512150997778,-24.6311449000639,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_CAPIIBARY.9">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CAPIIBARY.schema">
+            <SimpleData name="Cédula">2567005.00000000000</SimpleData>
+            <SimpleData name="cedula">2567005</SimpleData>
+            <SimpleData name="Shape_Leng">264.58741066200</SimpleData>
+            <SimpleData name="Shape_Area">4591.54652651000</SimpleData>
+            <SimpleData name="N">2.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">PEDRO JUAN LOPEZ AYALA</SimpleData>
+            <SimpleData name="Cédula_1">2567005.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">CAPIIBARY</SimpleData>
+            <SimpleData name="Localidad">1RO DE MARZO</SimpleData>
+            <SimpleData name="Teléfono">0986171231</SimpleData>
+            <SimpleData name="Vivienda_L">-24.69765020000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.04730590000</SimpleData>
+            <SimpleData name="Parcela_La">-24.69923796000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.04795944000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.0475950001575,-24.6995176004831,0
+                -56.0478276000722,-24.6995382999334,0
+                -56.0483407998087,-24.6993739003802,0
+                -56.0484461996198,-24.6992532005159,0
+                -56.0483484998576,-24.6989917003002,0
+                -56.0481879998127,-24.698913800132,0
+                -56.047906999695,-24.6990019999358,0
+                -56.0476596002459,-24.6990854004196,0
+                -56.0474585002311,-24.6991750003927,0
+                -56.0474807997836,-24.6992634001565,0
+                -56.0475950001575,-24.6995176004831,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CAPIIBARY.10">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CAPIIBARY.schema">
+            <SimpleData name="Cédula">2970526.00000000000</SimpleData>
+            <SimpleData name="cedula">2970526</SimpleData>
+            <SimpleData name="Shape_Leng">251.26340265800</SimpleData>
+            <SimpleData name="Shape_Area">3854.16083630000</SimpleData>
+            <SimpleData name="N">11.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ROSALINA CACERES DE DURAN</SimpleData>
+            <SimpleData name="Cédula_1">2970526.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">SI</SimpleData>
+            <SimpleData name="Titular_se">BALDOVINO DURAN MORINIGO</SimpleData>
+            <SimpleData name="Cédula_Ti">1511140</SimpleData>
+            <SimpleData name="Situación">Rosalina Falleci? y queda como titular el marido. Tiene Carta de compromiso</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">CAPIIBARY</SimpleData>
+            <SimpleData name="Localidad">ASENT. ARA PYAHU</SimpleData>
+            <SimpleData name="Teléfono">0971805549</SimpleData>
+            <SimpleData name="Vivienda_L">-24.60990490000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.03423720000</SimpleData>
+            <SimpleData name="Parcela_La">-24.61078391000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.03448049000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">11</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.0341524998113,-24.6109837998618,0
+                -56.0344073995953,-24.6109903999565,0
+                -56.0346930004682,-24.6109921005392,0
+                -56.0349068002027,-24.6109540998059,0
+                -56.0349195004693,-24.6106444998301,0
+                -56.0347913996838,-24.6105595001516,0
+                -56.034492600035,-24.6105798999563,0
+                -56.0340197004027,-24.6106260001532,0
+                -56.0340227994948,-24.6108824003233,0
+                -56.0341524998113,-24.6109837998618,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CAPIIBARY.11">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CAPIIBARY.schema">
+            <SimpleData name="Cédula">5506214.00000000000</SimpleData>
+            <SimpleData name="cedula">5506214</SimpleData>
+            <SimpleData name="Shape_Leng">300.66846734500</SimpleData>
+            <SimpleData name="Shape_Area">5174.33558410000</SimpleData>
+            <SimpleData name="N">8.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LUZ MARINA LEGUIZAMON MARTINEZ</SimpleData>
+            <SimpleData name="Cédula_1">5506214.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">CAPIIBARY</SimpleData>
+            <SimpleData name="Localidad">ASENT. ARA PYAHU</SimpleData>
+            <SimpleData name="Teléfono">0985152272</SimpleData>
+            <SimpleData name="Vivienda_L">-24.60838260000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.00380340000</SimpleData>
+            <SimpleData name="Parcela_La">-24.60919716000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.00380154000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">8</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.0035414002315,-24.6096596999665,0
+                -56.0038228003443,-24.6096864001482,0
+                -56.0040210998097,-24.609633899933,0
+                -56.0040382998924,-24.609626699838,0
+                -56.0040635003739,-24.6091962004732,0
+                -56.0040457001306,-24.6089499997065,0
+                -56.0039215001023,-24.6086458005258,0
+                -56.0035892004294,-24.6087273997728,0
+                -56.0035635999444,-24.60920010031,0
+                -56.0035501004675,-24.6094161002967,0
+                -56.0035414002315,-24.6096596999665,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CAPIIBARY.12">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CAPIIBARY.schema">
+            <SimpleData name="Cédula">2449072.00000000000</SimpleData>
+            <SimpleData name="cedula">2449072</SimpleData>
+            <SimpleData name="Shape_Leng">434.61485392600</SimpleData>
+            <SimpleData name="Shape_Area">5253.96146087000</SimpleData>
+            <SimpleData name="N">16.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ANTONIA ARZAMENDIA DE MARTINEZ</SimpleData>
+            <SimpleData name="Cédula_1">2449072.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">CAPIIBARY</SimpleData>
+            <SimpleData name="Localidad">TAJY CARE</SimpleData>
+            <SimpleData name="Teléfono">0983164758</SimpleData>
+            <SimpleData name="Vivienda_L">-24.62850670000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.97925310000</SimpleData>
+            <SimpleData name="Parcela_La">-24.62687269000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.97810159000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">16</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.9783187001951,-24.6276578997334,0
+                -55.9785304996924,-24.6277218003264,0
+                -55.9785462002772,-24.6275025997778,0
+                -55.9784800998568,-24.6273641000684,0
+                -55.9783713996247,-24.627159100422,0
+                -55.9781649003753,-24.626681000268,0
+                -55.9779088995092,-24.6261244000062,0
+                -55.9777273998461,-24.6259940000287,0
+                -55.9776652999937,-24.6261918004794,0
+                -55.9777576001994,-24.6264433999164,0
+                -55.9778209001296,-24.6266319998121,0
+                -55.9779668999962,-24.6268958998181,0
+                -55.9780552000304,-24.627136099663,0
+                -55.9782052996047,-24.6273896999132,0
+                -55.9783187001951,-24.6276578997334,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CAPIIBARY.13">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CAPIIBARY.schema">
+            <SimpleData name="Cédula">7011757.00000000000</SimpleData>
+            <SimpleData name="cedula">7011757</SimpleData>
+            <SimpleData name="Shape_Leng">294.13775955700</SimpleData>
+            <SimpleData name="Shape_Area">4922.30236770000</SimpleData>
+            <SimpleData name="N">14.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">SANDRA CATALINA OCAMPOS LEZCANO</SimpleData>
+            <SimpleData name="Cédula_1">7011757.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">CAPIIBARY</SimpleData>
+            <SimpleData name="Localidad">ASENT. ARA PYAHU</SimpleData>
+            <SimpleData name="Teléfono">0981429737</SimpleData>
+            <SimpleData name="Vivienda_L">-24.64711430000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.02895410000</SimpleData>
+            <SimpleData name="Parcela_La">-24.66029616000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.02836156000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">14</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.0280742995193,-24.6606836999884,0
+                -56.0285736000344,-24.6607687999677,0
+                -56.0286512003751,-24.6598827003768,0
+                -56.028135000475,-24.6598550004113,0
+                -56.0280742995193,-24.6606836999884,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CAPIIBARY.14">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CAPIIBARY.schema">
+            <SimpleData name="Cédula">6073844.00000000000</SimpleData>
+            <SimpleData name="cedula">6073844</SimpleData>
+            <SimpleData name="Shape_Leng">345.98546870500</SimpleData>
+            <SimpleData name="Shape_Area">7824.41037391000</SimpleData>
+            <SimpleData name="N">13.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">VERONICA ROJAS AYALA</SimpleData>
+            <SimpleData name="Cédula_1">6073844.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">CAPIIBARY</SimpleData>
+            <SimpleData name="Localidad">ASENT. ARA PYAHU</SimpleData>
+            <SimpleData name="Teléfono">0983863879</SimpleData>
+            <SimpleData name="Vivienda_L">-24.60838380000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.01650760000</SimpleData>
+            <SimpleData name="Parcela_La">-24.59996407000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.01713368000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">13</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.0166242441369,-24.5995901139954,0
+                -56.0166188998315,-24.5997166000933,0
+                -56.016624299554,-24.5999024004805,0
+                -56.016601299529,-24.6000566002296,0
+                -56.0165985995924,-24.6003183997268,0
+                -56.0167805001989,-24.6003584001664,0
+                -56.0170343002598,-24.6003450000066,0
+                -56.0173664996759,-24.6003346001044,0
+                -56.0175840003671,-24.6002450002987,0
+                -56.017589299848,-24.6001106002555,0
+                -56.0176080002417,-24.5999407003858,0
+                -56.017604299623,-24.5997685998256,0
+                -56.0175336001246,-24.5996240002619,0
+                -56.0171945003891,-24.5996272005029,0
+                -56.0168763001218,-24.5996177002437,0
+                -56.0166242441369,-24.5995901139954,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CAPIIBARY.15">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CAPIIBARY.schema">
+            <SimpleData name="Cédula">6349168.00000000000</SimpleData>
+            <SimpleData name="cedula">6349168</SimpleData>
+            <SimpleData name="Shape_Leng">478.43705661700</SimpleData>
+            <SimpleData name="Shape_Area">9058.50348776000</SimpleData>
+            <SimpleData name="N">5.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">VICTORIA CABA?AS ROJAS</SimpleData>
+            <SimpleData name="Cédula_1">6349168.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">CAPIIBARY</SimpleData>
+            <SimpleData name="Localidad">ARA PYAHU</SimpleData>
+            <SimpleData name="Teléfono">0971518432</SimpleData>
+            <SimpleData name="Vivienda_L">-24.59066880000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.01744120000</SimpleData>
+            <SimpleData name="Parcela_La">-24.59863205000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.01693886000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">5</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.0166615002629,-24.5995415003922,0
+                -56.0170240004795,-24.599580800021,0
+                -56.0171314996185,-24.59937980037,0
+                -56.0171512999454,-24.5991550001666,0
+                -56.0171454996421,-24.5989631005195,0
+                -56.0171560002152,-24.5986712001617,0
+                -56.0171947002294,-24.5984140001548,0
+                -56.0171820004314,-24.5981732002443,0
+                -56.0172332999805,-24.5977882998207,0
+                -56.017022299709,-24.5977059004805,0
+                -56.0167539002254,-24.5979042002421,0
+                -56.0167437003304,-24.5980640998668,0
+                -56.0167242996151,-24.5984425997714,0
+                -56.0167110001197,-24.5986962999946,0
+                -56.016686799578,-24.5989947005037,0
+                -56.0166785004172,-24.5993109998677,0
+                -56.0166615002629,-24.5995415003922,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_CAPIIBARY.16">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_CAPIIBARY.schema">
+            <SimpleData name="Cédula">3817711.00000000000</SimpleData>
+            <SimpleData name="cedula">3817711</SimpleData>
+            <SimpleData name="Shape_Leng">399.84858679900</SimpleData>
+            <SimpleData name="Shape_Area">8719.36318553000</SimpleData>
+            <SimpleData name="N">15.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MIRIAN ESTELA MARECOS DE ACOSTA</SimpleData>
+            <SimpleData name="Cédula_1">3817711.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 3</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">CAPIIBARY</SimpleData>
+            <SimpleData name="Localidad">ASENT. ARA PYAHU</SimpleData>
+            <SimpleData name="Teléfono">0983249151</SimpleData>
+            <SimpleData name="Vivienda_L">-24.66515090000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.04975680000</SimpleData>
+            <SimpleData name="Parcela_La">-24.66570606000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.04991026000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-G1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Culminada</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">15</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.0493016001636,-24.6656730005316,0
+                -56.049264400479,-24.6659761002378,0
+                -56.04958020021,-24.665906499651,0
+                -56.0498524997968,-24.6662250003417,0
+                -56.0500460996431,-24.6662516000076,0
+                -56.0502588002336,-24.666090900133,0
+                -56.0503362997034,-24.6660154998341,0
+                -56.0503597995964,-24.6656217002412,0
+                -56.0503467995455,-24.665478199993,0
+                -56.0502969997065,-24.665304400356,0
+                -56.0502363004259,-24.6651685003971,0
+                -56.0501261001257,-24.6650747000397,0
+                -56.0499825999846,-24.6651069000377,0
+                -56.0499069996931,-24.6653647996842,0
+                -56.0494001997343,-24.6655204000135,0
+                -56.0493016001636,-24.6656730005316,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

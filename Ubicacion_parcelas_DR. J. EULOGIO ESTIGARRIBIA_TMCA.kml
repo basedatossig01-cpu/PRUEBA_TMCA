@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_DR.schema">
+      <SimpleField name="Cédula" type="double"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="Shape_Leng" type="double"/>
+      <SimpleField name="Shape_Area" type="double"/>
+      <SimpleField name="N" type="double"/>
+      <SimpleField name="Nombres_y_" type="string"/>
+      <SimpleField name="Cédula_1" type="double"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio_de_" type="string"/>
+      <SimpleField name="Titular_se" type="string"/>
+      <SimpleField name="Cédula_Ti" type="string"/>
+      <SimpleField name="Situación" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="Teléfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="double"/>
+      <SimpleField name="Vivienda_1" type="double"/>
+      <SimpleField name="Parcela_La" type="double"/>
+      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Grupo_de_p" type="string"/>
+      <SimpleField name="Estado_del" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Etapa_de_i" type="string"/>
+      <SimpleField name="Cantidad_d" type="double"/>
+      <SimpleField name="F25" type="string"/>
+      <SimpleField name="OBJECTID_1" type="int"/>
+    </Schema>
+    <Document id="Distrito_DR">
+      <name>Distrito_DR</name>
+      <Placemark id="Distrito_DR.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_DR.schema">
+            <SimpleData name="Cédula">6626830.00000000000</SimpleData>
+            <SimpleData name="cedula">6626830</SimpleData>
+            <SimpleData name="Shape_Leng">587.29857766800</SimpleData>
+            <SimpleData name="Shape_Area">12524.41677970000</SimpleData>
+            <SimpleData name="N">423.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">PABLO CENTURION MENDEZ</SimpleData>
+            <SimpleData name="Cédula_1">6626830.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 3</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">DR. J. EULOGIO ESTIGARRIBIA</SimpleData>
+            <SimpleData name="Localidad">SAN JUAN YHOVY</SimpleData>
+            <SimpleData name="Teléfono">0975952169</SimpleData>
+            <SimpleData name="Vivienda_L">-25.49451160000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.63386370000</SimpleData>
+            <SimpleData name="Parcela_La">-25.49429015000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.63048712000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">423</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.6304871228316,-25.4942901491606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_DR.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_DR.schema">
+            <SimpleData name="Cédula">8594381.00000000000</SimpleData>
+            <SimpleData name="cedula">8594381</SimpleData>
+            <SimpleData name="Shape_Leng">361.36363519400</SimpleData>
+            <SimpleData name="Shape_Area">8026.58037534000</SimpleData>
+            <SimpleData name="N">541.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MATILDE  BAEZ VARGAS</SimpleData>
+            <SimpleData name="Cédula_1">8594381.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">DR. J. EULOGIO ESTIGARRIBIA</SimpleData>
+            <SimpleData name="Localidad">SAN JUAN YHOVY</SimpleData>
+            <SimpleData name="Teléfono">982063167</SimpleData>
+            <SimpleData name="Vivienda_L">-25.49360350000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.64814860000</SimpleData>
+            <SimpleData name="Parcela_La">-25.49658025000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.66246293000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">541</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.6624629348155,-25.4965802541905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_DR.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_DR.schema">
+            <SimpleData name="Cédula">4150865.00000000000</SimpleData>
+            <SimpleData name="cedula">4150865</SimpleData>
+            <SimpleData name="Shape_Leng">366.34085190800</SimpleData>
+            <SimpleData name="Shape_Area">7993.01986230000</SimpleData>
+            <SimpleData name="N">175.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">NORMA BENITEZ</SimpleData>
+            <SimpleData name="Cédula_1">4150865.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">DR. J. EULOGIO ESTIGARRIBIA</SimpleData>
+            <SimpleData name="Localidad">SAN JUAN YHOVY</SimpleData>
+            <SimpleData name="Teléfono">0975340093</SimpleData>
+            <SimpleData name="Vivienda_L">-25.49176510000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.65666660000</SimpleData>
+            <SimpleData name="Parcela_La">-25.49395461000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.66353869000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">175</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.6635386916371,-25.4939546063001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_DR.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_DR.schema">
+            <SimpleData name="Cédula">7474208.00000000000</SimpleData>
+            <SimpleData name="cedula">7474208</SimpleData>
+            <SimpleData name="Shape_Leng">518.29296280000</SimpleData>
+            <SimpleData name="Shape_Area">12303.09644050000</SimpleData>
+            <SimpleData name="N">404.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MIRIAN DUARTE GAUTO</SimpleData>
+            <SimpleData name="Cédula_1">7474208.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 3</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">DR. J. EULOGIO ESTIGARRIBIA</SimpleData>
+            <SimpleData name="Localidad">JAGUARY</SimpleData>
+            <SimpleData name="Teléfono">0986364072</SimpleData>
+            <SimpleData name="Vivienda_L">-25.37503160000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.58264710000</SimpleData>
+            <SimpleData name="Parcela_La">-25.37368248000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.58156340000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">404</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Point>
+            <coordinates>
+              -55.5815635647656,-25.3736822257801,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -55.5812572898849,-25.3741634751893,0
+            </coordinates>
+          </Point>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_DR.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_DR.schema">
+            <SimpleData name="Cédula">6643759.00000000000</SimpleData>
+            <SimpleData name="cedula">6643759</SimpleData>
+            <SimpleData name="Shape_Leng">359.37277289800</SimpleData>
+            <SimpleData name="Shape_Area">7997.46353623000</SimpleData>
+            <SimpleData name="N">431.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ELSA  PORTILLO ESQUIVEL</SimpleData>
+            <SimpleData name="Cédula_1">6643759.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">DR. J. EULOGIO ESTIGARRIBIA</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[CHE'IRO ?RA POTY]]></SimpleData>
+            <SimpleData name="Teléfono">0</SimpleData>
+            <SimpleData name="Vivienda_L">-25.49663090000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.65467770000</SimpleData>
+            <SimpleData name="Parcela_La">-25.49397542000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.66193836000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">431</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.6619383602318,-25.4939754217954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_DR.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_DR.schema">
+            <SimpleData name="Cédula">5653736.00000000000</SimpleData>
+            <SimpleData name="cedula">5653736</SimpleData>
+            <SimpleData name="Shape_Leng">369.20849573900</SimpleData>
+            <SimpleData name="Shape_Area">8200.96906074000</SimpleData>
+            <SimpleData name="N">302.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ELEUTERIA  DUARTE BENITEZ</SimpleData>
+            <SimpleData name="Cédula_1">5653736.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">DR. J. EULOGIO ESTIGARRIBIA</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[CHE'IRO ?RA POTY]]></SimpleData>
+            <SimpleData name="Teléfono">0</SimpleData>
+            <SimpleData name="Vivienda_L">-25.49370540000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.65127330000</SimpleData>
+            <SimpleData name="Parcela_La">-25.49562509000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.66308704000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">302</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.6630870377394,-25.4956250893129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_DR.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_DR.schema">
+            <SimpleData name="Cédula">6280914.00000000000</SimpleData>
+            <SimpleData name="cedula">6280914</SimpleData>
+            <SimpleData name="Shape_Leng">368.34795407000</SimpleData>
+            <SimpleData name="Shape_Area">8229.47485604000</SimpleData>
+            <SimpleData name="N">393.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">BENITA  CA?ETE QUI?ONEZ</SimpleData>
+            <SimpleData name="Cédula_1">6280914.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">DR. J. EULOGIO ESTIGARRIBIA</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[CHE'IRO ?RA POTY]]></SimpleData>
+            <SimpleData name="Teléfono">0</SimpleData>
+            <SimpleData name="Vivienda_L">-25.49876980000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.65714800000</SimpleData>
+            <SimpleData name="Parcela_La">-25.49387012000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.66435230000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">393</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.664352298918,-25.4938701189866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_DR.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_DR.schema">
+            <SimpleData name="Cédula">6381943.00000000000</SimpleData>
+            <SimpleData name="cedula">6381943</SimpleData>
+            <SimpleData name="Shape_Leng">451.78105425400</SimpleData>
+            <SimpleData name="Shape_Area">9081.41378562000</SimpleData>
+            <SimpleData name="N">411.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CELINA VERA ROMERO</SimpleData>
+            <SimpleData name="Cédula_1">6381943.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">DR. J. EULOGIO ESTIGARRIBIA</SimpleData>
+            <SimpleData name="Localidad">SAN JUAN YHOVY</SimpleData>
+            <SimpleData name="Teléfono">0976403688</SimpleData>
+            <SimpleData name="Vivienda_L">-25.49573830000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.65543630000</SimpleData>
+            <SimpleData name="Parcela_La">-25.49539141000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.66145458000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">411</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.6614545825763,-25.4953914114509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_DR.9">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_DR.schema">
+            <SimpleData name="Cédula">6280913.00000000000</SimpleData>
+            <SimpleData name="cedula">6280913</SimpleData>
+            <SimpleData name="Shape_Leng">376.15372492900</SimpleData>
+            <SimpleData name="Shape_Area">8884.16972947000</SimpleData>
+            <SimpleData name="N">391.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">TEODORA QUI?ONEZ MEDINA</SimpleData>
+            <SimpleData name="Cédula_1">6280913.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">DR. J. EULOGIO ESTIGARRIBIA</SimpleData>
+            <SimpleData name="Localidad">SAN JUAN YHOVY</SimpleData>
+            <SimpleData name="Teléfono">0982082214</SimpleData>
+            <SimpleData name="Vivienda_L">-25.49835300000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.65828380000</SimpleData>
+            <SimpleData name="Parcela_La">-25.49777411000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.65908821000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">391</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.6590882096357,-25.497774114758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_DR.10">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_DR.schema">
+            <SimpleData name="Cédula">7536767.00000000000</SimpleData>
+            <SimpleData name="cedula">7536767</SimpleData>
+            <SimpleData name="Shape_Leng">466.23199650200</SimpleData>
+            <SimpleData name="Shape_Area">10014.01068880000</SimpleData>
+            <SimpleData name="N">394.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CINTHIA GAYOSO CENTURION</SimpleData>
+            <SimpleData name="Cédula_1">7536767.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 3</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">DR. J. EULOGIO ESTIGARRIBIA</SimpleData>
+            <SimpleData name="Localidad">JAGUARY</SimpleData>
+            <SimpleData name="Teléfono">0985662725</SimpleData>
+            <SimpleData name="Vivienda_L">-25.37726020000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.57761240000</SimpleData>
+            <SimpleData name="Parcela_La">-25.37768409000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.57702880000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">394</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.5770287956159,-25.3776840853017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_DR.11">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_DR.schema">
+            <SimpleData name="Cédula">4020737.00000000000</SimpleData>
+            <SimpleData name="cedula">4020737</SimpleData>
+            <SimpleData name="Shape_Leng">411.45369203500</SimpleData>
+            <SimpleData name="Shape_Area">9066.61991140000</SimpleData>
+            <SimpleData name="N">167.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">FLAVIA BENITEZ ESCOBAR</SimpleData>
+            <SimpleData name="Cédula_1">4020737.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">DR. J. EULOGIO ESTIGARRIBIA</SimpleData>
+            <SimpleData name="Localidad">SAN JUAN YHOVY</SimpleData>
+            <SimpleData name="Teléfono">0975330287</SimpleData>
+            <SimpleData name="Vivienda_L">-25.49137800000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.66405210000</SimpleData>
+            <SimpleData name="Parcela_La">-25.49201096000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.66404463000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">167</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.6640446341244,-25.4920109565153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_DR.12">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_DR.schema">
+            <SimpleData name="Cédula">4515457.00000000000</SimpleData>
+            <SimpleData name="cedula">4515457</SimpleData>
+            <SimpleData name="Shape_Leng">362.38522604900</SimpleData>
+            <SimpleData name="Shape_Area">8013.75967322000</SimpleData>
+            <SimpleData name="N">194.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">SILVERIO  MARTINEZ VILLALBA</SimpleData>
+            <SimpleData name="Cédula_1">4515457.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">DR. J. EULOGIO ESTIGARRIBIA</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[CHE'IRO ?RA POTY]]></SimpleData>
+            <SimpleData name="Teléfono">0</SimpleData>
+            <SimpleData name="Vivienda_L">-25.49868990000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.65511670000</SimpleData>
+            <SimpleData name="Parcela_La">-25.49403582000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.66276567000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">194</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.6627656709421,-25.4940358167801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_DR.13">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_DR.schema">
+            <SimpleData name="Cédula">7763198.00000000000</SimpleData>
+            <SimpleData name="cedula">7763198</SimpleData>
+            <SimpleData name="Shape_Leng">672.90886253700</SimpleData>
+            <SimpleData name="Shape_Area">9294.78584563000</SimpleData>
+            <SimpleData name="N">392.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">JORGELINA FLORES RUIZ DIAZ</SimpleData>
+            <SimpleData name="Cédula_1">7763198.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">DR. J. EULOGIO ESTIGARRIBIA</SimpleData>
+            <SimpleData name="Localidad">NUEVA ESPERANZA</SimpleData>
+            <SimpleData name="Teléfono">0976418937</SimpleData>
+            <SimpleData name="Vivienda_L">-25.46549950000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.57602770000</SimpleData>
+            <SimpleData name="Parcela_La">-25.46677018000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.57787875000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">392</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Point>
+            <coordinates>
+              -55.5787539014578,-25.4680279652742,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -55.5778787537075,-25.4667701765037,0
+            </coordinates>
+          </Point>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_DR.14">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_DR.schema">
+            <SimpleData name="Cédula">7544906.00000000000</SimpleData>
+            <SimpleData name="cedula">7544906</SimpleData>
+            <SimpleData name="Shape_Leng">516.38380858100</SimpleData>
+            <SimpleData name="Shape_Area">11482.22191190000</SimpleData>
+            <SimpleData name="N">403.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CINTIA DUARTE BENITEZ</SimpleData>
+            <SimpleData name="Cédula_1">7544906.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 3</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">DR. J. EULOGIO ESTIGARRIBIA</SimpleData>
+            <SimpleData name="Localidad">JAGUARY</SimpleData>
+            <SimpleData name="Teléfono">0975266490</SimpleData>
+            <SimpleData name="Vivienda_L">-25.38000950000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.58489010000</SimpleData>
+            <SimpleData name="Parcela_La">-25.38247506000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.57494282000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">403</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.5749428248422,-25.3824750569088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_DR.15">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_DR.schema">
+            <SimpleData name="Cédula">6280873.00000000000</SimpleData>
+            <SimpleData name="cedula">6280873</SimpleData>
+            <SimpleData name="Shape_Leng">392.83224471500</SimpleData>
+            <SimpleData name="Shape_Area">8589.81409016000</SimpleData>
+            <SimpleData name="N">390.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">DANIELA  QUI?ONEZ BENITEZ</SimpleData>
+            <SimpleData name="Cédula_1">6280873.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">DR. J. EULOGIO ESTIGARRIBIA</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[CHE'IRO ?RA POTY]]></SimpleData>
+            <SimpleData name="Teléfono">0</SimpleData>
+            <SimpleData name="Vivienda_L">-25.49911330000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.65547190000</SimpleData>
+            <SimpleData name="Parcela_La">-25.49310918000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.66260616000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">390</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.6626061595933,-25.4931091760026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_DR.16">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_DR.schema">
+            <SimpleData name="Cédula">6374507.00000000000</SimpleData>
+            <SimpleData name="cedula">6374507</SimpleData>
+            <SimpleData name="Shape_Leng">363.68555296000</SimpleData>
+            <SimpleData name="Shape_Area">8204.89198689000</SimpleData>
+            <SimpleData name="N">410.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">SOFIA FLORES VERA</SimpleData>
+            <SimpleData name="Cédula_1">6374507.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">DR. J. EULOGIO ESTIGARRIBIA</SimpleData>
+            <SimpleData name="Localidad">SAN JUAN YHOVY</SimpleData>
+            <SimpleData name="Teléfono">0982625486</SimpleData>
+            <SimpleData name="Vivienda_L">-25.49568450000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.65555860000</SimpleData>
+            <SimpleData name="Parcela_La">-25.49575646000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.66222459000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">410</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.6622245892865,-25.4957564621497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_DR.17">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_DR.schema">
+            <SimpleData name="Cédula">4246996.00000000000</SimpleData>
+            <SimpleData name="cedula">4246996</SimpleData>
+            <SimpleData name="Shape_Leng">416.37299096700</SimpleData>
+            <SimpleData name="Shape_Area">9161.73101805000</SimpleData>
+            <SimpleData name="N">179.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">FELIX CABRERA GIMENEZ</SimpleData>
+            <SimpleData name="Cédula_1">4246996.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">DR. J. EULOGIO ESTIGARRIBIA</SimpleData>
+            <SimpleData name="Localidad">SAN JUAN YHOVY</SimpleData>
+            <SimpleData name="Teléfono">0975266959</SimpleData>
+            <SimpleData name="Vivienda_L">-25.49753270000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.63297870000</SimpleData>
+            <SimpleData name="Parcela_La">-25.50509288000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.63208783000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">179</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.6320878331763,-25.5050928774999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_DR.18">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_DR.schema">
+            <SimpleData name="Cédula">6368957.00000000000</SimpleData>
+            <SimpleData name="cedula">6368957</SimpleData>
+            <SimpleData name="Shape_Leng">736.42594946300</SimpleData>
+            <SimpleData name="Shape_Area">8393.16222360000</SimpleData>
+            <SimpleData name="N">402.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CLARISA  FLORES SOSA</SimpleData>
+            <SimpleData name="Cédula_1">6368957.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">DR. J. EULOGIO ESTIGARRIBIA</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[CHE'IRO ?RA POTY]]></SimpleData>
+            <SimpleData name="Teléfono">0</SimpleData>
+            <SimpleData name="Vivienda_L">-25.50084270000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.63753490000</SimpleData>
+            <SimpleData name="Parcela_La">-25.49628438000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.66321490000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">3.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">402</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Point>
+            <coordinates>
+              -55.6641123337521,-25.4955941007711,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -55.6632149042717,-25.4962843816477,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -55.6606319967896,-25.4953684534486,0
+            </coordinates>
+          </Point>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_DR.19">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_DR.schema">
+            <SimpleData name="Cédula">7521315.00000000000</SimpleData>
+            <SimpleData name="cedula">7521315</SimpleData>
+            <SimpleData name="Shape_Leng">486.08628497300</SimpleData>
+            <SimpleData name="Shape_Area">8275.98843745000</SimpleData>
+            <SimpleData name="N">531.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CAROLINA CABRERA FLORES</SimpleData>
+            <SimpleData name="Cédula_1">7521315.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">DR. J. EULOGIO ESTIGARRIBIA</SimpleData>
+            <SimpleData name="Localidad">SAN JUAN YHOVY</SimpleData>
+            <SimpleData name="Teléfono">0976767242</SimpleData>
+            <SimpleData name="Vivienda_L">-25.49750620000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.63226790000</SimpleData>
+            <SimpleData name="Parcela_La">-25.50435460000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.63189599000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">531</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.6318959945748,-25.5043546010365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_DR.20">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_DR.schema">
+            <SimpleData name="Cédula">5933641.00000000000</SimpleData>
+            <SimpleData name="cedula">5933641</SimpleData>
+            <SimpleData name="Shape_Leng">369.27071051300</SimpleData>
+            <SimpleData name="Shape_Area">8403.65442841000</SimpleData>
+            <SimpleData name="N">314.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MIRIAN RAQUEL TORALES ESPINOLA</SimpleData>
+            <SimpleData name="Cédula_1">5933641.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">DR. J. EULOGIO ESTIGARRIBIA</SimpleData>
+            <SimpleData name="Localidad">SAN JUAN YHOVY</SimpleData>
+            <SimpleData name="Teléfono">0976408310</SimpleData>
+            <SimpleData name="Vivienda_L">-25.49191030000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.66514640000</SimpleData>
+            <SimpleData name="Parcela_La">-25.49397852000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.66528469000</SimpleData>
+            <SimpleData name="Grupo_de_p">E-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">E</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">314</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.6652846851407,-25.4939785219188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

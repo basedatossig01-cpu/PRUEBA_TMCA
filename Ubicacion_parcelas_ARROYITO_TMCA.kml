@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_ARROYITO.schema">
+      <SimpleField name="Cédula" type="double"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="Shape_Leng" type="double"/>
+      <SimpleField name="Shape_Area" type="double"/>
+      <SimpleField name="N" type="double"/>
+      <SimpleField name="Nombres_y_" type="string"/>
+      <SimpleField name="Cédula_1" type="double"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio_de_" type="string"/>
+      <SimpleField name="Titular_se" type="string"/>
+      <SimpleField name="Cédula_Ti" type="string"/>
+      <SimpleField name="Situación" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="Teléfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="double"/>
+      <SimpleField name="Vivienda_1" type="double"/>
+      <SimpleField name="Parcela_La" type="double"/>
+      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Grupo_de_p" type="string"/>
+      <SimpleField name="Estado_del" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Etapa_de_i" type="string"/>
+      <SimpleField name="Cantidad_d" type="double"/>
+      <SimpleField name="F25" type="string"/>
+      <SimpleField name="OBJECTID_1" type="int"/>
+    </Schema>
+    <Document id="Distrito_ARROYITO">
+      <name>Distrito_ARROYITO</name>
+      <Placemark id="Distrito_ARROYITO.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ARROYITO.schema">
+            <SimpleData name="Cédula">6208384.00000000000</SimpleData>
+            <SimpleData name="cedula">6208384</SimpleData>
+            <SimpleData name="Shape_Leng">404.10345057500</SimpleData>
+            <SimpleData name="Shape_Area">9586.06022230000</SimpleData>
+            <SimpleData name="N">458.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LILIAN ROSANA SILVA QUI?ONEZ</SimpleData>
+            <SimpleData name="Cédula_1">6208384.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">ARROYITO</SimpleData>
+            <SimpleData name="Localidad">CALLE 16 NORTE</SimpleData>
+            <SimpleData name="Teléfono">0972830168</SimpleData>
+            <SimpleData name="Vivienda_L">-23.16342230000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.81032400000</SimpleData>
+            <SimpleData name="Parcela_La">-23.15975810000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.80376860000</SimpleData>
+            <SimpleData name="Grupo_de_p">J-GN-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Etapa_de_i">0</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">458</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -57.0083068455691,-23.3659216792574,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_ARROYITO.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ARROYITO.schema">
+            <SimpleData name="Cédula">7135433.00000000000</SimpleData>
+            <SimpleData name="cedula">7135433</SimpleData>
+            <SimpleData name="Shape_Leng">421.76266695200</SimpleData>
+            <SimpleData name="Shape_Area">8250.56394120000</SimpleData>
+            <SimpleData name="N">449.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">EDITH GRICELDA PRIETO DUARTE</SimpleData>
+            <SimpleData name="Cédula_1">7135433.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">ARROYITO</SimpleData>
+            <SimpleData name="Localidad">NUCLEO 3</SimpleData>
+            <SimpleData name="Teléfono">0984669639</SimpleData>
+            <SimpleData name="Vivienda_L">-23.22488170000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.69239280000</SimpleData>
+            <SimpleData name="Parcela_La">-23.22238548000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.69146964000</SimpleData>
+            <SimpleData name="Grupo_de_p">J-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">449</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.6914696449116,-23.2223854831036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

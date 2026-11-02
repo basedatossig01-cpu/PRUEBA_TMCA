@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_AZOTEY.schema">
+      <SimpleField name="Cédula" type="double"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="Shape_Leng" type="double"/>
+      <SimpleField name="Shape_Area" type="double"/>
+      <SimpleField name="N" type="double"/>
+      <SimpleField name="Nombres_y_" type="string"/>
+      <SimpleField name="Cédula_1" type="double"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio_de_" type="string"/>
+      <SimpleField name="Titular_se" type="string"/>
+      <SimpleField name="Cédula_Ti" type="string"/>
+      <SimpleField name="Situación" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="Teléfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="double"/>
+      <SimpleField name="Vivienda_1" type="double"/>
+      <SimpleField name="Parcela_La" type="double"/>
+      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Grupo_de_p" type="string"/>
+      <SimpleField name="Estado_del" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Etapa_de_i" type="string"/>
+      <SimpleField name="Cantidad_d" type="double"/>
+      <SimpleField name="F25" type="string"/>
+      <SimpleField name="OBJECTID_1" type="int"/>
+    </Schema>
+    <Document id="Distrito_AZOTEY">
+      <name>Distrito_AZOTEY</name>
+      <Placemark id="Distrito_AZOTEY.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">6816711.00000000000</SimpleData>
+            <SimpleData name="cedula">6816711</SimpleData>
+            <SimpleData name="Shape_Leng">365.58592649600</SimpleData>
+            <SimpleData name="Shape_Area">8452.52693758000</SimpleData>
+            <SimpleData name="N">481.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">PAOLA  MARTINEZ</SimpleData>
+            <SimpleData name="Cédula_1">6816711.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad">SANTA LIBRADA</SimpleData>
+            <SimpleData name="Teléfono">0984768680</SimpleData>
+            <SimpleData name="Vivienda_L">-23.29488670000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.42573930000</SimpleData>
+            <SimpleData name="Parcela_La">-23.29435932000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.42866818000</SimpleData>
+            <SimpleData name="Grupo_de_p">J-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">481</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.4282853995133,-23.2947609999618,0
+                -56.4283631000622,-23.2948329999742,0
+                -56.429095099858,-23.2947658001254,0
+                -56.4291010995943,-23.2938850002426,0
+                -56.428164300407,-23.2940021999526,0
+                -56.4282583001564,-23.2945666996271,0
+                -56.4282853995133,-23.2947609999618,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_AZOTEY.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">3717836.00000000000</SimpleData>
+            <SimpleData name="cedula">3717836</SimpleData>
+            <SimpleData name="Shape_Leng">475.24034335500</SimpleData>
+            <SimpleData name="Shape_Area">9199.50746245000</SimpleData>
+            <SimpleData name="N">160.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">NELSON BRITEZ</SimpleData>
+            <SimpleData name="Cédula_1">3717836.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[VY'A PAV?]]></SimpleData>
+            <SimpleData name="Teléfono">984731170</SimpleData>
+            <SimpleData name="Vivienda_L">-23.35844650000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.50427140000</SimpleData>
+            <SimpleData name="Parcela_La">-23.35896207000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.50621002000</SimpleData>
+            <SimpleData name="Grupo_de_p">J-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">160</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.5058465091875,-23.3597418126252,0
+                -56.5058466993525,-23.3597433000249,0
+                -56.5059514211606,-23.3597277798648,0
+                -56.5063089002314,-23.3596747995849,0
+                -56.5062507002969,-23.3592443004642,0
+                -56.5066552996922,-23.359136399521,0
+                -56.5065723992522,-23.3583011005745,0
+                -56.5058412997144,-23.3584160001268,0
+                -56.5060133001646,-23.3592307997591,0
+                -56.5057868998662,-23.3592762002068,0
+                -56.5058465091875,-23.3597418126252,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_AZOTEY.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">5387251.00000000000</SimpleData>
+            <SimpleData name="cedula">5387251</SimpleData>
+            <SimpleData name="Shape_Leng">414.69134349600</SimpleData>
+            <SimpleData name="Shape_Area">8203.26874056000</SimpleData>
+            <SimpleData name="N">270.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARIA DELIA MENDOZA VELAZQUEZ</SimpleData>
+            <SimpleData name="Cédula_1">5387251.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[VY'A PAV?]]></SimpleData>
+            <SimpleData name="Teléfono">0984610961</SimpleData>
+            <SimpleData name="Vivienda_L">-23.33111550000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.50986160000</SimpleData>
+            <SimpleData name="Parcela_La">-23.33103830000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.50800164000</SimpleData>
+            <SimpleData name="Grupo_de_p">J-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">270</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.5076373103568,-23.3307896804562,0
+                -56.5072199996481,-23.3308132998839,0
+                -56.5072531000922,-23.3312656004588,0
+                -56.5087766997756,-23.331286700438,0
+                -56.5087467002625,-23.3308130002048,0
+                -56.5077004563639,-23.3307891824709,0
+                -56.5076373103568,-23.3307896804562,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_AZOTEY.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">8068136.00000000000</SimpleData>
+            <SimpleData name="cedula">8068136</SimpleData>
+            <SimpleData name="Shape_Leng">402.63417656900</SimpleData>
+            <SimpleData name="Shape_Area">8203.45997816000</SimpleData>
+            <SimpleData name="N">540.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MIRIAN ROSANA ROJAS DUARTE</SimpleData>
+            <SimpleData name="Cédula_1">8068136.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[VY'A PAV?]]></SimpleData>
+            <SimpleData name="Vivienda_L">-23.35278170000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.50830500000</SimpleData>
+            <SimpleData name="Parcela_La">-23.35272367000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.50687709000</SimpleData>
+            <SimpleData name="Grupo_de_p">J-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">540</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.5060249998942,-23.3527817005274,0
+                -56.507394599493,-23.3531357007528,0
+                -56.5076023993121,-23.3524840002828,0
+                -56.5064313998222,-23.3524425004771,0
+                -56.5061751993296,-23.3524936004719,0
+                -56.506099100363,-23.3526161000484,0
+                -56.5060249998942,-23.3527817005274,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_AZOTEY.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">3668316.00000000000</SimpleData>
+            <SimpleData name="cedula">3668316</SimpleData>
+            <SimpleData name="Shape_Leng">638.48515433300</SimpleData>
+            <SimpleData name="Shape_Area">8623.25748904000</SimpleData>
+            <SimpleData name="N">475.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">NARCISO CRISTOBAL VILLALBA RODAS</SimpleData>
+            <SimpleData name="Cédula_1">3668316.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad">KURUSU DE HIERRO SAN ROQUE</SimpleData>
+            <SimpleData name="Teléfono">0973214064</SimpleData>
+            <SimpleData name="Vivienda_L">-23.41189680000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.69646810000</SimpleData>
+            <SimpleData name="Parcela_La">-23.41123987000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.69669675000</SimpleData>
+            <SimpleData name="Grupo_de_p">J-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">475</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.6967182992844,-23.4109833004523,0
+                  -56.6960170992773,-23.4114904000094,0
+                  -56.6961205994428,-23.4115867004158,0
+                  -56.6964197992037,-23.4114104000226,0
+                  -56.6965790996158,-23.4114227999689,0
+                  -56.6966346992661,-23.4114228997982,0
+                  -56.6970556994019,-23.4118224002823,0
+                  -56.6971831994067,-23.4118049998841,0
+                  -56.6973549999281,-23.4116582999178,0
+                  -56.6973749993689,-23.4116030998351,0
+                  -56.6967182992844,-23.4109833004523,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.6973891990832,-23.4091138996876,0
+                  -56.6980182998948,-23.4099166999542,0
+                  -56.6980714996908,-23.4097572999805,0
+                  -56.6981125992475,-23.409385499796,0
+                  -56.6977216993886,-23.4089333000894,0
+                  -56.6973891990832,-23.4091138996876,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_AZOTEY.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">4449709.00000000000</SimpleData>
+            <SimpleData name="cedula">4449709</SimpleData>
+            <SimpleData name="Shape_Leng">388.27135310600</SimpleData>
+            <SimpleData name="Shape_Area">9276.14168953000</SimpleData>
+            <SimpleData name="N">460.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">NILSA DE LAS NIEVES INSFRAN GUTIERREZ</SimpleData>
+            <SimpleData name="Cédula_1">4449709.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad">KURUSU DE HIERRO SAN FRANCISCO</SimpleData>
+            <SimpleData name="Teléfono">0973201568</SimpleData>
+            <SimpleData name="Vivienda_L">-23.39848030000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.61876080000</SimpleData>
+            <SimpleData name="Parcela_La">-23.39063744000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.62103815000</SimpleData>
+            <SimpleData name="Grupo_de_p">J-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">460</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.6205729998612,-23.3911135998691,0
+                -56.6213659991909,-23.3911908003284,0
+                -56.6214818997952,-23.3901842997296,0
+                -56.621436099109,-23.3901098998663,0
+                -56.6207056998813,-23.3901219997239,0
+                -56.6205729998612,-23.3911135998691,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_AZOTEY.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">6881979.00000000000</SimpleData>
+            <SimpleData name="cedula">6881979</SimpleData>
+            <SimpleData name="Shape_Leng">388.77259668300</SimpleData>
+            <SimpleData name="Shape_Area">9380.98555181000</SimpleData>
+            <SimpleData name="N">476.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">DIANA VILLALBA RODAS</SimpleData>
+            <SimpleData name="Cédula_1">6881979.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad">KURUSU DE HIERRO SAN ROQUE</SimpleData>
+            <SimpleData name="Teléfono">0975256570</SimpleData>
+            <SimpleData name="Vivienda_L">-23.41652740000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.69081000000</SimpleData>
+            <SimpleData name="Parcela_La">-23.41506370000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.69002323000</SimpleData>
+            <SimpleData name="Grupo_de_p">J-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">476</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.6893387990854,-23.4149153003767,0
+                -56.6899900991949,-23.4157014998351,0
+                -56.6906534994966,-23.415150900477,0
+                -56.6901760996497,-23.4144730999879,0
+                -56.6893387990854,-23.4149153003767,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_AZOTEY.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">7466759.00000000000</SimpleData>
+            <SimpleData name="cedula">7466759</SimpleData>
+            <SimpleData name="Shape_Leng">373.41658014800</SimpleData>
+            <SimpleData name="Shape_Area">8657.78242221000</SimpleData>
+            <SimpleData name="N">477.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">NILDA INSFRAN JARA</SimpleData>
+            <SimpleData name="Cédula_1">7466759.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad">SAN ANTONIO</SimpleData>
+            <SimpleData name="Teléfono">0976514692</SimpleData>
+            <SimpleData name="Vivienda_L">-23.33937240000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.49219840000</SimpleData>
+            <SimpleData name="Parcela_La">-23.33770368000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.49772906000</SimpleData>
+            <SimpleData name="Grupo_de_p">J-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">477</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.4972795990311,-23.3379722995527,0
+                -56.4972987005897,-23.3381264002422,0
+                -56.4982860001207,-23.3380441995244,0
+                -56.4981435998079,-23.3372609003509,0
+                -56.4972017001829,-23.3373700003176,0
+                -56.4972414002417,-23.3379644005856,0
+                -56.4972795990311,-23.3379722995527,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_AZOTEY.9">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">7578759.00000000000</SimpleData>
+            <SimpleData name="cedula">7578759</SimpleData>
+            <SimpleData name="Shape_Leng">391.84489630900</SimpleData>
+            <SimpleData name="Shape_Area">9452.20634855000</SimpleData>
+            <SimpleData name="N">533.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARIELA RAMONA OVIEDO PANIAGUA</SimpleData>
+            <SimpleData name="Cédula_1">7578759.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad">KURUSU DE HIERRO SAN FRANCISCO</SimpleData>
+            <SimpleData name="Teléfono">0983669317</SimpleData>
+            <SimpleData name="Vivienda_L">-23.40045600000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.64940540000</SimpleData>
+            <SimpleData name="Parcela_La">-23.40344992000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.64913837000</SimpleData>
+            <SimpleData name="Grupo_de_p">J-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">533</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.6485998995783,-23.4038382997761,0
+                -56.6494814997999,-23.4039818001316,0
+                -56.6496638996343,-23.4029733001077,0
+                -56.6495644991025,-23.4029817000415,0
+                -56.6492155997326,-23.4029857002606,0
+                -56.6487564993284,-23.4029979005203,0
+                -56.6485998995783,-23.4038382997761,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_AZOTEY.10">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">6362551.00000000000</SimpleData>
+            <SimpleData name="cedula">6362551</SimpleData>
+            <SimpleData name="Shape_Leng">364.34238979700</SimpleData>
+            <SimpleData name="Shape_Area">8096.87379588000</SimpleData>
+            <SimpleData name="N">401.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MILCA CA?ETE RIBEROS</SimpleData>
+            <SimpleData name="Cédula_1">6362551.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad">KURUSU DE HIERRO SANTO DOMINGO</SimpleData>
+            <SimpleData name="Teléfono">0984264310</SimpleData>
+            <SimpleData name="Vivienda_L">-23.39754670000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.68608100000</SimpleData>
+            <SimpleData name="Parcela_La">-23.42091673000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.66291023000</SimpleData>
+            <SimpleData name="Grupo_de_p">J-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">401</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.6635594642886,-23.4209757087993,0
+                -56.6635411995762,-23.4209864004916,0
+                -56.6629664926487,-23.4203659944128,0
+                -56.6629450990993,-23.4203429000136,0
+                -56.6622978996422,-23.4208585003919,0
+                -56.6628301992053,-23.4214796998576,0
+                -56.6635612997173,-23.4209775997164,0
+                -56.6635594642886,-23.4209757087993,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_AZOTEY.11">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">7860402.00000000000</SimpleData>
+            <SimpleData name="cedula">7860402</SimpleData>
+            <SimpleData name="Shape_Leng">908.31310611000</SimpleData>
+            <SimpleData name="Shape_Area">9526.25363226000</SimpleData>
+            <SimpleData name="N">517.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">SUSANA NU EZ VALDEZ</SimpleData>
+            <SimpleData name="Cédula_1">7860402.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad">SANTA ANA</SimpleData>
+            <SimpleData name="Teléfono">983971328</SimpleData>
+            <SimpleData name="Vivienda_L">-23.30068330000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.48856170000</SimpleData>
+            <SimpleData name="Parcela_La">-23.30052336000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.48716444000</SimpleData>
+            <SimpleData name="Grupo_de_p">J-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">3.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">517</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.4869166993104,-23.3004004005331,0
+                  -56.4868515999154,-23.300447099642,0
+                  -56.486581099153,-23.3003884003873,0
+                  -56.486589399885,-23.300644000368,0
+                  -56.487787499473,-23.3007804998456,0
+                  -56.4877914993891,-23.3006529997389,0
+                  -56.4875603991849,-23.3006029000553,0
+                  -56.4875499992278,-23.300322199972,0
+                  -56.4868611992555,-23.3002563996643,0
+                  -56.4867962990602,-23.3003269000665,0
+                  -56.4869166993104,-23.3004004005331,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.4789199992723,-23.283900000124,0
+                  -56.4792890995102,-23.2839641999075,0
+                  -56.4793541997225,-23.2837508998159,0
+                  -56.4791018994044,-23.2836955996637,0
+                  -56.479226499753,-23.2833552999591,0
+                  -56.4792359995493,-23.2832388003118,0
+                  -56.4792052991575,-23.2832343003135,0
+                  -56.4790300997022,-23.2836256998359,0
+                  -56.4789199992723,-23.283900000124,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.4796028994824,-23.2830684004041,0
+                  -56.4798397997361,-23.2831095005118,0
+                  -56.4798954996491,-23.2830588996743,0
+                  -56.4800189997065,-23.2818407003801,0
+                  -56.4798101993846,-23.2818183005286,0
+                  -56.4797749992612,-23.2820741002943,0
+                  -56.479621299325,-23.2828031002371,0
+                  -56.4796028994824,-23.2830684004041,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_AZOTEY.12">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">5575616.00000000000</SimpleData>
+            <SimpleData name="cedula">5575616</SimpleData>
+            <SimpleData name="Shape_Leng">446.95522560600</SimpleData>
+            <SimpleData name="Shape_Area">10833.01425310000</SimpleData>
+            <SimpleData name="N">297.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LIMPIA CONCEPCION GONZALEZ ARECO</SimpleData>
+            <SimpleData name="Cédula_1">5575616.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 3</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad">KURUSU DE HIERRO SAN ROQUE</SimpleData>
+            <SimpleData name="Teléfono">0975247489</SimpleData>
+            <SimpleData name="Vivienda_L">-23.41014650000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.69905610000</SimpleData>
+            <SimpleData name="Parcela_La">-23.40820816000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.70153631000</SimpleData>
+            <SimpleData name="Grupo_de_p">J-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">297</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.7009096996006,-23.4085327998647,0
+                -56.7011681994668,-23.4088902002981,0
+                -56.702274999444,-23.4082217000805,0
+                -56.7017132997293,-23.4075299999632,0
+                -56.7009449999064,-23.408073299986,0
+                -56.7011532993941,-23.408361699658,0
+                -56.7009096996006,-23.4085327998647,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_AZOTEY.13">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">6983066.00000000000</SimpleData>
+            <SimpleData name="cedula">6983066</SimpleData>
+            <SimpleData name="Shape_Leng">443.09568297800</SimpleData>
+            <SimpleData name="Shape_Area">8823.00150438000</SimpleData>
+            <SimpleData name="N">494.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LUZ MARINA SILVA AGUERO</SimpleData>
+            <SimpleData name="Cédula_1">6983066.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad">KURUSU DE HIERRO SANTO DOMINGO</SimpleData>
+            <SimpleData name="Teléfono">0983440681</SimpleData>
+            <SimpleData name="Vivienda_L">-23.41390270000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.62700460000</SimpleData>
+            <SimpleData name="Parcela_La">-23.41411286000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.62329233000</SimpleData>
+            <SimpleData name="Grupo_de_p">J-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">494</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.6224551997804,-23.4139198003618,0
+                -56.6224668003597,-23.4143847999862,0
+                -56.6241410995613,-23.4143091004259,0
+                -56.6240933000501,-23.4138349998999,0
+                -56.6224551997804,-23.4139198003618,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_AZOTEY.14">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">3343517.00000000000</SimpleData>
+            <SimpleData name="cedula">3343517</SimpleData>
+            <SimpleData name="Shape_Leng">380.50055330800</SimpleData>
+            <SimpleData name="Shape_Area">8957.34253076000</SimpleData>
+            <SimpleData name="N">153.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">FRANCISCA ORTELLADO GONZALEZ</SimpleData>
+            <SimpleData name="Cédula_1">3343517.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad">SAN ANTONIO</SimpleData>
+            <SimpleData name="Teléfono">0981741751</SimpleData>
+            <SimpleData name="Vivienda_L">-23.35097500000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.49703790000</SimpleData>
+            <SimpleData name="Parcela_La">-23.35089727000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.50090093000</SimpleData>
+            <SimpleData name="Grupo_de_p">J-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">153</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.5004636997162,-23.3512793996921,0
+                -56.5013916997282,-23.3513459995584,0
+                -56.5013675004406,-23.3504957003444,0
+                -56.5003567996554,-23.3504917996906,0
+                -56.5004636997162,-23.3512793996921,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_AZOTEY.15">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">6230849.00000000000</SimpleData>
+            <SimpleData name="cedula">6230849</SimpleData>
+            <SimpleData name="Shape_Leng">494.06522926700</SimpleData>
+            <SimpleData name="Shape_Area">8777.10798061000</SimpleData>
+            <SimpleData name="N">388.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">EULALIA ZEBALLO COLMAN</SimpleData>
+            <SimpleData name="Cédula_1">6230849.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad">KURUSU DE HIERRO SAN FRANCISCO</SimpleData>
+            <SimpleData name="Teléfono">0993434884</SimpleData>
+            <SimpleData name="Vivienda_L">-23.39990390000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.64635050000</SimpleData>
+            <SimpleData name="Parcela_La">-23.40282841000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.64593875000</SimpleData>
+            <SimpleData name="Grupo_de_p">J-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">388</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.6455883003024,-23.4037049995857,0
+                -56.6459966998832,-23.4037817000674,0
+                -56.6462939003496,-23.4019485999561,0
+                -56.645872100059,-23.4018925000904,0
+                -56.6455883003024,-23.4037049995857,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_AZOTEY.16">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">6543192.00000000000</SimpleData>
+            <SimpleData name="cedula">6543192</SimpleData>
+            <SimpleData name="Shape_Leng">477.56051386700</SimpleData>
+            <SimpleData name="Shape_Area">12689.94648950000</SimpleData>
+            <SimpleData name="N">412.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">RAQUEL NU?EZ GODOY</SimpleData>
+            <SimpleData name="Cédula_1">6543192.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 3</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad">KURUSU DE HIERRO SANTO DOMINGO</SimpleData>
+            <SimpleData name="Teléfono">0992270209</SimpleData>
+            <SimpleData name="Vivienda_L">-23.39950080000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.64175230000</SimpleData>
+            <SimpleData name="Parcela_La">-23.40550388000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.64080763000</SimpleData>
+            <SimpleData name="Grupo_de_p">J-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">412</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.6404588000162,-23.4061515003136,0
+                -56.6410335996934,-23.4063746000478,0
+                -56.6413106998052,-23.4048752007894,0
+                -56.6405117996304,-23.4047225995042,0
+                -56.6403467001175,-23.4059582996063,0
+                -56.6404588000162,-23.4061515003136,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_AZOTEY.17">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_AZOTEY.schema">
+            <SimpleData name="Cédula">6714756.00000000000</SimpleData>
+            <SimpleData name="cedula">6714756</SimpleData>
+            <SimpleData name="Shape_Leng">549.09292356600</SimpleData>
+            <SimpleData name="Shape_Area">10170.49485270000</SimpleData>
+            <SimpleData name="N">438.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">NELIDA MARTINEZ A?AZCO</SimpleData>
+            <SimpleData name="Cédula_1">6714756.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 3</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">AZOTEY</SimpleData>
+            <SimpleData name="Localidad">KURUSU DE HIERRO SANTO DOMINGO</SimpleData>
+            <SimpleData name="Teléfono">0994568293</SimpleData>
+            <SimpleData name="Vivienda_L">-23.39959310000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.64898540000</SimpleData>
+            <SimpleData name="Parcela_La">-23.39719285000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.64931328000</SimpleData>
+            <SimpleData name="Grupo_de_p">J-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">438</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.6489799995993,-23.3982250002441,0
+                -56.6493866999965,-23.3982620002227,0
+                -56.6496633003559,-23.3962499992027,0
+                -56.6492194996615,-23.3961137005439,0
+                -56.6489799995993,-23.3982250002441,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

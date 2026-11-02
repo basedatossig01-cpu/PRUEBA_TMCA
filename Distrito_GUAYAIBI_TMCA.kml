@@ -1,0 +1,1605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_GUAYAIBI.schema">
+      <SimpleField name="Cédula" type="double"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="Shape_Leng" type="double"/>
+      <SimpleField name="Shape_Area" type="double"/>
+      <SimpleField name="N" type="double"/>
+      <SimpleField name="Nombres_y_" type="string"/>
+      <SimpleField name="Cédula_1" type="double"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio_de_" type="string"/>
+      <SimpleField name="Titular_se" type="string"/>
+      <SimpleField name="Cédula_Ti" type="string"/>
+      <SimpleField name="Situación" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="Teléfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="double"/>
+      <SimpleField name="Vivienda_1" type="double"/>
+      <SimpleField name="Parcela_La" type="double"/>
+      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Grupo_de_p" type="string"/>
+      <SimpleField name="Estado_del" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Etapa_de_i" type="string"/>
+      <SimpleField name="Cantidad_d" type="double"/>
+      <SimpleField name="F25" type="string"/>
+      <SimpleField name="OBJECTID_1" type="int"/>
+    </Schema>
+    <Document id="Distrito_GUAYAIBI">
+      <name>Distrito_GUAYAIBI</name>
+      <Placemark id="Distrito_GUAYAIBI.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">6618152.00000000000</SimpleData>
+            <SimpleData name="cedula">6618152</SimpleData>
+            <SimpleData name="Shape_Leng">374.26189319400</SimpleData>
+            <SimpleData name="Shape_Area">8740.14841915000</SimpleData>
+            <SimpleData name="N">417.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">OLGA MAIZ FERREIRA</SimpleData>
+            <SimpleData name="Cédula_1">6618152.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">ASENT. 15 DE AGOSTO</SimpleData>
+            <SimpleData name="Teléfono">0976505306</SimpleData>
+            <SimpleData name="Vivienda_L">-24.42836590000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.24916120000</SimpleData>
+            <SimpleData name="Parcela_La">-24.43026764000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.25414268000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">417</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2535493005036,-24.4305131003838,0
+                -56.2544305986231,-24.4307941999689,0
+                -56.2547549002613,-24.4300378003362,0
+                -56.2538330999536,-24.4297381008496,0
+                -56.2535493005036,-24.4305131003838,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">7829695.00000000000</SimpleData>
+            <SimpleData name="cedula">7829695</SimpleData>
+            <SimpleData name="Shape_Leng">453.78069837900</SimpleData>
+            <SimpleData name="Shape_Area">8788.21042210000</SimpleData>
+            <SimpleData name="N">535.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LIZ ROSALBA TORRES VAZAQUEZ</SimpleData>
+            <SimpleData name="Cédula_1">7829695.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">ASENT. 15 DE AGOSTO</SimpleData>
+            <SimpleData name="Teléfono">0986206281</SimpleData>
+            <SimpleData name="Vivienda_L">-24.42187700000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.24941230000</SimpleData>
+            <SimpleData name="Parcela_La">-24.41185411000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.20015861000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">535</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.1999164995348,-24.4110467002623,0
+                -56.1999126999948,-24.4126557999823,0
+                -56.200404999776,-24.412650000232,0
+                -56.2004018000623,-24.4110562995604,0
+                -56.1999164995348,-24.4110467002623,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">3613590.00000000000</SimpleData>
+            <SimpleData name="cedula">3613590</SimpleData>
+            <SimpleData name="Shape_Leng">357.17734715500</SimpleData>
+            <SimpleData name="Shape_Area">7962.89333076000</SimpleData>
+            <SimpleData name="N">158.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LEADE BERUTTI GONZALEZ</SimpleData>
+            <SimpleData name="Cédula_1">3613590.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">4000 TACUAPI</SimpleData>
+            <SimpleData name="Teléfono">0986299935</SimpleData>
+            <SimpleData name="Vivienda_L">-24.56744140000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.48551160000</SimpleData>
+            <SimpleData name="Parcela_La">-24.56471091000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.48627181000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">158</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.4858222994929,-24.5643398994515,0
+                -56.4858162000317,-24.5651142000605,0
+                -56.4867364007135,-24.5650911000557,0
+                -56.4867000003309,-24.5642866992988,0
+                -56.4858222994929,-24.5643398994515,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">6956531.00000000000</SimpleData>
+            <SimpleData name="cedula">6956531</SimpleData>
+            <SimpleData name="Shape_Leng">449.15810377500</SimpleData>
+            <SimpleData name="Shape_Area">8398.02939610000</SimpleData>
+            <SimpleData name="N">439.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">GISSEL VERUTTI RAMIREZ</SimpleData>
+            <SimpleData name="Cédula_1">6956531.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">4000 TACUAPI</SimpleData>
+            <SimpleData name="Teléfono">0971186413</SimpleData>
+            <SimpleData name="Vivienda_L">-24.56756510000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.48537630000</SimpleData>
+            <SimpleData name="Parcela_La">-24.56550719000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.47752476000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">439</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.4772874001246,-24.5647263000674,0
+                -56.4772916997841,-24.5663050000396,0
+                -56.4777714999668,-24.566294999616,0
+                -56.4777442000862,-24.5646770002386,0
+                -56.4772874001246,-24.5647263000674,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">5814484.00000000000</SimpleData>
+            <SimpleData name="cedula">5814484</SimpleData>
+            <SimpleData name="Shape_Leng">509.78897622800</SimpleData>
+            <SimpleData name="Shape_Area">9286.19281726000</SimpleData>
+            <SimpleData name="N">307.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ADELA SALVADORA LOPEZ ALDERETE</SimpleData>
+            <SimpleData name="Cédula_1">5814484.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">NARANJA JAI</SimpleData>
+            <SimpleData name="Teléfono">0982550740</SimpleData>
+            <SimpleData name="Vivienda_L">-24.48030160000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.30071140000</SimpleData>
+            <SimpleData name="Parcela_La">-24.48165248000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.29868609000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">307</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2976283011321,-24.4819650006758,0
+                -56.2978816995215,-24.4822649997833,0
+                -56.299681700195,-24.4814017001454,0
+                -56.2994816989482,-24.48102000003,0
+                -56.2976283011321,-24.4819650006758,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">5345693.00000000000</SimpleData>
+            <SimpleData name="cedula">5345693</SimpleData>
+            <SimpleData name="Shape_Leng">363.64463990500</SimpleData>
+            <SimpleData name="Shape_Area">8098.16292365000</SimpleData>
+            <SimpleData name="N">268.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">RAMON PIZZURNO ACOSTA</SimpleData>
+            <SimpleData name="Cédula_1">5345693.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">ASENT. 15 DE AGOSTO</SimpleData>
+            <SimpleData name="Teléfono">0976919828</SimpleData>
+            <SimpleData name="Vivienda_L">-24.42643800000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.24877000000</SimpleData>
+            <SimpleData name="Parcela_La">-24.42546053000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.24502286000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">268</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2444460003268,-24.425642601471,0
+                -56.2453782001286,-24.4259664016351,0
+                -56.2456144526375,-24.425284819584,0
+                -56.2446476996176,-24.4249553005582,0
+                -56.2444460003268,-24.425642601471,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">4412195.00000000000</SimpleData>
+            <SimpleData name="cedula">4412195</SimpleData>
+            <SimpleData name="Shape_Leng">399.86385195700</SimpleData>
+            <SimpleData name="Shape_Area">9942.62315872000</SimpleData>
+            <SimpleData name="N">154.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARTA VILLALBA BAEZ</SimpleData>
+            <SimpleData name="Cédula_1">4412195.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 4</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">NARANJA JAI</SimpleData>
+            <SimpleData name="Teléfono">0984680146</SimpleData>
+            <SimpleData name="Vivienda_L">-24.48154710000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.30164050000</SimpleData>
+            <SimpleData name="Parcela_La">-24.47943014000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.30675139000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">154</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.3060616998839,-24.4792483007126,0
+                -56.3065109001697,-24.4800175995861,0
+                -56.3074551993312,-24.4795799998954,0
+                -56.3069832997981,-24.4788583001208,0
+                -56.3060616998839,-24.4792483007126,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">3588225.00000000000</SimpleData>
+            <SimpleData name="cedula">3588225</SimpleData>
+            <SimpleData name="Shape_Leng">376.50025847200</SimpleData>
+            <SimpleData name="Shape_Area">8828.79482127000</SimpleData>
+            <SimpleData name="N">157.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">BLANCA LIDIA CABRAL FIGUEREDO</SimpleData>
+            <SimpleData name="Cédula_1">3588225.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">ASENT. TORO PIRU 2</SimpleData>
+            <SimpleData name="Teléfono">0971380029</SimpleData>
+            <SimpleData name="Vivienda_L">-24.31842620000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.44226020000</SimpleData>
+            <SimpleData name="Parcela_La">-24.31411519000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.44277567000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">157</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.4423430996236,-24.3136833002282,0
+                -56.4422670992554,-24.3145386002129,0
+                -56.4432366996452,-24.3145117002678,0
+                -56.4432806995307,-24.3137193999492,0
+                -56.4423430996236,-24.3136833002282,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.9">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">6581543.00000000000</SimpleData>
+            <SimpleData name="cedula">6581543</SimpleData>
+            <SimpleData name="Shape_Leng">430.50278509700</SimpleData>
+            <SimpleData name="Shape_Area">9565.89640903000</SimpleData>
+            <SimpleData name="N">414.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LAURA BEATRIZ LEON VILLAGRA</SimpleData>
+            <SimpleData name="Cédula_1">6581543.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 6</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">PRIMAVERA</SimpleData>
+            <SimpleData name="Teléfono">0975382281</SimpleData>
+            <SimpleData name="Vivienda_L">-24.44961370000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.17929620000</SimpleData>
+            <SimpleData name="Parcela_La">-24.45151922000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.17934771000</SimpleData>
+            <SimpleData name="Grupo_de_p">Lote 1-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">414</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.1786389003425,-24.4517635004596,0
+                -56.1792039993382,-24.4518059999741,0
+                -56.1795366016065,-24.4517739004162,0
+                -56.1795707997846,-24.4519499999324,0
+                -56.179968999246,-24.4519751009551,0
+                -56.1799505998817,-24.4512022001671,0
+                -56.1787117998854,-24.451156701386,0
+                -56.1786389003425,-24.4517635004596,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.10">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">5428254.00000000000</SimpleData>
+            <SimpleData name="cedula">5428254</SimpleData>
+            <SimpleData name="Shape_Leng">448.87791870500</SimpleData>
+            <SimpleData name="Shape_Area">8329.11965865000</SimpleData>
+            <SimpleData name="N">272.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">DANIEL ARECO ESPINOLA</SimpleData>
+            <SimpleData name="Cédula_1">5428254.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">4000 TACUAPI</SimpleData>
+            <SimpleData name="Teléfono">0976105242</SimpleData>
+            <SimpleData name="Vivienda_L">-24.56777350000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.47685780000</SimpleData>
+            <SimpleData name="Parcela_La">-24.56517685000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.47701971000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">272</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.4767832722792,-24.5659629543704,0
+                -56.4770512272521,-24.5659676722767,0
+                -56.4772629996063,-24.5659714000592,0
+                -56.4772399992059,-24.5643699998277,0
+                -56.476795899071,-24.5643584997049,0
+                -56.4767801993511,-24.56596290035,0
+                -56.4767832722792,-24.5659629543704,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.11">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">5305230.00000000000</SimpleData>
+            <SimpleData name="cedula">5305230</SimpleData>
+            <SimpleData name="Shape_Leng">442.04953991200</SimpleData>
+            <SimpleData name="Shape_Area">8131.23916795000</SimpleData>
+            <SimpleData name="N">212.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">SINTHIA MARIBEL GONZALEZ ACOSTA</SimpleData>
+            <SimpleData name="Cédula_1">5305230.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">CALLE 2000</SimpleData>
+            <SimpleData name="Teléfono">0992511684</SimpleData>
+            <SimpleData name="Vivienda_L">-24.55521160000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.40391250000</SimpleData>
+            <SimpleData name="Parcela_La">-24.55331370000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.40592922000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">212</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.4050538995289,-24.5534965998137,0
+                -56.4067703990527,-24.5535514997123,0
+                -56.4067988996337,-24.553123499691,0
+                -56.4050732998098,-24.5530832997726,0
+                -56.4050538995289,-24.5534965998137,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.12">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">1759471.00000000000</SimpleData>
+            <SimpleData name="cedula">1759471</SimpleData>
+            <SimpleData name="Shape_Leng">481.47154859500</SimpleData>
+            <SimpleData name="Shape_Area">9169.76992803000</SimpleData>
+            <SimpleData name="N">443.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">DANIELA GONZALEZ DE GONZALEZ</SimpleData>
+            <SimpleData name="Cédula_1">1759471.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">CALLE 2000</SimpleData>
+            <SimpleData name="Teléfono">0982579060</SimpleData>
+            <SimpleData name="Vivienda_L">-24.55064110000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.47667370000</SimpleData>
+            <SimpleData name="Parcela_La">-24.55557522000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.47696191000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">443</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.4767301998534,-24.5547320998675,0
+                -56.4767216993882,-24.5564462000865,0
+                -56.4771972998015,-24.5564390999255,0
+                -56.4771932999259,-24.5546682996728,0
+                -56.4767301998534,-24.5547320998675,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.13">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">4023166.00000000000</SimpleData>
+            <SimpleData name="cedula">4023166</SimpleData>
+            <SimpleData name="Shape_Leng">546.28802323300</SimpleData>
+            <SimpleData name="Shape_Area">9105.29220084000</SimpleData>
+            <SimpleData name="N">168.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ABELINA SOSA ROMERO</SimpleData>
+            <SimpleData name="Cédula_1">4023166.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">ASENT. TORO PIRU 2</SimpleData>
+            <SimpleData name="Teléfono">0976202657</SimpleData>
+            <SimpleData name="Vivienda_L">-24.31792500000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.46874130000</SimpleData>
+            <SimpleData name="Parcela_La">-24.32080679000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.46826170000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">168</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.4679066998488,-24.3203982998383,0
+                  -56.4678772997818,-24.3216385005193,0
+                  -56.4684620994588,-24.3215857000156,0
+                  -56.4685329999739,-24.3203733002385,0
+                  -56.4679066998488,-24.3203982998383,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.468660399681,-24.3188006004645,0
+                  -56.4686604990268,-24.3189021003284,0
+                  -56.4692701992736,-24.3189028998153,0
+                  -56.4692933990243,-24.3187791000504,0
+                  -56.468660399681,-24.3188006004645,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.14">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">5432675.00000000000</SimpleData>
+            <SimpleData name="cedula">5432675</SimpleData>
+            <SimpleData name="Shape_Leng">401.59380303000</SimpleData>
+            <SimpleData name="Shape_Area">8101.59475189000</SimpleData>
+            <SimpleData name="N">433.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CECILIA GARCIA CANTERO</SimpleData>
+            <SimpleData name="Cédula_1">5432675.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">ASENT. TORO PIRU 2</SimpleData>
+            <SimpleData name="Teléfono">0971481902</SimpleData>
+            <SimpleData name="Vivienda_L">-24.32508170000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.46369000000</SimpleData>
+            <SimpleData name="Parcela_La">-24.32761948000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.46577191000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">433</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.4650768998917,-24.3273803003015,0
+                -56.4650343996735,-24.3278794005258,0
+                -56.4664924997193,-24.3278619003253,0
+                -56.4664697993128,-24.3273487999003,0
+                -56.4650768998917,-24.3273803003015,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.15">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">6136365.00000000000</SimpleData>
+            <SimpleData name="cedula">6136365</SimpleData>
+            <SimpleData name="Shape_Leng">717.21935436900</SimpleData>
+            <SimpleData name="Shape_Area">8129.39179973000</SimpleData>
+            <SimpleData name="N">379.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">PEDRO PABLO GODOY LOPEZ</SimpleData>
+            <SimpleData name="Cédula_1">6136365.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">CALLE ASUNCION</SimpleData>
+            <SimpleData name="Teléfono">0985946664</SimpleData>
+            <SimpleData name="Vivienda_L">-24.43125810000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.43578460000</SimpleData>
+            <SimpleData name="Parcela_La">-24.43326037000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.43570903000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">379</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.4354504992997,-24.4347533001045,0
+                -56.4356874998941,-24.4347806005058,0
+                -56.4359689997928,-24.4317623003156,0
+                -56.4357275992918,-24.4317556001893,0
+                -56.4354504992997,-24.4347533001045,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.16">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">4941522.00000000000</SimpleData>
+            <SimpleData name="cedula">4941522</SimpleData>
+            <SimpleData name="Shape_Leng">609.71308719900</SimpleData>
+            <SimpleData name="Shape_Area">10309.60624700000</SimpleData>
+            <SimpleData name="N">434.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">EUNICE GARCIA CANTERO</SimpleData>
+            <SimpleData name="Cédula_1">4941522.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">ASENT. TORO PIRU 2</SimpleData>
+            <SimpleData name="Teléfono">0975388883</SimpleData>
+            <SimpleData name="Vivienda_L">-24.32059550000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.46411020000</SimpleData>
+            <SimpleData name="Parcela_La">-24.32807772000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.46578105000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">434</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.4645260999089,-24.3279190001275,0
+                -56.4645384998816,-24.3283231003669,0
+                -56.4651749998159,-24.3282936001362,0
+                -56.4651796993429,-24.3282173002585,0
+                -56.4659042995397,-24.3282162002808,0
+                -56.4658812994426,-24.3282748999581,0
+                -56.4670105993842,-24.3282507001262,0
+                -56.4670303995827,-24.3278658005172,0
+                -56.4645260999089,-24.3279190001275,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.17">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">6986088.00000000000</SimpleData>
+            <SimpleData name="cedula">6986088</SimpleData>
+            <SimpleData name="Shape_Leng">677.10519820000</SimpleData>
+            <SimpleData name="Shape_Area">9345.31389463000</SimpleData>
+            <SimpleData name="N">495.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARISA BERNAL SEGOVIA</SimpleData>
+            <SimpleData name="Cédula_1">6986088.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">ASENT. TORO PIRU 2</SimpleData>
+            <SimpleData name="Teléfono">0975999512</SimpleData>
+            <SimpleData name="Vivienda_L">-24.32588080000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.46312650000</SimpleData>
+            <SimpleData name="Parcela_La">-24.32651963000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.45886222000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P2-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">3.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">495</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.4585050999328,-24.326276499782,0
+                  -56.4585331994723,-24.3267799997871,0
+                  -56.4592119991817,-24.3267769005162,0
+                  -56.459186899062,-24.3262464997249,0
+                  -56.4585050999328,-24.326276499782,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.4608331991894,-24.3261653005075,0
+                  -56.4608694993791,-24.3266944999627,0
+                  -56.4613185999511,-24.3266816998336,0
+                  -56.4612786990371,-24.3261450998009,0
+                  -56.4608331991894,-24.3261653005075,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.4607952995364,-24.3255314999441,0
+                  -56.4608442997895,-24.326151499858,0
+                  -56.4612341994858,-24.3261226003,0
+                  -56.4611933993685,-24.3255244003526,0
+                  -56.4607952995364,-24.3255314999441,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.18">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">5934553.00000000000</SimpleData>
+            <SimpleData name="cedula">5934553</SimpleData>
+            <SimpleData name="Shape_Leng">368.10428016100</SimpleData>
+            <SimpleData name="Shape_Area">8411.78468061000</SimpleData>
+            <SimpleData name="N">315.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">SANDRA ACOSTA PERALTA</SimpleData>
+            <SimpleData name="Cédula_1">5934553.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">CALLE 2000</SimpleData>
+            <SimpleData name="Teléfono">0984924385</SimpleData>
+            <SimpleData name="Vivienda_L">-24.55026820000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.42325100000</SimpleData>
+            <SimpleData name="Parcela_La">-24.55374419000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.42346085000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">315</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.4229666993436,-24.553331599768,0
+                -56.4230123993635,-24.5541631997069,0
+                -56.4239518991894,-24.5541088000116,0
+                -56.4239578990944,-24.5533862994156,0
+                -56.4229666993436,-24.553331599768,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.19">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">6336297.00000000000</SimpleData>
+            <SimpleData name="cedula">6336297</SimpleData>
+            <SimpleData name="Shape_Leng">422.25523748900</SimpleData>
+            <SimpleData name="Shape_Area">11011.36376120000</SimpleData>
+            <SimpleData name="N">398.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARIA PABLA MARECO GONZALEZ</SimpleData>
+            <SimpleData name="Cédula_1">6336297.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">CALLE 2000</SimpleData>
+            <SimpleData name="Teléfono">0976854321</SimpleData>
+            <SimpleData name="Vivienda_L">-24.55024920000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.42343440000</SimpleData>
+            <SimpleData name="Parcela_La">-24.55469478000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.42349276000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">398</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.4229934994114,-24.5542006994936,0
+                -56.4230594990962,-24.5552418993044,0
+                -56.4239668995367,-24.5552108997735,0
+                -56.4239445994491,-24.5541428997023,0
+                -56.4229934994114,-24.5542006994936,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.20">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">1826983.00000000000</SimpleData>
+            <SimpleData name="cedula">1826983</SimpleData>
+            <SimpleData name="Shape_Leng">399.94802767300</SimpleData>
+            <SimpleData name="Shape_Area">9007.51376432000</SimpleData>
+            <SimpleData name="N">142.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CELESTINO ORTIZ SOSTOA</SimpleData>
+            <SimpleData name="Cédula_1">1826983.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">SANTO DOMINGO 2</SimpleData>
+            <SimpleData name="Teléfono">0982905543</SimpleData>
+            <SimpleData name="Vivienda_L">-24.37857760000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.32533400000</SimpleData>
+            <SimpleData name="Parcela_La">-24.37656536000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.32358588000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">142</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.3230011000033,-24.3761657001901,0
+                -56.3235532995161,-24.3772249996375,0
+                -56.3241984994143,-24.3769396998258,0
+                -56.3235633006917,-24.375891699891,0
+                -56.3230011000033,-24.3761657001901,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.21">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">2978504.00000000000</SimpleData>
+            <SimpleData name="cedula">2978504</SimpleData>
+            <SimpleData name="Shape_Leng">432.63399627000</SimpleData>
+            <SimpleData name="Shape_Area">8401.91476124000</SimpleData>
+            <SimpleData name="N">150.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">JOSE DOMINGO ORTIZ MENDEZ</SimpleData>
+            <SimpleData name="Cédula_1">2978504.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">CALLE MARIA AUXILIADORA</SimpleData>
+            <SimpleData name="Teléfono">0995654344</SimpleData>
+            <SimpleData name="Vivienda_L">-24.41132000000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.43170550000</SimpleData>
+            <SimpleData name="Parcela_La">-24.41526090000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.43064072000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">150</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.4303190997854,-24.4159778004487,0
+                -56.4308106997322,-24.4160375001167,0
+                -56.4309668000048,-24.4145298995363,0
+                -56.4304608993001,-24.4145083995674,0
+                -56.4303190997854,-24.4159778004487,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.22">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">3479079.00000000000</SimpleData>
+            <SimpleData name="cedula">3479079</SimpleData>
+            <SimpleData name="Shape_Leng">378.53409985200</SimpleData>
+            <SimpleData name="Shape_Area">8935.49546538000</SimpleData>
+            <SimpleData name="N">155.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">IRENE ZEBALLO BARRIOS</SimpleData>
+            <SimpleData name="Cédula_1">3479079.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">CALLE MARIA AUXILIADORA</SimpleData>
+            <SimpleData name="Teléfono">0982411880</SimpleData>
+            <SimpleData name="Vivienda_L">-24.41131630000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.42980800000</SimpleData>
+            <SimpleData name="Parcela_La">-24.41608802000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.42938213000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">155</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.4288849995199,-24.4164950005173,0
+                -56.4298517001056,-24.4165050002145,0
+                -56.4298918000734,-24.4157199997218,0
+                -56.4289299995708,-24.415633299889,0
+                -56.4288849995199,-24.4164950005173,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.23">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">3557239.00000000000</SimpleData>
+            <SimpleData name="cedula">3557239</SimpleData>
+            <SimpleData name="Shape_Leng">559.41962538500</SimpleData>
+            <SimpleData name="Shape_Area">8829.69606988000</SimpleData>
+            <SimpleData name="N">156.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LILIAN OTILIA CABA?AS MALDONADO</SimpleData>
+            <SimpleData name="Cédula_1">3557239.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">ASENT. BARRIO SAN PEDRO 1</SimpleData>
+            <SimpleData name="Teléfono">0973692453</SimpleData>
+            <SimpleData name="Vivienda_L">-24.40961300000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.41217230000</SimpleData>
+            <SimpleData name="Parcela_La">-24.40316682000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.38060186000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">2.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">156</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.3803001999209,-24.4039846001578,0
+                  -56.3807716997,-24.4040220000409,0
+                  -56.3808692005479,-24.4028257004079,0
+                  -56.38039500026,-24.4028230004559,0
+                  -56.3803001999209,-24.4039846001578,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -56.3803917994051,-24.4023491002853,0
+                  -56.3803878007195,-24.402793699131,0
+                  -56.3808358000247,-24.4027856005344,0
+                  -56.380864599814,-24.4027556995147,0
+                  -56.3809264990899,-24.4023243001959,0
+                  -56.3803917994051,-24.4023491002853,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.24">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">4684009.00000000000</SimpleData>
+            <SimpleData name="cedula">4684009</SimpleData>
+            <SimpleData name="Shape_Leng">458.01796624500</SimpleData>
+            <SimpleData name="Shape_Area">9276.65804947000</SimpleData>
+            <SimpleData name="N">441.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CAROLINA MARTINEZ TOLEDO</SimpleData>
+            <SimpleData name="Cédula_1">4684009.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">8 DE DICIEMBRE</SimpleData>
+            <SimpleData name="Teléfono">0986984816</SimpleData>
+            <SimpleData name="Vivienda_L">-24.39517010000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.31949900000</SimpleData>
+            <SimpleData name="Parcela_La">-24.39326305000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.31777652000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">441</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.3171526005055,-24.3926242997069,0
+                -56.3179261997546,-24.3940881999368,0
+                -56.3183835002107,-24.393879099872,0
+                -56.3176591000195,-24.3924734999003,0
+                -56.3171526005055,-24.3926242997069,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.25">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">4694336.00000000000</SimpleData>
+            <SimpleData name="cedula">4694336</SimpleData>
+            <SimpleData name="Shape_Leng">674.09634065600</SimpleData>
+            <SimpleData name="Shape_Area">9130.33307518000</SimpleData>
+            <SimpleData name="N">442.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CRISTINA ALFONZO DE DELGADILLO</SimpleData>
+            <SimpleData name="Cédula_1">4694336.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">ALMEIDA CUE</SimpleData>
+            <SimpleData name="Teléfono">0986613685</SimpleData>
+            <SimpleData name="Vivienda_L">-24.44781380000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.40405310000</SimpleData>
+            <SimpleData name="Parcela_La">-24.44946555000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.40301271000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">442</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.4021831001168,-24.4505876001027,0
+                -56.402434199685,-24.4507517995535,0
+                -56.4038752003292,-24.4482597997203,0
+                -56.4035950994352,-24.4481931993544,0
+                -56.4021831001168,-24.4505876001027,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.26">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">5569212.00000000000</SimpleData>
+            <SimpleData name="cedula">5569212</SimpleData>
+            <SimpleData name="Shape_Leng">748.19060523900</SimpleData>
+            <SimpleData name="Shape_Area">8350.81987342000</SimpleData>
+            <SimpleData name="N">296.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MERCEDES ALVAREZ ALVAREZ</SimpleData>
+            <SimpleData name="Cédula_1">5569212.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">SAN JOSE 1</SimpleData>
+            <SimpleData name="Teléfono">0971375231</SimpleData>
+            <SimpleData name="Vivienda_L">-24.38929880000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.36896730000</SimpleData>
+            <SimpleData name="Parcela_La">-24.39573625000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.36750157000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">296</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.3671565005686,-24.3972776001059,0
+                -56.3673969002055,-24.3972889995878,0
+                -56.3678311997142,-24.3943027995496,0
+                -56.3677763000727,-24.3942878997182,0
+                -56.3677747992951,-24.3941546993428,0
+                -56.3676214003988,-24.3941138997265,0
+                -56.3671565005686,-24.3972776001059,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.27">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">2652782.00000000000</SimpleData>
+            <SimpleData name="cedula">2652782</SimpleData>
+            <SimpleData name="Shape_Leng">490.30740255200</SimpleData>
+            <SimpleData name="Shape_Area">10220.62029160000</SimpleData>
+            <SimpleData name="N">147.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">FELICIANO DIAZ</SimpleData>
+            <SimpleData name="Cédula_1">2652782.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">SAN MARCOS</SimpleData>
+            <SimpleData name="Teléfono">0982776396</SimpleData>
+            <SimpleData name="Vivienda_L">-24.46516340000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.43013630000</SimpleData>
+            <SimpleData name="Parcela_La">-24.46538479000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.43250347000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">147</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.432036899868,-24.4653739998294,0
+                -56.432428596455,-24.4653980082663,0
+                -56.4319924999749,-24.4653835002371,0
+                -56.4320032997921,-24.465816600288,0
+                -56.4330211998168,-24.4658779000196,0
+                -56.4329905006718,-24.465416700776,0
+                -56.4329774995292,-24.4654162681665,0
+                -56.4329518993653,-24.4649226001089,0
+                -56.4320350000077,-24.4648800007604,0
+                -56.432036899868,-24.4653739998294,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.28">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">4762172.00000000000</SimpleData>
+            <SimpleData name="cedula">4762172</SimpleData>
+            <SimpleData name="Shape_Leng">364.71439939900</SimpleData>
+            <SimpleData name="Shape_Area">7966.79418764000</SimpleData>
+            <SimpleData name="N">199.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">VICTOR GUSTAVO CARDOZO BENITEZ</SimpleData>
+            <SimpleData name="Cédula_1">4762172.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">CALLE ASUNCION</SimpleData>
+            <SimpleData name="Teléfono">0986126948</SimpleData>
+            <SimpleData name="Vivienda_L">-24.43009140000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.43677480000</SimpleData>
+            <SimpleData name="Parcela_La">-24.43497907000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.43672266000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">199</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.4363649999903,-24.4354266996586,0
+                -56.4370467001103,-24.4355282997434,0
+                -56.4371125771879,-24.4345184917264,0
+                -56.4363486005778,-24.4344774992338,0
+                -56.4363649999903,-24.4354266996586,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.29">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">5426656.00000000000</SimpleData>
+            <SimpleData name="cedula">5426656</SimpleData>
+            <SimpleData name="Shape_Leng">403.55339151500</SimpleData>
+            <SimpleData name="Shape_Area">9039.38493044000</SimpleData>
+            <SimpleData name="N">429.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">DANI AGUSTIN ORTIZ GAVILAN</SimpleData>
+            <SimpleData name="Cédula_1">5426656.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">PLANCHADA EVA</SimpleData>
+            <SimpleData name="Teléfono">0982491461</SimpleData>
+            <SimpleData name="Vivienda_L">-24.35330310000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.38176290000</SimpleData>
+            <SimpleData name="Parcela_La">-24.34639591000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.38686108000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">429</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.3866366571847,-24.3459456913755,0
+                -56.3862399001461,-24.3461810993624,0
+                -56.3861679092592,-24.3460870950676,0
+                -56.3861489998621,-24.3460927996349,0
+                -56.3867458002888,-24.3469582000344,0
+                -56.3875273003386,-24.3466393994985,0
+                -56.3869774004364,-24.3458428999216,0
+                -56.3866366571847,-24.3459456913755,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.30">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">6851701.00000000000</SimpleData>
+            <SimpleData name="cedula">6851701</SimpleData>
+            <SimpleData name="Shape_Leng">483.08816926800</SimpleData>
+            <SimpleData name="Shape_Area">9008.82473307000</SimpleData>
+            <SimpleData name="N">428.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CLAUDELINA ARMOA SANCHEZ</SimpleData>
+            <SimpleData name="Cédula_1">6851701.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">SANTO DOMINGO</SimpleData>
+            <SimpleData name="Teléfono">0991566470</SimpleData>
+            <SimpleData name="Vivienda_L">-24.50315870000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.42634510000</SimpleData>
+            <SimpleData name="Parcela_La">-24.50275151000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.42187896000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">428</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.4209238995022,-24.5029097999779,0
+                -56.4228492993962,-24.5030113999443,0
+                -56.4228532000394,-24.5026075997893,0
+                -56.420930400156,-24.5024794991962,0
+                -56.4209238995022,-24.5029097999779,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_GUAYAIBI.31">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_GUAYAIBI.schema">
+            <SimpleData name="Cédula">6180474.00000000000</SimpleData>
+            <SimpleData name="cedula">6180474</SimpleData>
+            <SimpleData name="Shape_Leng">490.99137536200</SimpleData>
+            <SimpleData name="Shape_Area">10709.50865130000</SimpleData>
+            <SimpleData name="N">383.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CORNELIO BENITEZ ORTIGOZA</SimpleData>
+            <SimpleData name="Cédula_1">6180474.00000000000</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">GUAYAIBI</SimpleData>
+            <SimpleData name="Localidad">CHACHI</SimpleData>
+            <SimpleData name="Vivienda_L">-24.49600800000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.48602310000</SimpleData>
+            <SimpleData name="Parcela_La">-24.49835581000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.48593217000</SimpleData>
+            <SimpleData name="Grupo_de_p">I-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">383</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.4856927998556,-24.497472700275,0
+                -56.4856159996493,-24.4992169999307,0
+                -56.486178699892,-24.4991950998805,0
+                -56.4862507996344,-24.4975379003793,0
+                -56.4856927998556,-24.497472700275,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_HORQUETA.schema">
+      <SimpleField name="Cédula" type="double"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="Shape_Leng" type="double"/>
+      <SimpleField name="Shape_Area" type="double"/>
+      <SimpleField name="N" type="double"/>
+      <SimpleField name="Nombres_y_" type="string"/>
+      <SimpleField name="Cédula_1" type="double"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio_de_" type="string"/>
+      <SimpleField name="Titular_se" type="string"/>
+      <SimpleField name="Cédula_Ti" type="string"/>
+      <SimpleField name="Situación" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="Teléfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="double"/>
+      <SimpleField name="Vivienda_1" type="double"/>
+      <SimpleField name="Parcela_La" type="double"/>
+      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Grupo_de_p" type="string"/>
+      <SimpleField name="Estado_del" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Etapa_de_i" type="string"/>
+      <SimpleField name="Cantidad_d" type="double"/>
+      <SimpleField name="F25" type="string"/>
+      <SimpleField name="OBJECTID_1" type="int"/>
+    </Schema>
+    <Document id="Distrito_HORQUETA">
+      <name>Distrito_HORQUETA</name>
+      <Placemark id="Distrito_HORQUETA.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_HORQUETA.schema">
+            <SimpleData name="Cédula">6974841.00000000000</SimpleData>
+            <SimpleData name="cedula">6974841</SimpleData>
+            <SimpleData name="Shape_Leng">489.77250690300</SimpleData>
+            <SimpleData name="Shape_Area">9467.81851440000</SimpleData>
+            <SimpleData name="N">408.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">FRANCISCA ARCE</SimpleData>
+            <SimpleData name="Cédula_1">6974841.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">HORQUETA</SimpleData>
+            <SimpleData name="Localidad">PASO IT?</SimpleData>
+            <SimpleData name="Teléfono">0976456362</SimpleData>
+            <SimpleData name="Vivienda_L">-23.40241270000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.85336500000</SimpleData>
+            <SimpleData name="Parcela_La">-23.40392044000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.85275824000</SimpleData>
+            <SimpleData name="Grupo_de_p">J-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">408</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.8533053197936,-23.4045750087419,0
+                -56.8532967004537,-23.4045783003925,0
+                -56.8526249245299,-23.4030097979747,0
+                -56.8522016996239,-23.4031543999803,0
+                -56.8528733007504,-23.4048400001005,0
+                -56.8533233000076,-23.4046167000932,0
+                -56.8533053197936,-23.4045750087419,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_HORQUETA.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_HORQUETA.schema">
+            <SimpleData name="Cédula">6614948.00000000000</SimpleData>
+            <SimpleData name="cedula">6614948</SimpleData>
+            <SimpleData name="Shape_Leng">376.27151011400</SimpleData>
+            <SimpleData name="Shape_Area">8520.47929229000</SimpleData>
+            <SimpleData name="N">514.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CAROLINA MENDOZA GARCETE</SimpleData>
+            <SimpleData name="Cédula_1">6614948.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">HORQUETA</SimpleData>
+            <SimpleData name="Localidad">PASO IT?</SimpleData>
+            <SimpleData name="Teléfono">975584725</SimpleData>
+            <SimpleData name="Vivienda_L">-23.40780640000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.85559570000</SimpleData>
+            <SimpleData name="Parcela_La">-23.40920239000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.86065962000</SimpleData>
+            <SimpleData name="Grupo_de_p">J-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">514</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.8601435999214,-23.4088132998834,0
+                -56.8604835003824,-23.4098477998371,0
+                -56.8611609998693,-23.409491900399,0
+                -56.8609032003608,-23.4086468997398,0
+                -56.8601435999214,-23.4088132998834,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_HORQUETA.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_HORQUETA.schema">
+            <SimpleData name="Cédula">6618281.00000000000</SimpleData>
+            <SimpleData name="cedula">6618281</SimpleData>
+            <SimpleData name="Shape_Leng">426.75764771000</SimpleData>
+            <SimpleData name="Shape_Area">8132.66330047000</SimpleData>
+            <SimpleData name="N">515.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CARMEN  ARCE GARCETE</SimpleData>
+            <SimpleData name="Cédula_1">6618281.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">HORQUETA</SimpleData>
+            <SimpleData name="Localidad">PASO IT?</SimpleData>
+            <SimpleData name="Teléfono">976847353</SimpleData>
+            <SimpleData name="Vivienda_L">-23.40911910000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.85546730000</SimpleData>
+            <SimpleData name="Parcela_La">-23.40920500000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.85523670000</SimpleData>
+            <SimpleData name="Grupo_de_p">J-GN-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Etapa_de_i">Plantaci?n</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">515</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.8543529000563,-23.405809999532,0
+                -56.8544422996817,-23.4059879996418,0
+                -56.854571600044,-23.4059650001543,0
+                -56.8546736002648,-23.4060524997784,0
+                -56.8549272996647,-23.4059308998144,0
+                -56.8551676007238,-23.4059999999334,0
+                -56.8552666003529,-23.4061353999909,0
+                -56.8560292997351,-23.4057881999711,0
+                -56.8557600002887,-23.4052832005716,0
+                -56.8543529000563,-23.405809999532,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_HORQUETA.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_HORQUETA.schema">
+            <SimpleData name="Cédula">8468813.00000000000</SimpleData>
+            <SimpleData name="cedula">8468813</SimpleData>
+            <SimpleData name="Shape_Leng">436.69351392900</SimpleData>
+            <SimpleData name="Shape_Area">10382.42938940000</SimpleData>
+            <SimpleData name="N">409.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARIA ELIZABETH BARRETO GARCETE</SimpleData>
+            <SimpleData name="Cédula_1">8468813.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 3</SimpleData>
+            <SimpleData name="Departamen">CONCEPCION</SimpleData>
+            <SimpleData name="Distrito">HORQUETA</SimpleData>
+            <SimpleData name="Localidad">TAKUAPU POR?</SimpleData>
+            <SimpleData name="Teléfono">0987307747</SimpleData>
+            <SimpleData name="Vivienda_L">-23.20619920000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.92191340000</SimpleData>
+            <SimpleData name="Parcela_La">-23.20357860000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.92481550000</SimpleData>
+            <SimpleData name="Grupo_de_p">J-GN-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">J</SimpleData>
+            <SimpleData name="Etapa_de_i">0</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">409</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.9277828082029,-23.2014739735331,0
+                -56.9278832987253,-23.2015217005315,0
+                -56.9278751938806,-23.2015300642803,0
+                -56.9280475858704,-23.2016347306416,0
+                -56.9286823555238,-23.2010328576109,0
+                -56.9288441999768,-23.2008793996988,0
+                -56.9288445839338,-23.2008795832467,0
+                -56.928959830371,-23.2007706974894,0
+                -56.928535732202,-23.200349825093,0
+                -56.927361700554,-23.2012183005748,0
+                -56.9277828082029,-23.2014739735331,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>
